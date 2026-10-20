@@ -1,0 +1,155 @@
+
+=== PAGE 1 ===
+ 
+Prozessdokumentation 
+Für die Nutzung von Künstlicher Intelligenz (KI) in Prüfungs-, Transfer- und 
+Studienleistungen 
+Bitte mit Gutachter:innen absprechen, in welcher Detailtiefe die Nutzung von KI nachgewiesen werden muss (ausgenommen sind Transferleistungen. Bei 
+Rückfragen bitte an transferleistungen@nordakademie.de) 
+ 
+Anfrage an folgende KI* (inkl. 
+Abrufdatum) 
+Grund für die Verwendung der KI 
+Bewertung der Qualität des KI- 
+Outputs 
+Verwendete Software und 
+Versionsnummer 
+„Gib mir eine Auswahl an Themen für 
+eine Hausarbeit im Zusammenhang mit 
+Datenbanken.“ 19.02.2025; vgl. S. 5 
+ 
+Themenfindung 
+Hilfreicher Input; einige Titel haben 
+keinen Sinn ergeben. Je mehr ich 
+spezifiziert habe, desto besser wurde 
+das Ergebnis. 
+ChatGPT 4.0 
+„Erkläre die Vorteile von erneuerbaren 
+Energien.“ 19.02.2025; vgl. S. 5 
+ 
+Ideengeber, Impulse 
+Wichtige Stichworte erhalten, sehr 
+allgemein; Prompt spezifiziert: „Du bist 
+Umweltexperte. Gib mir eine Liste von 
+fünf Vorteilen erneuerbarer Energien in 
+Stichpunkten“ 19.02.2025; vgl. S. 5 
+ChatGPT 4.0  
+„Erstelle mir eine Gliederung für eine 
+Hausarbeit zum Thema erneuerbare 
+Energien.“ 19.02.2025; vgl. S. 5 
+Impulse, erstes Konzept, Hauptsache 
+etwas auf Papier 
+Wesentliche Bestandteile genannt 
+(Einleitung, Grundlagen, 
+Herausforderungen, kritische Reflexion, 
+Fazit, Literaturverzeichnis, ggfs. 
+Anhang); hilfreicher Einstieg, 
+Grundgerüst und wichtige Stichpunkte 
+genannt; es fehlt aber an 
+Konkretisierung, insbesondere zu 
+Themen aus der Praxis  
+ChatGPT 4.0  
+"Analysiere die Vor- und Nachteile von 
+monolithischen und Microservices-
+Architekturen in der modernen 
+Softwareentwicklung. Berücksichtige 
+dabei Aspekte wie Skalierbarkeit, 
+Wartbarkeit, Performance und 
+Sicherheit. Nutze aktuelle 
+Forschungsergebnisse und praktische 
+Anwendungsfälle, um deine 
+Argumentation zu untermauern.“ 
+19.02.2025; vgl. S. 5 
+Überblick Thema, wichtige Stichpunkte Stichpunkte erfahren; Definition; Vor- 
+und Nachteile; es bleibt bei 
+Allgemeinplätzen; verwendet habe ich 
+Verweise auf Best Practices (vgl. S. 10); 
+Forschungsergebnisse waren nicht 
+aktuell 
+Microsoft Copilot 
+
+
+=== PAGE 2 ===
+„Beschreibe das Vorgehen eines 
+Experteninterviews.“ 19.02.2025; vgl. S. 
+5 
+Einstiegs-; Planungshilfe 
+Schritte für Struktur; erster Überblick; 
+ersetzt aber nicht Grundlagenliteratur 
+zu empirischer Forschung; bleibt bei 
+Allgemeinplätzen 
+ChatGPT 4.0.  
+„Definiere, was ein BPMN-Modell ist.“ 
+19.02.2025; vgl. S. 5 
+Überblick; Einstiegshilfe 
+Grundgerüst übernommen, wie ich 
+Textabschnitt gliedern kann (vgl. S. 8) 
+ChatGPT 4.0  
+„Erstelle mir eine Formel für die 
+Stichprobenberechnung.“ 
+19.02.2025; vgl. S. 5 
+Erklärung; Herleitung der Formel 
+Hilfreich, um zu verstehen, wie ich die 
+Formel herleiten kann. Aber Achtung: 
+Zum Teil fehlerhaft; Beispiel verifiziert 
+in Literatur und im Ansatz genutzt vgl. 
+S. 7 
+ChatGPT 4.0 
+„Du bist Marktforscher. Welche 
+Bedeutung hat die Farbe Türkis auf 
+Verpackungen?“ 19.02.2025; vgl. S. 5 
+In der Literatur nichts Passgenaues 
+gefunden 
+Allgemeinplätze, auf Beispiele konnte 
+ich referenzieren (vgl. S. 15) 
+ChatGPT 4.0 
+„Du bist Software Engineer. Erkläre, 
+was eine Parser-Bibliothek ist.“ 
+19.02.2025; vgl. S. 5 
+In Literatur komplex dargestellt 
+Erkenntnisse daraus habe ich mit der 
+Literatur abgeglichen, verwendet und 
+gekennzeichnet (vgl. S. 7) 
+ChatGPT 4.0 
+„Welche Methode eignet sich, um 
+Softwaretests im Unternehmen 
+durchzuführen?“ 19.02.2025; vgl. S. 5 
+Es fehlten Beispiele aus der Praxis 
+Genannte Beispiele haben mir 
+geholfen, um einen Ansatz zu finden 
+und darauf aufzubauen (vgl. S. 6). 
+Hinweis Kosteneffizienz war hilfreich 
+(vgl. S. 6); Quellen nicht zitierwürdig, 
+u.a. wikipedia 
+Perplexity ai 
+„Schreibe folgenden Absatz um. Ziel ist 
+es, wissenschaftlich und präzise zu 
+formulieren.“ 19.02.2025; vgl. S. 5 und 
+8-9 
+Formulierungshilfe, da Sätze oft 
+langatmig sind und Redundanzen 
+enthalten. U.a. habe ich 
+Schwierigkeiten mit der 
+Kommasetzung. 
+Präziser formuliert; fehlerfrei (vgl. S. 5, 
+7-8, 10, 13) 
+DeepL Write 
+GitHub Copilot für Code (durchgängig 
+genutzt) 19.02.2025 
+Korrekturassistent; vervollständigt den 
+Code automatisch; Zeitersparnis; 
+Qualitätssicherung (keine Typos) 
+Gegengeprüft, ob richtig 
+vervollständigt wurde. Hilfreiches Tool 
+zur Vermeidung von Typos 
+GitHub Copilot 
+„Übersetze diesen Code von Java zu 
+Python.“ 
+19.02.2025; vgl. S. 5 
+Sicherer in Python; liegt alles in Java 
+vor 
+zur Verifizierung 
+ChatGPT 4.0 
+ 
+*Bitte formulieren Sie Ihre Anfrage und nennen Sie die verwendete KI.  
+Nach Dr. Ulrike Hanke Hochschuldidaktische Weiterbildungen - Hanke Teachertraining (hanke-teachertraining.de) 

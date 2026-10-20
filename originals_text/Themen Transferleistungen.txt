@@ -1,0 +1,96 @@
+=== SHEET Themen TL (247x5) ===
+Studiengang | Thema | Modul |  | 
+BWL |  |  |  | 
+ | Unterstützung einer Marketing-Kampagne bei BPN durch SEA mit Google AdWords | Grundlagen des Marketing ( B131 ) |  | 
+ | Maßnahmen zur Ergänzung des Onboarding-Prozesses | Personalmanagement (B165) |  | 
+ | Influencer Marketing als Teil einer erfolgreichen Kampagne am Praxisbeispiel der Bauer Media Group | Grundlagen des Marketing ( B163 ) |  | 
+ | IST-Analyse des bestehenden Kennzahlensystems am Beispiel von XY | Controlling (B166) |  | 
+ | Durchführung einer ABC-Analyse zur Klassifizierung von Materialien nach ihrer Wertigkeit für das Projekt XY | ABWL |  | 
+ | Strukturanalyse der Zeitschriftenbranche in Deutschland als Grundlage für eine Überprüfung der Wettbewerbsstrategie der Media Group | Marketing (B163) |  | 
+ | Vorschlag der Implementierung eines Wissensmanagementsystems | ABWL |  | 
+ | Möglichkeiten des Influencer-Marketings in Bezug auf Website bei Unternehmen XY | Grundlagen des Marketing ( B131 ) |  | 
+ | KI im Recruiting-Prozess | Digitalisierung und Management ( B167 ) |  | 
+ | Digitalisierung im Vertrieb - Beitrag zur Erstellung eines Webshops für die Produkte des Unternehmens XY | Digitalisierung und Management ( B167 ) |  | 
+ | Der Omnichannel als Vertriebsstrategie zur Steigerung der Kundenloyalität | Digitalisierung und Management ( B167 ) |  | 
+ | Beitrag zur Überprüfung und Neuentwicklung der Marktpositionierung sowie Strategiekonzeptionierung von XY mithilfe der SWOT-Analyse | Grundlagen des Marketing ( B163 ) |  | 
+ | Analyse und Bewertung einer Produktneueinführung im Rahmen einer SWOT-Analyse am Beispiel XY | ABWL |  | 
+ | Die Wahl des Vertriebsweges bei der Beispiel AG am Beispiel des Verkaufsbüros Leipzig | Grundlagen des Marketing ( B163 ) |  | 
+ | Predictive Sales - Können Kundenbedürfnisse und deren Zeitpunkte vorausgesagt werden? | Grundlagen des Marketing ( B163 ) |  | 
+ | SWOT-Analyse der Anzeigenvermarktung der Media Group im deutschen Werbemarkt | Grundlagen des Marketing ( B131 ) |  | 
+ | Customer Relationship Management | Grundlagen des Marketing ( B131 ) |  | 
+ | Verkauf auf Amazon in Europa – Optionen und deren umsatzsteuerlichen Folgen am Beispiel der Seller Central Accounts der Beispielgruppe | Grundlagen der Steuerlehre ( B164 ) |  | 
+ | Stakeholderanalyse und Interviewumfragen zum Auffinden von Optimierungsmöglichkeiten in Transitionsprojekten | Logistik/Operations Management (B169) |  | 
+ | Umfrage zu Mitarbeiterzufriedenheit und -motivation in der Getreideabteilung der Hauptgenossenschaft Nord | Personalmanagement (B165) |  | 
+ | Die Tranchenbeschaffung als Alternative zur Fixpreisbeschaffung im Energievertrieb - Für welche Kundengruppe ist welche Beschaffungsstrategie sinnvoll? | Grundlagen des Marketing ( B131 ) |  | 
+ | Standortwahl für Unternehmen - die Stadt Bremen als ein vorteilhafter Standort für einen modernen Industriebetrieb? | Grundlagen des Marketing ( B131 ) |  | 
+ | Eine europaweite Umfrage zur Wahrnehmung der Servicequalität, im Bereich elektrochirurgischer Generatoren des Geschäftsbereichs Surgical Energy. | Grundlagen des Marketing ( B131 ) |  | 
+ | Social Media Recruiting über XING, LinkedIn, Facebook und Instagram am Beispiel der  Media Group | Personalmanagement (B165) |  | 
+ | Code of Conduct - Untersuchung der Implementierung einer neuen Leitlinie am Beispiel der XY | Digitalisierung und Management ( B167 ) |  | 
+ | Content Marketing - Handlungsempfehlung für eine optimierte Gestaltung des Content Marketings bei XY | Marketing |  | 
+ | Agiles Projektmanagement in Zusammenarbeit mit einem räumlich getrennten, externen Dienstleister | Projektmanagement |  | 
+ | Gegenüberstellung und Bewertung vom Einsatz des klassischen Projektmanagements (bspw. Quality Gate Prozess) und agiles Projektmanagement als Hilfsmittel zur Durchführung von Produktentwicklungsprojekten bei der | Projektmanagement |  | 
+ | Validierung eines Datenmodells für Modell Based Systems Engineering | Grundlagen der DV im Unternehmen ( W160 ) |  | 
+ | Nachhaltigkeit - Welchen Beitrag leistet das Unternehmen XY für das Erreichen der sustainable development goals der Vereinten Nationen | Strategic and International Management ( B168 ) |  | 
+ | Analyse und Bewertung von Verpackungsmaterialien der Faltschachteln für Teeprodukte unter dem Nachhaltigkeitsaspekt im Rahmen von CSR am Beispiel des Unternehmens XY | Einführung in die Betriebswirtschaftslehre ( B101 ) |  | 
+ | Nachhaltigkeitsanalyse der Planungsmethode Business Model Canvas und Verbesserung dessen am Beispiel des internen Projektes X | IT-Organisation und Projektmanagement ( I162 ) |  | 
+ | Nachhaltigkeit als normativer Rahmen für Unternehmen im Mittelstand | Allgemeine Betriebswirtschaftslehre ( I169 ) |  | 
+ | Potenzielle CSR-Instrumente zur Förderung unternehmerischer und gesellschaftlicher Ziele in der Outdoor-Branche – Nachhaltigkeitsgedanke und aktuelle Entwicklungen in der Outdoor-Branche  | Einführung in die Betriebswirtschaftslehre ( B101 ) |  | 
+ | Verbesserungsansätze zur Weiterentwicklung des Kennzahlensystems zum Management von Nachhaltigkeit bei  GmbH | Allgemeine Betriebswirtschaftslehre ( W114 ) |  | 
+ | Ökologische Nachhaltigkeit: Welchen Beitrag leistet die Computer GmbH zum Klimaschutz und wie kann dieser noch vergrößert werden? | Einführung in die Betriebswirtschaftslehre ( B101 ) |  | 
+ | Soziale Nachhaltigkeit im Unternehmen- Wie kann die XY  GmbH zu der Erreichung der Ziele der UN beitragen? | Wahlpflichtmodul 2 ( W124 ) |  | 
+ | Nachhaltigkeitsmanagement - Wie gelingt es Nachhaltigkeit in die Unternehmenskultur  zu integrieren? | Personalmanagement ( B152 ) |  | 
+ | Die Bedeutung von Marktsegmentierung in Zusammenhang mit Buyer Personas bei XY | Personalmanagement (B152) |  | 
+ | Strategien zur Mitarbeitermotivation und ihre Bedeutung für Unternehmen – am Beispiel … | Personalmanagement ( B152 ) |  | 
+ | Analyse der Relevanz, Initiativen und Optimierungspotenziale des Themas Nachhaltigkeit im Unternehmen | Strategic and International Management ( B168 ) |  | 
+Informatik |  |  |  | 
+ | Vergleich von Visualisierungstools zur automatisierten Darstellung von Datenmodellen | Datenbanksysteme ( I110 ) |  | 
+ | Konzeption eines modernen, zentralisierten Testdatenverwaltungsystems | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | Entwicklung eines Build-Tool gestützten Code Generators für Web-APIs auf Basis von Java-Annotationen | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | Untersuchung von Schema Evolution verschiedener Datenbanktypen für Business Process Management Systeme | Datenbanksysteme ( I110 ) |  | 
+ | Vergleich der Entwurfsmuster Model-View-ViewModel und Model-View-Controller anhand eines Text-Editors | Softwarequalität ( A104 ) |  | 
+ | Automatisierte Erstellung eines Entwurfsmuster-Datensatzes auf Basis von bestehenden Entwurfsmustererkennungstools zur Verwendung in maschinellen Lernverfahren | Algorithmen & Datenstrukturen ( I107 ) |  | 
+ | Evaluation von ausgewählten CSS-Präprozessoren in einer ZK-basierten Web-Anwendung | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | MAKE GIT HAPPEN - Konzeption eines Git-Workflows für den Entwicklungsprozess einer Java-basierten Webanwendung | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | Cucumber-To-TestLink-Tool - Eine Integration des Cucumber Frameworks für das Testmanagementtool TestLink | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | Evaluierung von Business Messengern im Kontext eines mittelständigen Softwareunternehmens | IT-Organisation und Projektmanagement ( I162 ) |  | 
+ | Entwicklung eines Autocompletion-Features für die Typesetting Engine Scriber | Praxis der Softwareentwicklung ( I143 ) |  | 
+ | ISONORM:2020 eine Weiterentwicklung von ISONORM 9241/110 basierend auf ISO 9241-110:2020 | Softwarequalität ( A104 ) |  | 
+ | Evaluation der Firmen-Webseite zur Ermittlung des Verbesserungspotenzial der Usability | Usability Engineering (A113) |  | 
+ | Auswirkung durch den Einsatz von Docker-Containern im Systemtest von Travic-Corporate | IT-Organisation und Projektmanagement ( I162 ) |  | 
+ | Auswirkungen der MX-Migration auf TRAVIC-Port | Betriebliche Anwendungssysteme ( I172 ) |  | 
+ | Vorteile eines strukturierten Verwendungszwecks im Zahlungsverkehr | Betriebliche Anwendungssysteme ( I172 ) |  | 
+ | Heuristische Evaluation des Prototyps einer Eingabemaske | Wahlpflichtmodul 1 ( I159 ) |  | 
+ | Prognose des Mehrwertes der Einführung des Werkzeugs "Cucumber" in einer Testabteilung des TPH-Projektes der Beispiel AG | Softwarequalität ( A104 ) |  | 
+ | Analyse des Refactorings einer bestehenden Architektur zur Realisierung von Filtern in Listen durch die Anwendung des Strategieentwurfsmusters mit Java Enums in einem intern benutzten webbasierten Oberflächen-Framework in der AG | Softwarequalität ( A104 ) |  | 
+ | Analyse des Refactorings einer bestehenden Architektur zur Realisierung von Filtern in Listen durch die Anwendung des Builder-Entwurfsmusters und einem Top-Down-Ansatz in einem intern benutzten webbasierten Oberflächen-Framework in der AG | Softwarequalität ( A104 ) |  | 
+ | Untersuchung von -online.de aus der Perspektive der Webentwicklung für mobile Endgeräte | Usability Engineering (A113) |  | 
+ | Erstellung einer internen Richtlinie zur Entwicklung von barrierefreien Apps in der BGW | Usability Engineering (A113) |  | 
+ | Standards des User Interface Design und deren Umsetzung im ERP-System | Usability Engineering (A113) |  | 
+ | Untersuchung des Reifegrades der CI/CD-Infrastruktur des Unternehmens XY mithilfe des SLSA Frameworks | IT-Sicherheit (A106) |  | 
+ | Prozessautomatisierung durch Künstliche Intelligenz | IT-Organisation und Projektmanagement ( I162 ) |  | 
+ | Prüfung der Passwortrichtlinien auf Sicherheit und Userakzeptanz am Beispiel des SAP Bereichs der Provinzial. | IT-Sicherheit (A106) |  | 
+Wirtschafts-ingenieurwesen |  |  |  | 
+ | Bauteilauswahl für eine Studie zur additiven Fertigung in der Automobilindustrie | Wirtschaftlich fertigen (W155) |  | 
+ | Die Ausarbeitung der effektivsten Potenziale zur Kostensenkung im metallpulverbettbasierten additiven Fertigungsprozess | Wirtschaftlich fertigen (W155) |  | 
+ | Nachhaltige Fehlerkorrektur im Rahmen der Corrective and Preventive Action - ein Beispiel anhand der company | Wirtschaftlich fertigen (W155) |  | 
+ | Analyse der Möglichkeiten zur Kostenreduktion bei der Herstellung von POM-Zahnkränzen für Stabgeflechtbänder | Wirtschaftlich fertigen (W155) |  | 
+ | Die Potenzialanalyse einer neuartigen Strategie für die Erstellung von Stützstrukturen ("e-Stage") in der metallbasierten additiven Fertigung | Wirtschaftlich fertigen (W155) |  | 
+ | Erarbeitung eines Konzepts zur Verhinderung von Arbeitsunfällen bei der Montage von Ruderblättern am Beispiel eines aufgetretenen Betriebsunfalls. | Wirtschaftlich fertigen (W155) |  | 
+ | Verifizierung langer Durchlaufzeiten für Ersatzteile - als Reaktion auf die Ergebnisse der Kundenzufriedenheitsanalyse | Logistik/Prozessmanagement ( W168 ) |  | 
+ | Analyse der Materialbedarfsplanung in der Werksinstandsetzung bei der Firma Rheinmetall Landsysteme GmbH | Logistik/Prozessmanagement ( W168 ) |  | 
+ | Robotergesteuerte Prozessautomatisierung bei HanseWerk | Logistik/Prozessmanagement ( W168 ) |  | 
+ | Blockchain verhindert Greenwashing in der Handelslogistik: Lieferkettentransparenz im Lebensmittelhandel | Logistik/Prozessmanagement ( W168 ) |  | 
+ | Bestimmung eines optimalen Zentralisierungsgrades für die Einkaufsstrategie | Logistik/Prozessmanagement ( W168 ) |  | 
+ | Dynamic Pricing in der Logistik - Die Preiskalkulation der Zukunft? | Kosten- und Leistungsrechnung ( W137 ) |  | 
+ | Analyse der Kostenzuordnung auf die Kostenstellen der TM Recycling GmbH | Kosten- und Leistungsrechnung ( W137 ) |  | 
+ | Ist-Analyse der Kalkulation für im Pultrusionsverfahren hergestellte Profile am Beispiel der | Kosten- und Leistungsrechnung ( W137 ) |  | 
+ | Durchführen einer ABC-Analyse zur Ermittlung der Wettbewerbsfähigkeit des Portfolios der Produktgruppe Bipolar Discretes bei dem Kunden | Industriegütermarketing ( W159 ) |  | 
+ | Potenzialanalyse von Augmented Reality Workflows im Aftersales | Industriegütermarketing ( W159 ) |  | 
+ | Erstellung einer Übersicht der Value Selling Schulungen, Prozesse, Tools und Kennzahlen bei XYs sowie Konzipierung einer gegenwärtigen Bedarfsanalyse. | Industriegütermarketing ( W159 ) |  | 
+ | Optimierung der Produktperformance-Analyse durch die Entwicklung eines Dashboards zur Visualisierung von Produktperformancedaten | Controlling / Investition und Finanzierung ( W118 ) |  | 
+ | Einführung eines Kennzahlen-Dashboards in der Abteilung XY-Order-Management im Unternehmen XY GmbH & Co. KG | Controlling / Investition und Finanzierung ( W118 ) |  | 
+ | Analyse der Anforderungen von Klassifikationsgesellschaften an die Spannungsqualität  | Elektrotechnik  (W152) |  | 
+ | Formen von Künstlichen Intelligenzen und ihr Nutzen für den Payroll Bereich Time&Attendance in Bezug auf AskGS | Grundlagen der DV im Unternehmen ( W160 ) |  | 
+ | Kundensegmentierung im Vertrieb Industrie bei XY | Industriegütermarketing W159) |  | 
+ | Smart Farming meets Renewable Energy: Kombination von Wind-/PV-Nutzung und Ökolandbau. |  |  | 
+ | Photovoltaik in der Logistik: Energieautarke Lagerhallen – eine Zukunftsoption? |  |  | 

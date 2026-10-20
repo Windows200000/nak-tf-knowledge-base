@@ -1,0 +1,1436 @@
+
+=== PAGE 1 ===
+Richtig zitieren nach der 
+Harvard-Methode
+Eine Arbeitshilfe für das Verfassen 
+wissenschaftlicher Arbeiten
+Jonas Bahr und Malte Frackmann
+
+
+=== PAGE 2 ===
+ 
+
+
+=== PAGE 3 ===
+ 
+ 
+ 
+ 
+ 
+Richtig zitieren nach der Harvard-Methode 
+Eine Arbeitshilfe für das Verfassen wissenschaftlicher Arbeiten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+von Jonas Bahr und Malte Frackmann 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright 2011 Institut für Praxisforschung, Solothurn (Schweiz) 
+www.institut-praxisforschung.ch 
+
+
+=== PAGE 4 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bildnachweise Umschlag: 
+Bücherstapel: © Friedberg (Fotolia #32664374) 
+Schreibutensilien: © Imaginis (Fotolia #11836063) 
+Buch und Lesebrille: © Angelika Antl 
+
+
+=== PAGE 5 ===
+Inhaltsverzeichnis 
+ 
+1 
+Einleitung.......................................................................................................................5 
+2 
+Zitate in wissenschaftlichen Arbeiten............................................................................6 
+3 
+Harvard-Zitierweise.......................................................................................................7 
+4 
+Literaturverweise im Text..............................................................................................7 
+4.1 
+Quellenangaben......................................................................................................7 
+4.1.1 
+Position der Quellenangabe im Text.................................................................7 
+4.1.2 
+Hervorhebung des zitierten Autors ...................................................................8 
+4.1.3 
+Zitate mit zwei Autoren ....................................................................................8 
+4.1.4 
+Zitate mit drei oder mehr Autoren ....................................................................9 
+4.1.5 
+Autoren mit gleichem Nachnamen ...................................................................9 
+4.1.6 
+Erscheinungsjahr.............................................................................................10 
+4.1.7 
+Mehrere Werke eines Autoren aus demselben Jahr........................................10 
+4.1.8 
+Angabe von Seitenzahlen................................................................................11 
+4.1.9 
+Mehrere Werke in einer Quellenangabe .........................................................11 
+4.1.10 Zitate und abschließende Satzzeichen ............................................................12 
+4.2 
+Sinngemäße Zitate / Paraphrase ...........................................................................12 
+4.3 
+Wörtliche Zitate....................................................................................................13 
+4.3.1 
+Zitatlänge ........................................................................................................13 
+4.3.2 
+Direkte Rede innerhalb eines Zitats................................................................14 
+4.3.3 
+Fremdsprachliche Zitate..................................................................................14 
+4.3.4 
+Auslassungen ..................................................................................................15 
+4.3.5 
+Umformulierungen..........................................................................................16 
+4.3.6 
+Hervorhebungen im Originaltext ....................................................................16 
+4.3.7 
+Eigene Hervorhebungen im Zitat....................................................................17 
+4.3.8 
+Rechtschreibfehler, Druckfehler und mangelnde Genauigkeit.......................18 
+4.3.9 
+Einschübe und Anmerkungen.........................................................................18 
+4.4 
+Umgang mit verschiedenen Quellenarten ............................................................19 
+4.4.1 
+Zitate aus Sammelwerken, Zeitschriften oder Gesamtausgaben ....................19 
+4.4.2 
+Zitate aus Internet-Quellen .............................................................................19 
+4.4.3 
+Gesetzestexte...................................................................................................20 
+4.4.4 
+Zitate aus Filmen.............................................................................................20 
+4.4.5 
+Eigene, unveröffentlichte Quellen ..................................................................20 
+4.4.6 
+Zitate aus zweiter Hand ..................................................................................21 
+5 
+Literaturverzeichnis .....................................................................................................22 
+5.1 
+Erstellen eines Literaturverzeichnisses ................................................................22 
+5.1.1 
+Einheitlichkeit.................................................................................................22 
+
+
+=== PAGE 6 ===
+5.1.2 
+Fehlende Angaben ..........................................................................................22 
+5.1.3 
+Nennung von Namen ......................................................................................23 
+5.1.4 
+Titel.................................................................................................................24 
+5.1.5 
+Auflage............................................................................................................24 
+5.1.6 
+Darstellung und Reihenfolge ..........................................................................24 
+5.2 
+Umgang mit verschiedenen Quellenarten ............................................................25 
+5.2.1 
+Monographien.................................................................................................25 
+5.2.2 
+Beiträge aus Sammelwerken...........................................................................26 
+5.2.3 
+Zitate aus Gesamtausgaben.............................................................................27 
+5.2.4 
+Beiträge aus Internet-Quellen .........................................................................29 
+5.2.5 
+Beiträge aus Zeitschriften ...............................................................................30 
+5.2.6 
+Studienarbeiten ...............................................................................................31 
+5.2.7 
+Zitate aus Filmen.............................................................................................31 
+5.2.8 
+Eigene, unveröffentlichte Quellen ..................................................................32 
+5.2.9 
+Zitate aus zweiter Hand ..................................................................................32 
+6 
+Literaturverzeichnis .....................................................................................................34 
+
+
+=== PAGE 7 ===
+5 
+1 Einleitung 
+Die vorliegende Arbeitshilfe soll Ihnen einen möglichst vollständigen Überblick über die 
+Verwendung der Harvard-Zitierweise geben und als Hilfestellung für das Verfassen eines 
+wissenschaftlichen Textes dienen. Bei der Auswahl der Inhalte stand immer die 
+einheitliche Vorgehensweise beim Zitieren im Vordergrund, um Ausnahmeregelungen auf 
+ein Minimum zu beschränken.  
+Die Harvard-Methode ist eine der gebräuchlichsten und anerkanntesten Zitierweisen. Sie 
+benutzt das Autor-Jahr-System, bei dem auf die Verwendung von Fußnoten verzichtet 
+wird. Diese von der amerikanischen Elite-Universität Harvard entwickelte Zitierweise 
+wird vor allem in den Wirtschafts- und Sozialwissenschaften verwendet.1 Neben der 
+Harvard-Methode gibt es noch eine Reihe anderer Zitierweisen: So ist etwa in den 
+Geisteswissenschaften die Verwendung von Fuß- oder Endnoten, beispielsweise durch die 
+Chicago-Zitation, üblich. 
+Zum Inhalt der Arbeitshilfe: Im Anschluss an die Grundregeln des Zitierens im 
+Allgemeinen und der Harvard-Zitierweise im Speziellen gliedert sich die Arbeitshilfe in 
+zwei Abschnitte. Der erste Teil befasst sich mit der Zitierweise innerhalb des eigenen 
+Textes, wobei vor allem zwischen den wörtlichen und sinngemäßen Zitaten unterschieden 
+wird. Im zweiten Teil wird dargestellt, was beim Erstellen des Literaturverzeichnisses 
+beachtet werden sollte. 
+Es sei darauf hingewiesen, dass beim Zitieren immer eine ganze Reihe verschiedener 
+Möglichkeiten existieren und andere Methoden nicht zwangsläufig weniger richtig sind, 
+nur weil sie in dieser Arbeitshilfe nicht aufgeführt sind. Eventuell kann es in bestimmten 
+Fällen sogar sinnvoll sein, von der hier vorgeschlagenen Zitierweise abzuweichen.  
+An einigen Stellen sind bereits in dieser Arbeitshilfe mehrere Zitiermöglichkeiten 
+angegeben. Dabei sollte beachtet werden, dass wenn man sich für die Verwendung einer 
+bestimmten Möglichkeit entschieden hat, diese für die gesamte Arbeit (auch im 
+Literaturverzeichnis) 
+konsistent 
+beibehalten 
+wird. 
+Immer 
+wenn 
+verschiedene 
+Schreibweisen zur Wahl stehen, ist das durch ein kleines Kästchen „“ kenntlich 
+gemacht. Die erste angegebene Möglichkeit ist dabei die Empfehlung der Autoren, auf die 
+sich der erklärende Text sowie die angegebenen Beispiele beziehen. 
+Darüber hinaus soll der Einsatz der beschriebenen Zitierregeln anhand konkreter Beispiele 
+verdeutlicht werden. Beispiele sind durch das Zeichen „“ und einen grau hinterlegten 
+Kasten gekennzeichnet. 
+                                               
+1  Sie wir daher oft als „amerikanische Zitierweise“ bezeichnet. Eine ähnliche Zitierweise ist beispielsweise die 
+der American Psychological Association (APA). 
+
+
+=== PAGE 8 ===
+6 
+Die vorliegende Arbeitshilfe ist in der Praxis entstanden. Bei der Festlegung auf die 
+jeweilige Empfehlung einer Zitierweise sind Vorgaben verschiedener Universitäten und 
+der Fachliteratur2 ebenso eingeflossen wie die Erfahrungen und Vorlieben der Autoren.  
+Wir hoffen, dass diese Arbeitshilfe einen kleinen Beitrag zum Gelingen Ihrer schriftlichen 
+Arbeiten leisten kann. 
+2 Zitate in wissenschaftlichen Arbeiten 
+Bei jedem wissenschaftlichen Text muss deutlich gemacht werden, wenn fremdes 
+Gedankengut übernommen wird. Dabei spielt es keine Rolle, ob die Wiedergabe eines 
+Textes wörtlich oder sinngemäß erfolgt.  
+Jedes Zitat sollte in einem unmittelbaren Zusammenhang zum eigenen Text stehen. Daher 
+ist es sinnvoll, im Text zusammenfassend oder interpretatorisch auf den Inhalt des Zitats 
+einzugehen sowie den Zusammenhang zu den eigenen Ausführungen herzustellen. 
+Grundsätzlich gewinnt ein wissenschaftlicher Text an „Fluss“, wenn die Aussagen anderer 
+Autoren als Paraphrase anstatt als direkte Zitate übernommen werden. Während die 
+Übernahme von besonders prägnanten (Teil-)Sätzen durchaus erwünscht ist, sollte vom 
+Zitieren ganzer Absätze abgesehen werden. Eine Ausnahme bilden Fremdmeinungen, zu 
+denen im Rahmen der eigenen Arbeit eine kritische Bewertung dargelegt werden soll: In 
+diesem Fall bietet es sich an – zumal aus Gründen der Fairness – das entsprechende Zitat 
+wortwörtlich wiederzugeben, um es anschließend in die kritische Auseinandersetzung 
+einfließen zu lassen. Darüber hinaus ist zu bedenken, dass das Aneinanderreihen von 
+Zitaten ohne eine erkennbare Einbettung des Zitierten in den eigenen Text dem Ziel einer 
+eigenständigen Arbeit widerspricht. Es empfiehlt sich, beim Studium der Fachliteratur für 
+die eigene Arbeit darauf zu achten, wie andere Autoren mit direkten bzw. indirekten 
+Zitaten umgehen, um sich mit den wissenschaftlichen Gepflogenheiten der jeweiligen 
+Fachrichtung vertraut zu machen. 
+Durch einen sorgfältigen Umgang mit den Quellenangaben können Vorwürfe des Plagiats, 
+also der nicht nachgewiesenen Aneignung geistigen Eigentums Dritter, vermieden 
+werden. Ferner können die eigenen Aussagen durch ausgewiesene Fremdmeinung gestützt 
+werden. Gleichzeitig wird dem Leser durch die Quellenangaben die Möglichkeit gegeben, 
+sich die Quellen, auf denen die eigene Arbeit aufbaut, selber zu erschließen. 
+                                               
+2  Für weitere Beispiele geläufiger Zitierregeln können die folgenden beiden englischsprachigen 
+Zusammenstellungen empfohlen werden: Central Queensland University (2007): Harvard (Author-Date) 
+Referencing Guide, Rockhampton: Central Queensland University, Division of Teaching and Learning 
+Services; Harvard Business School (2009): Citation Guide. 2009-2010 Academic Year, [online] 
+http://www.library.hbs.edu/guides/citationguide.pdf [01.07.2010]. 
+ 
+
+
+=== PAGE 9 ===
+7 
+3 Harvard-Zitierweise 
+Bei der Harvard-Zitierweise wird auf die Verwendung von Fußnoten3 als 
+Quellennachweis gänzlich verzichtet. Der Nachweis erfolgt im laufenden Text, indem der 
+Literaturhinweis in Klammern an einer geeigneten Stelle im Text eingefügt wird. 
+Grundsätzlich wird beim Literaturverweis im Text der Name des Autors, das 
+Erscheinungsjahr und die Seitenzahl angegeben. Die ausführliche Quellenangabe folgt, 
+dem Anhang vorangestellt, im Literaturverzeichnis im Anschluss an das letzte reguläre 
+Kapitel der Arbeit. 
+4 Literaturverweise im Text 
+Im Folgenden werden einige grundlegende Hinweise zu den Literaturverweisen, 
+bestehend aus Nachname des Autors, Erscheinungsjahr und Seitenzahl, angeführt. Dabei 
+gilt es zu berücksichtigen, dass die Quellenangabe im Text immer einen eindeutigen 
+Verweis auf die vollständige Literaturangabe im Literaturverzeichnis darstellen muss. 
+4.1 Quellenangaben 
+Wenn Sie für Ihre wissenschaftliche Arbeit auf Ideen oder Formulierungen anderer 
+zurückgreifen möchten, müssen Sie Ihre Quelle ausweisen. Quellenangaben können als 
+Beleg für Behauptungen angeführt werden. Sie dienen auch der Dokumentation und 
+Überprüfbarkeit von Zitaten. Der folgende Abschnitt soll einen Überblick verschaffen, 
+wie und in welcher Form Quellenangaben sinnvoll eingesetzt werden sollten. Im darauf 
+folgenden Teil wird dargestellt, wie mit den unterschiedlichen Formen von direkten und 
+indirekten Zitaten umgegangen wird. 
+4.1.1 
+Position der Quellenangabe im Text 
+Im Regelfall folgt die Quellenangabe im Anschluss an das Zitat. Wenn der Satz mit dem 
+Zitat endet, werden die Angaben vor dem abschließenden Satzzeichen eingefügt.  
+ 
+ Beispiel:  
+Die Rolle des Mephisto lässt sich wie folgt beschreiben: „Der Mensch liebt die Ruhe und 
+aus diesem Grund braucht er einen in etwa gleich starken Gegner, der ihm im Leben 
+fortwährend schwierige Bälle zuschlägt. Das ist die Aufgabe des Mephisto“ 
+(Schmidt 2004: 102). Daraus wird deutlich, dass ...  
+ 
+                                               
+3  Fußnoten dienen als ergänzende Hinweise für die eigenen Ausführungen. Weiterführende Literatur, die nicht 
+im Text zitiert wird, ist als vollständiger Literaturverweis in der Fußnote anzugeben und wird nicht im 
+Literaturverzeichnis aufgeführt. 
+
+
+=== PAGE 10 ===
+8 
+Frage- oder Ausrufezeichen am Schluss des Zitates müssen jedoch weiterhin angegeben 
+werden, da sie die Aussage des Zitates beeinflussen. 
+ 
+ Beispiel:  
+Der Autor verleiht seiner Auffassung folgendermaßen Ausdruck: „Das ist die Aufgabe des 
+Mephisto. Aus diesem Grund muss es ihn geben!“ (Schmidt 2004: 102). 
+ 
+Wenn der Name des Autors bereits im Text erwähnt wird, werden Erscheinungsjahr und 
+Seitenzahl in Klammern direkt hinter dem Namen angegeben. Hier entfällt die 
+Quellenangabe am Schluss des Zitats.  
+ 
+ Beispiel:  
+Michael Schmidt (2004: 102) folgend, braucht der Mensch „einen in etwa gleich starken 
+Gegner, der ihm im Leben fortwährend schwierige Bälle zuschlägt“. 
+4.1.2 
+Hervorhebung des zitierten Autors 
+Die Namen der zitierten Autoren können sowohl im Text als auch im Literaturverzeichnis 
+in so genannte KAPITÄLCHEN gesetzt werden. Der Nachteil dieser Schreibweise besteht 
+allerdings darin, dass die deutsche Sprache keinen Großbuchstaben für das „ß“ vorsieht..  
+  
+ (Miller 2004: 16) 
+ (MILLER 2004: 16) 
+4.1.3 
+Zitate mit zwei Autoren 
+Bei Werken mit zwei Autoren werden beide Namen in der Quelle genannt. 
+  
+ Beispiel:  
+Möchte man zum Beispiel aus den Berichten zur Gesinnungslage der Nation von Heinrich 
+Böll und Günter Wallraff zitieren, so lautet die entsprechende Literaturangabe (Böll und 
+Wallraff 1977: 18). 
+ 
+ (Böll und Wallraff 1977: 18) 
+ (Böll / Wallraff 1977: 18) 
+
+
+=== PAGE 11 ===
+9 
+4.1.4 
+Zitate mit drei oder mehr Autoren 
+Bei Werken mit drei oder mehr Autoren wird nur der erstgenannte Autor angegeben und 
+durch „et al.“ (lat. et alii: „und andere“; der Punkt wird dabei nur hinter dem abgekürzten 
+„alii“ verwendet) auf die weiteren Autoren hingewiesen. Im Literaturverzeichnis müssen 
+allerdings immer alle Autoren vollständig aufgeführt werden.  
+ 
+ Beispiel: 
+Möchte man zum Beispiel aus dem Buch Marktversagen und Wirtschaftspolitik von 
+Michael Fritsch, Thomas Wein und Hans-Jürgen Ewers zitieren, so lautet die 
+entsprechende Literaturangabe (Fritsch et al. 2005: 7). 
+ 
+Es sei darauf hingewiesen, dass bei drei oder mehr Autoren auch im Fließtext auf die 
+Nennung aller Autoren verzichtet werden kann; stattdessen wird auch hier lediglich der 
+erstgenannte mit dem Zusatz „et al.“ aufgeführt. Häufig werden allerdings bei der ersten 
+Erwähnung noch alle Autoren genannt.  
+ 
+ Beispiel: 
+Erste Erwähnung im Text: 
+Fritsch, Wein und Ewers (2005: 7) weisen in ihrem Buch Marktversagen und 
+Wirtschaftspolitik darauf hin, dass ... 
+ 
+Folgende Erwähnungen im Text: 
+Fritsch et al. (2005: 7) weisen in Marktversagen und Wirtschaftspolitik darauf hin, dass ... 
+ 
+ (Fritsch et al. 2005: 7) 
+ (Fritsch u.a. 2005: 7)  
+4.1.5 
+Autoren mit gleichem Nachnamen 
+Sollen Texte verschiedener Autoren mit dem gleichen Nachnamen zitiert werden, so ist 
+der Literaturhinweis durch Hinzufügen des Anfangsbuchstaben vom Vornamen zu 
+erweitern, um Verwechselungen zu vermeiden. Für das Literaturverzeichnis empfiehlt es 
+sich ohnehin, die Vornamen auszuschreiben (siehe auch Abschnitt 5.1.6: Darstellung und 
+Reihenfolge bzw. 5.1.3 Nennung von Namen). 
+ 
+
+
+=== PAGE 12 ===
+10 
+ Beispiel:  
+So können zum Beispiel die beiden Werke Tod eines Handlungsreisenden von Arthur 
+Miller und Stille Tage in Clichy von Henry Miller durch (Miller, A. 2001: 19, Erstausgabe 
+1949) beziehungsweise (Miller, H. 2004: 34, Erstausgabe 1956) angegeben werden. 
+4.1.6 
+Erscheinungsjahr 
+Als Jahreszahl sollte das Erscheinungsjahr der verwendeten Auflage angegeben werden. 
+Dieses gilt vor allem für bearbeitete und veränderte Neuauflagen. Weicht das 
+Erscheinungsjahr (z.B. bei einer nachträglichen Veröffentlichung) wesentlich von der 
+Erstveröffentlichung des Verfassers ab, so dass eine Einordnung in einen historischen 
+Kontext nicht möglich ist, kann der Eintrag noch mit einem Hinweis auf die 
+Erstveröffentlichung ergänzt werden.4 
+ 
+ Beispiel:  
+Zitiert man zum Beispiel den Artikel Wettbewerb als Entdeckungsverfahren von Friedrich 
+August von Hayek aus der 2. Auflage der Freiburger Studien (Erscheinungsjahr 1994, 
+Erstauflage 1969), so lautet die Literaturangabe im Text: (von Hayek 1994: 249, 
+Erstauflage 1969). 
+ 
+Es besteht aber auch die Möglichkeit, die Angabe zur Erstauflage direkt in den eigenen 
+Text zu integrieren.  
+ 
+ Beispiel:  
+In dem 1969 entwickelten Konzept Wettbewerb als Entdeckungsverfahren bezeichnet von 
+Hayek (1994: 249) den Wettbewerb als „ein Verfahren zur Entdeckung von Tatsachen 
+[...], die ohne sein Bestehen entweder unbekannt bleiben oder doch zumindest nicht 
+genutzt werden würden“. 
+4.1.7 
+Mehrere Werke eines Autoren aus demselben Jahr  
+Falls unterschiedliche Werke eines Autors aus demselben Jahr zitiert werden, wird dem 
+Erscheinungsjahr ein Kleinbuchstabe hinzugefügt, um Verwechselungen zu vermeiden. 
+Diese Ergänzungen müssen auch im Literaturverzeichnis aufgeführt werden.  
+ 
+                                               
+4  Im Literaturverzeichnis ist die Angabe des Erscheinungsjahres der verwendeten Publikation ausreichend, auch 
+wenn dieses erheblich von der Erstauflage abweicht. 
+
+
+=== PAGE 13 ===
+11 
+ Beispiel:  
+So lassen sich zum Beispiel die beiden Neufassungen der Werke von Friedrich 
+Dürrenmatt aus dem Jahr 1980 in Die Physiker (Dürrenmatt 1980a: 22) und Der Besuch 
+der alten Dame (Dürrenmatt 1980b: 16) unterscheiden.  
+4.1.8 
+Angabe von Seitenzahlen  
+Die Angabe der Seitenzahlen erfolgt nach dem Erscheinungsjahr und wird durch einen 
+Doppelpunkt abgetrennt. Möglich ist ebenfalls die Abtrennung durch ein Komma. Zwei 
+Seiten können durch „f.“ für „folgende“ kenntlich gemacht werden, ein Bereich von 
+mehreren Seiten sollte konkret angegeben werden. 
+ 
+ Beispiel:  
+(Schmidt 2004: 24 f.) = Seite 24 folgende (Seite 24 und 25) 
+(Schmidt 2004: 38-42) = Seite 38 bis 42 ohne Unterbrechung 
+ 
+Anmerkung: Aufgrund der geringen Aussagekraft wird empfohlen, auf die teilweise 
+immer noch verbreitete Abkürzung „ff.“ (fortfolgende) zu verzichten. Es können hierbei 
+sowohl lediglich weitere zwei Seiten oder aber eine Vielzahl von weiteren Seiten gemeint 
+sein. 
+ 
+ (Schmidt 2004: 102) 
+ (Schmidt 2004: S. 102) 
+ (Schmidt 2004, S. 102) 
+ (Schmidt 2004, 102) 
+ 
+4.1.9 
+Mehrere Werke in einer Quellenangabe 
+Wenn gleichzeitig auf mehrere Werke verwiesen wird, stehen die entsprechenden 
+Literaturangaben in einer Klammer und werden durch ein Semikolon getrennt. Die Werke 
+werden vorrangig nach Bedeutung für die eigene Arbeit geordnet. Bei gleichwertiger 
+Wichtigkeit sollte nach Erscheinungsjahr sortiert werden, wobei mit dem ältesten Werk 
+begonnen wird.  
+ 
+ Beispiel:  
+In der Literatur wird davon ausgegangen, dass ... (vgl. Galbraith 2005; Blankart 2006). 
+
+
+=== PAGE 14 ===
+12 
+4.1.10 
+Zitate und abschließende Satzzeichen 
+Bildet ein Zitat einen vollständigen Satz, so steht das abschließende Satzzeichen am Ende 
+des Zitats vor den Anführungsstrichen. 
+ 
+ Beispiel:  
+Michael Schmidt (2004: 9) drückt diese Tatsache folgendermaßen aus: „Je besser und 
+schneller man Zusammenhänge erfasst und Situationen durchschaut, umso mehr 
+Entscheidungsfreiheit gewinnt man.“ Mit dieser Aussage ...  
+ 
+Ist der zitierte Text lediglich ein Satzteil (und steht am Ende von diesem), so wird das 
+abschließende Satzzeichen nach den Anführungsstrichen gesetzt. Wenn das Zitat mit 
+einem Punkt endet, so wird dieser – im Gegensatz zu Ausrufe- und Fragezeichen – am 
+Schluss des Zitats weggelassen.  
+ 
+ Beispiel:  
+Für Michael Schmidt (2004: 9) ist dieser Punkt von zentraler Bedeutung, denn „[j]e besser 
+und schneller man Zusammenhänge erfasst und Situationen durchschaut, umso mehr 
+Entscheidungsfreiheit gewinnt man“. 
+ 
+4.2 Sinngemäße Zitate / Paraphrase  
+Ein fremder Text wird sinngemäß zitiert bzw. paraphrasiert, wenn sein Inhalt 
+zusammengefasst und in eigenen Worten wiedergegeben wird. Auch hier werden 
+Arbeitsergebnisse und Gedankengut anderer übernommen, so dass ein Quellennachweis 
+angegeben werden muss. 
+Wenn man sich auf eine generelle Idee oder Theorie bezieht, die sich nicht auf bestimmte 
+Seiten oder Kapitel eines Werkes beschränkt, gibt man das entsprechende Werk nur mit 
+Autor und Jahreszahl an. 
+Wenn über mehrere Absätze hin paraphrasiert wird, sollte in jedem Absatz der Hinweis 
+auf die entsprechende Quelle aufgeführt sein. 
+Die Paraphrase wird kenntlich gemacht durch das Einfügen von „vgl.“ (vergleiche) vor 
+dem Namen des Autors in der Quellenangabe. 
+ 
+
+
+=== PAGE 15 ===
+13 
+ Beispiel: 
+Text im Original: 
+In einem freiheitlichen Staat rechtfertigt sich jede Besteuerung und damit auch die 
+Einkommenssteuer aus der Verfassung, d.h. dem Dokument, das die Grundsätze des 
+menschlichen Zusammenlebens in einem Staat regelt. Wenn die Bürger gemeinsame 
+Aktionen unternehmen, z.B. öffentliche Güter bereitstellen wollen, so müssen sie 
+vereinbaren, wer wie viel dafür bezahlt. Aus Praktikabilitätsgründen bietet es sich an, 
+einen festen Maßstab zu verwenden. Das Einkommen kann als hierfür besonders geeignet 
+angesehen werden, weil es einen Indikator für die Inanspruchnahme öffentlicher 
+Leistungen durch die Bürger darstellt. Entsprechend wird hier von der Indikatortheorie 
+der Besteuerung gesprochen.  
+Blankart, Charles B. (2006): Öffentliche Finanzen in der Demokratie, 6. Aufl., München: 
+Verlag Franz Vahlen. 
+Als Paraphrase: 
+Damit in einem Staat öffentliche Güter bereitgestellt werden können, muss die finanzielle 
+Beteiligung der einzelnen Individuen geregelt werden. Als Maßstab für die individuelle 
+Beteiligung kann hierbei das Einkommen dienen, da es einen Hinweis auf die 
+Inanspruchnahme der öffentlichen Leistungen liefert. Diese sogenannte Indikatortheorie 
+kann somit als Rechtfertigung für die Erhebung einer Einkommenssteuer angesehen 
+werden (vgl. Blankart 2006: 269). 
+ 
+4.3 Wörtliche Zitate 
+Ein wörtliches Zitat ist die Wiedergabe von Text im originalen Wortlaut. Dabei sind 
+einige grundlegende Aspekte zu beachten, die in den folgenden Ausführungen vorgestellt 
+werden. 
+4.3.1 
+Zitatlänge 
+Erstreckt sich das wörtliche Zitat über drei Zeilen oder mehr, wird es an beiden Seiten um 
+etwa 1 cm vom Rand eingerückt, mit einfachem Zeilenabstand, in geringerer Schriftgröße 
+(Empfehlung: Schriftgröße 10 bei der Verwendung von 12 im Fließtext) und jeweils einer 
+Leerzeile zum übrigen Text dargestellt. Bei eingerückten Zitaten kann auf die 
+Anführungszeichen verzichtet werden. Die in Klammern angeführte Quellenangabe am 
+Schluss des eingerückten Zitats steht nach dem abschließenden Satzzeichen (falls 
+verwendet, nach dem abschließenden Anführungszeichen) des Zitats und es folgt kein 
+weiterer Punkt hinter der Quellenangabe. 
+ 
+
+
+=== PAGE 16 ===
+14 
+ Beispiel:  
+Die 
+Selbstzensur 
+in 
+der 
+DDR 
+beschreibt 
+Claudia 
+Rusch 
+in 
+ihrem 
+autobiographischen Roman Meine freie deutsche Jugend eindrücklich anhand 
+eines Beispiels aus dem Deutschunterricht: 
+ 
+Wann immer es galt, in der Schule einen Vortrag oder einen Aufsatz über Lyrik 
+anzufertigen, griff ich sofort zu Heinrich Heine. Über ihn war gar nicht genug zu sagen. 
+Nur eine Gelegenheit hätte ich gerne ausgelassen. In der 11. Klasse mussten wir einen 
+Brief an ihn schreiben. Er hatte seinerzeit Bedenken geäußert, dass mit der Herrschaft 
+des Proletariats auch das Ende der Schönheit anbräche und auf Rosenbeeten Kartoffeln 
+gepflanzt würden. Ich fand, dass er völlig Recht hatte. (Rusch 2003: 120) 
+ 
+Daran wird deutlich, dass … 
+ 
+ Verzicht auf Anführungszeichen bei eingerückten Zitaten. 
+ Verwendung von Anführungszeichen bei eingerückten Zitaten. 
+4.3.2 
+Direkte Rede innerhalb eines Zitats 
+Ein wörtliches Zitat wird in Anführungszeichen „ ... “ gesetzt. Beinhaltet dieses Zitat 
+direkte Rede oder einzelne Begriff, die bereits im Original in Anführungszeichen stehen, 
+so wird dieses im wörtlichen Zitat durch einfache Anführungszeichen ‚ ... ’ 
+gekennzeichnet.  
+ 
+ Beispiel:  
+Text im Original: 
+Im Mittelalter kannte man noch alle möglichen Formen von Naturgeistern: Sylphen, 
+Undinen, Kobolde und Salamander, und heute „weiß“ man, dass das alles Aberglaube ist. 
+Schmidt, Michael (2004): Der Abgrund der Freiheit und die erste Liebe. Eine Reise mit 
+Faust durch Ihr Leben, München: Archiati Verlag. 
+ 
+Als Zitat: 
+„Im Mittelalter kannte man noch alle möglichen Formen von Naturgeistern: Sylphen, 
+Undinen, Kobolde und Salamander, und heute ‚weiß’ man, dass das alles Aberglaube ist“ 
+(Schmidt 2004: 37). 
+4.3.3 
+Fremdsprachliche Zitate 
+Bei Zitaten in einer Fremdsprache sollten diese optisch vom restlichen Text abgehoben 
+werden, um beim Leser Irritationen zu vermeiden. Dafür empfiehlt sich der Einsatz des 
+
+
+=== PAGE 17 ===
+15 
+Kursivsatzes. Vermieden werden sollten grammatikalische Probleme durch 
+unterschiedliche Satzbau-Regeln der verschiedenen Sprachen. Einführungen in das Zitat 
+sollten daher in ganzen Sätzen oder zumindest in Hauptsätzen erfolgen, Halbsätze sollten 
+vermieden werden (vergleiche dazu die beiden Beispiele von 4.1.9: abschließende 
+Satzzeichen). 
+ 
+ Beispiel:  
+Im folgenden Abschnitt beschreibt Melville (1994: 201, Erstauflage 1851) die 
+Unverwechselbarkeit Moby Dicks: „The peculiar snow-white brow of Moby Dick, and his 
+snow-white hump, could not but be unmistakable.“ 
+ 
+ Fremdsprachliche Texte durch Kursivsatz abheben 
+ Fremdsprachliche Texte durch eingerückten Text abheben 
+ Fremdsprachliche Texte nicht abheben und Standard-Formatierung beibehalten 
+4.3.4 
+Auslassungen 
+Wird ein Zitat nicht vollständig wiedergegeben, muss diese Auslassung durch drei Punkte 
+in eckigen Klammern [...] kenntlich gemacht werden. Es sollten allerdings keine ganzen 
+Absätze oder Abschnitte als Auslassungen markiert werden. In solchen Fällen ist es 
+sinnvoll, zwei getrennte Zitate zu verwenden. 
+ 
+ Beispiel:  
+Text im Original: 
+„Als ich an einem klaren Tage frohgemut, eine lustige Weise pfeifend, wieder einmal 
+mein Boot aufsuchte und gemächlich zur Anlegestelle schlenderte, erblickte ich plötzlich 
+vor mir im Sand, deutlich zu erkennen, die Spur eines nackten Fußes.“ 
+ 
+Defoe, Daniel (1987): Leben und Abenteuer des Robinson Crusoe, München: Deutscher 
+Taschenbuch Verlag.  
+ 
+Als Zitat: 
+„Als ich an einem klaren Tage [...] wieder einmal mein Boot aufsuchte und [...] zur 
+Anlegestelle schlenderte, erblickte ich plötzlich vor mir im Sand [...] die Spur eines 
+nackten Fußes“ (Defoe 1987: 129, Erstauflage 1719). 
+ 
+Beim Kürzen von Zitaten muss darauf geachtet werden, dass die Aussage nicht verfälscht 
+oder unzulässig generalisiert bzw. vereinfacht wird. 
+ 
+
+
+=== PAGE 18 ===
+16 
+ Beispiel:  
+Text im Original: 
+ALLE SCHRIFTSTELLER, ja alle Menschen, die ihren Lebensunterhalt mit öffentlichen 
+Reden oder dem Schreiben verdienen, sollten sich vor einem allzu enthusiastischen 
+Streben nach Originalität in Acht nehmen. 
+Galbraith, John Kenneth (2005): Die Ökonomie des unschuldigen Betrugs. Vom 
+Realitätsverlust der heutigen Wirtschaft, München: Siedler Verlag. 
+ 
+ Fehlerhaftes Beispiel: 
+Als Zitat: 
+„[A]lle Menschen […] sollten sich vor einem [...] enthusiastischen Streben nach 
+Originalität in Acht nehmen“ (Galbraith 2005: 43). 
+4.3.5 
+Umformulierungen 
+Werden durch den Satzbau Umformulierungen oder Änderungen in der Groß- und 
+Kleinschreibung nötig, müssen diese im Zitat gekennzeichnet werden. Dazu werden die 
+betroffenen Worte bzw. Buchstaben in eckige Klammern gesetzt.  
+ 
+ Beispiel:  
+Text im Original: 
+In Anbetracht der ökonomischen Entwicklung, steigender Einkommen, eines 
+vielfältigeren Angebots an Konsumgütern und insbesondere neuer Angebotsquellen 
+nehmen die Macht der Monopole und die dadurch hervorgerufenen Ängste ab. 
+Galbraith, John Kenneth (2005): Die Ökonomie des unschuldigen Betrugs. Vom 
+Realitätsverlust der heutigen Wirtschaft, München: Siedler Verlag. 
+ 
+Als Zitat: 
+John Kenneth Galbraith (2005: 33) betont, dass „[i]n Anbetracht der ökonomischen 
+Entwicklung, steigender Einkommen, eines vielfältigeren Angebots an Konsumgütern und 
+insbesondere neuer Angebotsquellen [...] die Macht der Monopole und die dadurch 
+hervorgerufenen Ängste ab[nehmen]“. 
+4.3.6 
+Hervorhebungen im Originaltext 
+Hervorhebungen im Originaltext (Unterstreichung, S p e r r u n g , KAPITÄLCHEN, 
+Kursivdruck, fette Schrift usw.) werden im Zitat übernommen und es wird durch die 
+Anmerkung [Hervorhebung im Original] in eckigen Klammern darauf hingewiesen. 
+
+
+=== PAGE 19 ===
+17 
+ 
+ Beispiel: 
+Text im Original: 
+Deswegen kann man auch jedes Sichsorgen, jede Sorge um etwas, sofort und 
+wirkungsvoll – aber eben nicht auf Dauer – vertreiben, wenn man für etwas sorgt, wenn 
+man sich darum bemüht, dass die Ursache für die Sorge verschwindet.  
+Schmidt, Michael (2004): Der Abgrund der Freiheit und die erste Liebe. Eine Reise mit 
+Faust durch Ihr Leben, München: Archiati Verlag. 
+ 
+Als Zitat: 
+Deswegen kann man auch jedes Sichsorgen, jede Sorge um [Hervorhebung im Original] etwas, 
+sofort und wirkungsvoll – aber eben nicht auf Dauer – vertreiben, wenn man für [Hervorhebung 
+im Original] etwas sorgt, wenn man sich darum bemüht, dass die Ursache für die Sorge 
+verschwindet. (Schmidt 2004: 53) 
+4.3.7 
+Eigene Hervorhebungen im Zitat 
+Soll in einem wörtlichen Zitat eine Stelle besonders hervorgehoben werden (zum Beispiel 
+durch Unterstreichung, S p e r r u n g , KAPITÄLCHEN, Kursivdruck, fette Schrift usw.), so 
+muss unmittelbar hinter der Veränderung durch die Anmerkung [Hervorhebung des 
+Verfassers] die Hervorhebung kenntlich gemacht werden. 
+ 
+ Beispiel:  
+Text im Original: 
+Wenn der Mensch keine Fehler machen dürfte, könnte er nicht weiterkommen, sich nicht 
+entwickeln. Wenn das moralisch bedenklich wäre, dann wäre die Freiheit selbst moralisch 
+bedenklich. 
+Schmidt, Michael (2004): Der Abgrund der Freiheit und die erste Liebe. Eine Reise mit 
+Faust durch Ihr Leben, München: Archiati Verlag.  
+ 
+Als Zitat: 
+Wenn der Mensch keine Fehler [Hervorhebung des Verfassers] machen dürfte, könnte er nicht 
+[Hervorhebung des Verfassers] weiterkommen, sich nicht entwickeln. Wenn das moralisch 
+bedenklich wäre, dann wäre die Freiheit selbst moralisch bedenklich. (Schmidt 2004: 142)  
+ 
+ [Hervorhebung des Verfassers] 
+ [Hervorhebung von ‚eigene Initialen’] 
+ [Hervorhebung nicht im Original] 
+
+
+=== PAGE 20 ===
+18 
+4.3.8 
+Rechtschreibfehler, Druckfehler und mangelnde Genauigkeit 
+Zitate werden buchstabengetreu wiedergegeben. Das bedeutet, dass sowohl Rechtschreib- 
+und Druckfehler des Originaltextes als auch veraltete Schreibweisen übernommen werden 
+müssen.  
+Fehler im Original werden mit dem Einschub [sic] gekennzeichnet. Es bedeutet: „so 
+[lautet die Quelle]“. Der Einschub [sic] wird auch verwendet, wenn die Genauigkeit oder 
+Richtigkeit eines Zitats vom Leser in Frage gestellt werden könnte oder auf 
+Besonderheiten hingewiesen werden soll. 
+ 
+ Beispiel: 
+Text im Original: 
+Dieser Mann lebt an sich vorbei, weil er einem allgemein angebotenen Image nachläuft, 
+das von „Technik“. 
+Frisch, Max (1975): Ich suche den Wert des Alters, in: Rudolf Ossowski (Hrsg.), Jugend 
+fragt - Prominente antworten, Berlin: Colloquium-Verlag, S. 121. 
+ 
+Als Zitat:  
+Walter Faber „lebt an sich vorbei, weil er einem allgemein angebotenen Image nachläuft, 
+das[sic] von ‚Technik’“ (Frisch 1975: 121). 
+ 
+ [sic] 
+ [!] 
+4.3.9 
+Einschübe und Anmerkungen 
+Muss ein Zitat zum Verständnis für den Leser ergänzt werden, so wird dieser Einschub in 
+eckige Klammern gesetzt.  
+ 
+ Beispiel:  
+Text im Original: 
+Wann immer es galt, in der Schule einen Vortrag oder einen Aufsatz über Lyrik 
+anzufertigen, griff ich sofort zu Heinrich Heine. Über ihn war gar nicht genug zu sagen. 
+Nur eine Gelegenheit hätte ich gerne ausgelassen. In der 11. Klasse mussten wir einen 
+Brief an ihn schreiben. Er hatte seinerzeit Bedenken geäußert, dass mit der Herrschaft des 
+Proletariats auch das Ende der Schönheit anbräche und auf Rosenbeeten Kartoffeln 
+gepflanzt würden. Ich fand, dass er völlig Recht hatte.  
+Rusch, Claudia (2003): Meine freie deutsche Jugend, Frankfurt am Main: Fischer Verlag. 
+ 
+
+
+=== PAGE 21 ===
+19 
+Als Zitat: 
+„Er [Heinrich Heine] hatte seinerzeit Bedenken geäußert, dass mit der Herrschaft des 
+Proletariats auch das Ende der Schönheit anbräche und auf Rosenbeeten Kartoffeln 
+gepflanzt würden“ (Rusch 2003: 120). 
+ 
+4.4 Umgang mit verschiedenen Quellenarten 
+4.4.1 
+Zitate aus Sammelwerken, Zeitschriften oder Gesamtausgaben 
+Bei Zitaten aus Sammelwerken oder Gesamtausgaben wird im Text der Autor des zitierten 
+Beitrags angegeben und nicht etwa der Herausgeber (Hrsg.) des Sammelwerks bzw. der 
+Gesamtausgabe. Das gleiche gilt für Artikel in (Fach-)Zeitschriften: Hier wird der Autor 
+des Artikels angeführt, der Name der Zeitschrift erscheint nicht in der Quellenangabe im 
+Text (sondern nur im Literaturverzeichnis). Als Jahresangabe wird im Kurzverweis jedoch 
+das Erscheinungsjahr des Sammelwerks bzw. der Gesamtausgabe angeführt. 
+ 
+ Beispiel: 
+Zitiert man zum Beispiel aus dem Beitrag von Max Frisch im Sammelwerk Jugend fragt - 
+Prominente antworten von Rudolf Ossowski, so lautet die Literaturangabe im Text: 
+(Frisch 1975: 121). 
+ 
+Anmerkung: Weicht das Erscheinungsjahr des Sammelwerks bzw. der Gesamtausgabe 
+wesentlich von der eigentlichen Erstveröffentlichung ab, so dass eine Einordnung in einen 
+historischen Kontext nicht möglich ist, sollte der Eintrag noch mit einem Hinweis auf die 
+Erstveröffentlichung ergänzt werden. Eine Möglichkeit besteht darin, diese Information 
+direkt mit in den eigenen Text zu integrieren. Für Beispiele siehe den entsprechenden Teil 
+im Abschnitt zu Zitaten im Text: 4.1.5 „Erscheinungsjahr“. 
+4.4.2 
+Zitate aus Internet-Quellen 
+Gedruckte Veröffentlichungen sollten, wenn sie verfügbar sind, Internet-Quellen 
+vorgezogen werden. Bei Internet-Quellen besteht immer die Gefahr, dass diese im Laufe 
+der Zeit verändert oder vollständig aus dem Internet genommen werden.  
+Bei der Verwendung von Internet-Quellen ist es empfehlenswert, den betreffenden Text 
+als pdf-Dokument auf einem Datenträger zu speichern bzw. auszudrucken. Im Text 
+werden Internet-Quellen mit dem Namen des Autors (bzw. der Institution, die die 
+Informationen zur Verfügung stellt) sowie dem Erscheinungsjahr angegeben. Aus 
+technischen Gründen wird meistens auf die Angabe von Seitenzahlen verzichtet (eine 
+Ausnahme können hier pdf-Dokumente darstellen).  
+
+
+=== PAGE 22 ===
+20 
+ 
+ Beispiel: ZEIT online 
+„Denn die Lehrer befinden sich in dem ständigen Dilemma, einerseits individuell fördern 
+zu sollen, andererseits jedoch Noten erteilen zu müssen, die weitreichende Folgen haben 
+können“ (Lau 2006). 
+ 
+ Beispiel: Statistisches Bundesamt Deutschland 
+„Während die Geburtenzahl insgesamt in Deutschland zurückgeht, steigt die Anzahl der 
+Kinder, deren Eltern nicht miteinander verheiratet sind“ (Statistisches Bundesamt 
+Deutschland 2007).  
+4.4.3 
+Gesetzestexte 
+Allgemein bekannte Gesetze, Verordnungen und geläufige Geschäftsordnungen müssen 
+nicht im Literaturverzeichnis aufgeführt werden. Auf sie wird direkt unter Angabe des 
+Paragraphen oder Artikels, ggf. des Absatzes und des Satzes, und dem Gesetz im 
+laufenden Text verwiesen. 
+ 
+ Beispiel:  
+Art. 1 Abs. 1 GG: Die Würde des Menschen ist unantastbar. Sie zu achten und zu 
+schützen ist Verpflichtung aller staatlichen Gewalt. 
+4.4.4 
+Zitate aus Filmen 
+Bei Zitaten aus Filmen wird anstelle des Autors der Regisseur angeführt. Es folgt die 
+Jahresangabe der Veröffentlichung. Bei Bezug auf eine bestimmte Szene ist die Angabe 
+der Position (in Form einer Zeitangabe) möglich.  
+ 
+ Beispiel:  
+Der Film „Einer flog übers Kuckucksnest“ thematisiert die Einweisung eines gesunden 
+Menschen in eine geschlossene Anstalt. McMurphy, gespielt von Jack Nicholson, 
+protestiert gegen die Verabreichung seiner Medikamente: „Mir gefällt der Gedanke nicht, 
+etwas einnehmen zu müssen, von dem ich nicht weiß, was es ist“ (Forman 2007: 28‘15“). 
+4.4.5 
+Eigene, unveröffentlichte Quellen 
+In Ausnahmefällen kann es angebracht sein, ein Zitat aus einer eigenen, 
+unveröffentlichten Quelle zu verwenden. Dies ist beispielsweise der Fall bei eigener 
+
+
+=== PAGE 23 ===
+21 
+(meist qualitativer) Feldforschung, Gedächtnisprotokollen, persönlicher Korrespondenz, 
+eigenen Interviews oder öffentlichen, nicht verschriftlichten Vorträgen. Dabei sollte auf 
+den 
+Rahmen 
+der 
+Quelle 
+(z.B. 
+Titel 
+des 
+Vortrages 
+mit 
+Ortsangabe 
+oder 
+Kommunikationsform) im Text hingewiesen werden. Im Sinne der wissenschaftlichen 
+Überprüfbarkeit sollten Quellen dieser Art, sofern möglich und sinnvoll (in voller Länge 
+oder die relevanten Passagen), im Anhang der Arbeit abgedruckt werden. 
+Als Quellenangabe wird zunächst der Name des relevanten Informanten genannt, 
+anschließend folgt der entsprechende Zusatz „Interview“, „persönliche Korrespondenz“, 
+etc. Am Schluss werden noch (wenn möglich) die Institution und der Ort sowie das 
+Datum [TT.MM.JJJJ] aufgeführt. Gesprächsprotokolle und -transkriptionen können mit 
+entsprechendem Verweis in den Anhang aufgenommen werden. 
+ 
+ Beispiel:  
+„Zitat aus der persönlichen Korrespondenz“ (Thomas Stöckli, persönliche Korrespondenz, 
+Institut für Praxisforschung, Solothurn, 17.02.2009, siehe Anhang ...). 
+4.4.6 
+Zitate aus zweiter Hand 
+Als Zitat aus zweiter Hand bezeichnet man einen Textabschnitt, der bereits in der 
+vorliegenden Quelle als Zitat aufgeführt ist. Wenn möglich sollte auf Zitate aus zweiter 
+Hand verzichtet und die Originalquelle herangezogen werden, da die Gefahr besteht, dass 
+der Originaltext (Primärquelle) in der verwendeten Quelle (Sekundärquelle) nicht korrekt 
+wiedergegeben wurde. 
+In der Quellenangabe wird zunächst die Primärquelle und anschließend mit dem Zusatz 
+„zitiert nach“ die Sekundärquelle angegeben. Im Literaturverzeichnis wird hingegen 
+ausschließlich die vorliegende Sekundärquelle aufgeführt. 
+ 
+ Beispiel:  
+Im Lehrbuch Öffentliche Finanzen in der Demokratie von Charles B. Blankart befindet 
+sich jeweils am Anfang eines Kapitels ein einleitendes Zitat eines bedeutenden 
+Ökonomen. Möchte man ein solches Zitat in seinen Text übernehmen, muss das 
+folgendermaßen kenntlich gemacht werden: 
+ 
+„Der unerhörte Vorteil der grundsätzlichen Anerkennung der Demokratie ist, dass mir 
+eigentlich eine überstarke Demokratie lieber ist als gar keine“ (von Hayek 1989, zitiert 
+nach Blankart 2006: 113).  
+ 
+ zitiert nach 
+ zit. nach 
+
+
+=== PAGE 24 ===
+22 
+5 Literaturverzeichnis 
+Die folgenden Ausführungen zeigen zunächst einige grundlegende Aspekte, die es beim 
+Erstellen eines Literaturverzeichnisses zu berücksichtigen gilt. Im Anschluss daran 
+werden die Zitierformen unterschiedlicher Publikationen analog zu den entsprechenden 
+Zitierweisen im Text aufgeführt. 
+5.1 Erstellen eines Literaturverzeichnisses 
+Das Literaturverzeichnis steht am Ende der Arbeit. Es müssen alle zitierten Quellen 
+aufgeführt sein. Im Gegensatz zur Bibliographie werden im Literaturverzeichnis keine 
+Werke 
+aufgeführt, 
+die 
+lediglich 
+Teil 
+der 
+Literaturrecherche 
+waren. 
+Das 
+Literaturverzeichnis muss dem Leser das Auffinden der verwendeten Quellen 
+ermöglichen. 
+Die aufgeführten Angaben im Literaturverzeichnis werden jeweils durch Komma 
+voneinander abgetrennt, solange kein anderes Satzzeichen (z.B. Doppelpunkt) 
+vorgeschrieben ist.  
+5.1.1 
+Einheitlichkeit 
+Beim Literaturverzeichnis gibt es wiederum eine Reihe von Wahlmöglichkeiten. Dabei 
+gilt es zu beachten, dass die gewählte Methode im gesamten Literaturverzeichnis 
+beibehalten wird. Im Anschluss sind einige Beispiele für unterschiedliche Schreibweisen 
+angeführt, wobei jeweils die erstgenannte empfohlen wird. 
+ 
+ (Hrsg.)  
+ (Hg.) 
+ 
+ 2. Aufl. 
+ 2. Auflage 
+ 
+ ... Ort: Verlag, S. 20 f. 
+ ... Ort: Verlag, 20 f. 
+ Abschluss der einzelnen Einträge im Literaturverzeichnis mit einem Punkt.  
+ Keinen Punkt am Ende eines Eintrags im Literaturverzeichnis.  
+5.1.2 
+Fehlende Angaben 
+Fehlen einzelne Angaben bei einem Eintrag ins Literaturverzeichnis, so werden diese 
+nicht kommentarlos ausgelassen, sondern durch folgende Abkürzungen kenntlich 
+gemacht: 
+ 
+o. V. = ohne Verfasser 
+o. J. 
+= ohne Jahresangabe 
+o. O. = ohne Ortsangabe 
+ 
+Sollten weitere Angaben fehlen, so müssen diese ausgeschrieben (z.B. ohne Verlag) 
+aufgeführt werden.  
+
+
+=== PAGE 25 ===
+23 
+5.1.3 
+Nennung von Namen 
+Im Literaturverzeichnis müssen immer alle Autoren vollständig aufgeführt werden. Die 
+Namen der Verfasser werden mit Nachname und (durch Komma getrennt) Vorname 
+genannt. Alternativ ist hier die Beschränkung auf Nachname und Initial des Vornamens 
+möglich; aus Respekt vor den Autorinnen und Autoren und um eine eigene Übersicht über 
+deren Geschlecht zu behalten, wird empfohlen, die vollen Namen im Literaturverzeichnis 
+zu benutzen. Die Kenntnis von Vornamen vereinfacht darüber hinaus das Auffinden von 
+Büchern in Bibliothekskatalogen. Wenn es sich um den Herausgeber handelt, wird die 
+Abkürzung (Hrsg.) nach dem Namen angeführt. Namenszusätze wie „von“ oder „de“ 
+werden immer nach dem Vornamen angegeben. 
+ 
+ Beispiel:  
+Schmidt, Michael (2004): … 
+Heusinger, Robert von (2007): ... 
+ 
+Bei Werken mit zwei Autoren werden die beiden Namen durch „und“ getrennt. Es besteht 
+die Möglichkeit, lediglich beim ersten Autoren den Nachnamen vor dem Vornamen zu 
+nennen. Durch diese Schreibweise können Kommata eingespart werden, was die 
+Übersichtlichkeit erhöht. Darüber hinaus können die Autoren auch durch einen 
+Schrägstrich getrennt werden. 
+ 
+ Beispiel: Böll, Heinrich und Günter Wallraff (1977): … 
+ 
+ Böll, Heinrich und Günter Wallraff (1977): … 
+ Böll, Heinrich und Wallraff, Günter (1977): … 
+ Böll, Heinrich / Günter Wallraff (1977): … 
+ Böll, Heinrich / Wallraff, Günter (1977): … 
+ 
+Bei drei Autoren (und mehr) werden die ersten Autoren durch ein Komma getrennt. 
+ 
+ Beispiel: Fritsch, Michael, Thomas Wein und Hans-Jürgen Ewers (2005): ... 
+
+
+=== PAGE 26 ===
+24 
+5.1.4 
+Titel 
+Die Titel verwendeter Werke werden nur in kursiver Schrift angegeben, wenn es sich um 
+offizielle Veröffentlichungen handelt. So wird etwa bei Online-Artikeln oder bei 
+unveröffentlichten Arbeiten auf kursiven Schriftsatz verzichtet. Titel von untergeordneten 
+Beiträgen werden ebenfalls nicht kursiv dargestellt. Der verbreitetste Fall hierfür ist ein 
+Artikel in einer Fachzeitschrift oder einem Sammelwerk (siehe auch den entsprechenden 
+Abschnitt 5.2.2: Beiträge aus Sammelwerken), bei der der Artikel in Standardsatz, das 
+Sammelwerk aber in kursiver Schrift aufgeführt wird. 
+Hat der Text einen Untertitel, wird dieser mit einem Punkt vom Haupttitel getrennt. 
+ 
+ Beispiel:  
+Schmidt, Michael (2004): Der Abgrund der Freiheit und die erste Liebe. Eine Reise mit 
+Faust durch Ihr Leben, … 
+ 
+ Nach dem Titel steht ein Komma. 
+ Nach dem Titel steht ein Punkt (anschließend Großschreibung beachten).  
+5.1.5 
+Auflage 
+Die Auflage eines Werkes wird nur mit angegeben, falls es sich nicht um die Erstausgabe 
+handelt. Auf die Nennung ergänzender Angaben zur Auflage wie zum Beispiel „6., völlig 
+überarbeitete Auflage“ sollte verzichtet werden, bei einer Nennung sollte zumindest 
+sinnvoll abgekürzt werden. 
+ 
+ Beispiel:  
+Blankart, Charles B. (2006): Öffentliche Finanzen in der Demokratie, 6. Aufl., München: 
+Verlag Franz Vahlen. 
+ 
+ Keine Nennung ergänzender Zusatzangaben 
+ Nennung ergänzender Zusatzangaben 
+5.1.6 
+Darstellung und Reihenfolge 
+Zur besseren Lesbarkeit des Literaturverzeichnisses wird zwischen den einzelnen 
+Einträgen ein kleiner Abstand eingefügt. Darüber hinaus wird ab der zweiten Zeile 
+eingerückt und als Schriftsatz linksbündig sowie ein einzeiliger Zeilenabstand gewählt.  
+ 
+
+
+=== PAGE 27 ===
+25 
+ Beispiel:  
+Camus, Albert (2003): Der Fremde, in: Barbara Hoffmeister (Hrsg.), Albert Camus. Ein 
+Lesebuch mit Bildern, Reinbek bei Hamburg: Rowohlt Verlag, S. 7-114. 
+Wößmann, Ludger (2007): Die Relevanz von Bildung für Beschäftigung und Wachstum, 
+in: Wirtschaftspolitische Blätter, Jg. 54, Nr. 1, S. 9-26. 
+ 
+Es wird alphabetisch nach Nachnamen der Autoren sortiert. Dabei wird nicht zwischen 
+Monografien, Artikeln aus Zeitschriften oder Internet-Quellen etc. getrennt. 
+Wird ein Autor aufgeführt, der sowohl alleine als auch mit anderen Autoren veröffentlicht 
+hat, so werden zunächst die Arbeiten aufgeführt, die von ihm alleine stammen und 
+anschließend diejenigen, an denen noch andere Autoren beteiligt waren. 
+Werden mehrere Titel desselben Autors oder derselben Autorin genannt, so steht die 
+älteste Arbeit an erster Stelle; es folgen chronologisch geordnet die neueren Beiträge. 
+ 
+1 
+Anfangsbuchstabe Nachname A 
+1.1 
+Alleinige Veröffentlichung 
+1.1.1 
+Ältere Veröffentlichung 
+1.1.2 
+Neuere Veröffentlichung 
+1.2 
+Gemeinsame Veröffentlichung 
+1.2.1 
+Ältere Veröffentlichung 
+1.2.2 
+Neuere Veröffentlichung 
+2 
+Anfangsbuchstabe Nachname Z 
+2.1 
+Alleinige Veröffentlichung 
+2.2 
+... 
+ 
+5.2 Umgang mit verschiedenen Quellenarten 
+Zur Verdeutlichung der verschiedenen Zitierformen im Literaturverzeichnis werden die 
+hier dargestellten Fälle an Beispielen illustriert. Zusätzlich ist jedes Element der 
+Literaturangabe inklusive der dazugehörigen Satzzeichen in einer Tabellengrafik 
+dargestellt.  
+Auch am Ende dieser Arbeitshilfe werden alle zitierten Werke in einem 
+Literaturverzeichnis zusammengefasst, um ein Beispiel für eine solche zu geben. 
+5.2.1 
+Monographien 
+Zunächst werden Nachname und Vorname des Autors genannt. Es folgt das 
+Erscheinungsjahr in Klammern. Bei mehreren Büchern eines Autors, die im selben Jahr 
+erschienen sind, werden zusätzlich die im Text verwendeten Kleinbuchstaben hinter der 
+
+
+=== PAGE 28 ===
+26 
+Jahreszahl aufgeführt. Es folgt in kursiver Schrift der Buchtitel sowie ggf. eine Angabe 
+zum zitierten Band (Abkürzung Bd.). Die Auflage wird mit angegeben, falls es sich nicht 
+um die Erstausgabe handelt. Anschließend folgen der Verlagsort (sind mehrere Orte 
+aufgeführt, wird nur der erste Ort genannt) und der Verlag. Auf die Angabe von 
+Seitenzahlen wird bei Monographien in den meisten Fällen verzichtet.  
+Hat die Monographie einen Herausgeber, der vom Verfasser abweicht, so ist dieser mit 
+Vornamen, Nachnamen und dem Zusatz (Hrsg.) nach dem Titel anzugeben.  
+Das folgende Beispiel und die dazugehörige Grafik zeigen das Format der 
+Literaturangabe. 
+ 
+ Beispiel:  
+Blankart, Charles B. (2006): Öffentliche Finanzen in der Demokratie, 6. Aufl., München: 
+Verlag Franz Vahlen. 
+ 
+Name, Vorname 
+(Jahr): 
+Titel (kursiv), 
+ggf. Vorname Name (Hrsg.), 
+ggf. Bd. ...,  
+ggf. Auflage, 
+Ort: 
+Monographie 
+Verlag. 
+ 
+5.2.2 
+Beiträge aus Sammelwerken  
+Analog zu Monographien werden Name und Jahr des Autors angegeben. Anschließend 
+wird der Titel des Artikels (nicht kursiv) aufgeführt. Nach dem Wort „in:“ folgt der Name 
+des Herausgebers mit dem anschließenden Hinweis (Hrsg.). Es folgt in kursiver Schrift 
+der Buchtitel. Falls es sich um einen mehrbändiges Werk handelt, so wird nach dem Titel 
+der entsprechende Band genannt (Abkürzung: Bd.). Die Auflage wird mit angegeben, falls 
+es sich nicht um die Erstausgabe handelt. Anschließend folgen der Verlagsort (sind 
+mehrere Orte aufgeführt, wird nur der erste Ort genannt) und der Verlag. Im Anschluss 
+daran wird der Seitenbereich des Beitrages angegeben. 
+ 
+
+
+=== PAGE 29 ===
+27 
+ Beispiel:  
+Camus, Albert (2003): Der Fremde, in: Barbara Hoffmeister (Hrsg.), Albert Camus. Ein 
+Lesebuch mit Bildern, Reinbek bei Hamburg: Rowohlt Verlag, S. 7-114. 
+ 
+ Doppelpunkt nach „in“ 
+ Kein Doppelpunkt nach „in“ 
+ 
+Die Angabe zur Nummer des Bandes kann, wenn vorhanden, in Klammern gesetzt 
+werden. 
+ 
+ Angabe des Bandes ohne Klammern  
+ Angabe des Bandes mit Klammern 
+ 
+Name, Vorname 
+(Jahr): 
+Titel des Beitrages, 
+in: 
+Vorname Name (Hrsg.), 
+Titel (kursiv), 
+ggf. Bd. ..., 
+ggf. Auflage, 
+Ort: 
+Verlag,  
+Sammelwerk 
+Seitenbereich. 
+ 
+5.2.3 
+Zitate aus Gesamtausgaben 
+Die Werke wichtiger Autoren werden oft in einer Gesamtausgabe veröffentlicht. Bei 
+Zitaten aus Gesamtausgaben ist zwischen zwei Fällen zu unterscheiden. Stellt der zitierte 
+Beitrag aus der Gesamtausgabe einen eigenen Band dar, so ist dieser entsprechend einer 
+Monographie zu zitieren. Die einzige Abweichung ergibt sich aus dem Verweis auf die 
+Gesamtausgabe „GA“ im Anschluss an die entsprechende Nummer des verwendeten 
+Bandes. 
+ 
+
+
+=== PAGE 30 ===
+28 
+ Beispiel:  
+Steiner, Rudolf (2000): Friedrich Nietzsche. Ein Kämpfer gegen seine Zeit, Bd. 5 GA, 4. 
+Aufl., Dornach: Rudolf Steiner Verlag. 
+ 
+ 
+Name, Vorname 
+(Jahr): 
+Titel des Bandes (kursiv), 
+ggf. Vorname Name (Hrsg.), 
+Bd. ... GA, 
+ggf. Auflage, 
+Ort: 
+Gesamtausgabe (A) 
+Verlag. 
+ 
+Der zweite Fall ergibt sich, wenn der zitierte Beitrag einen Teilabschnitt eines Bandes aus 
+der Gesamtausgabe darstellt. In diesem Fall wird der Beitrag entsprechend eines 
+Sammelwerks zitiert, ergänzt um den Hinweis auf die Gesamtausgabe. 
+ 
+ Beispiel:  
+Steiner, Rudolf (1978): Vierter Vortrag: Menschenerkenntnis als Grundlage der 
+Pädagogik und Didaktik III, in: Rudolf Steiner Nachlassverwaltung (Hrsg.), Die 
+gesunde Entwickelung des Menschenwesens. Eine Einführung in die 
+anthroposophische Pädagogik und Didaktik, Bd. 303 GA, 3. Aufl., Dornach: Rudolf 
+Steiner Verlag, S. 60-80. 
+ 
+
+
+=== PAGE 31 ===
+29 
+Name, Vorname 
+(Jahr): 
+Titel des Beitrages, 
+in: 
+Vornamen Namen (Hrsg.), 
+Titel des Bandes (kursiv), 
+Bd. ... GA, 
+ggf. Auflage, 
+Ort: 
+Verlag,  
+Gesamtausgabe (B) 
+Seitenbereich. 
+ 
+5.2.4 
+Beiträge aus Internet-Quellen 
+Bei Zitaten aus dem Internet ist es wichtig, dass beim Eintrag im Literaturverzeichnis die 
+vollständige Internetadresse (URL), welche direkt zur verwendeten Quelle führt, 
+angegeben wird. Darüber hinaus ist das Datum des Abrufs aufzuführen, da Informationen 
+im Internet häufig abgeändert oder ganz aus dem Netz genommen werden. 
+Als erstes wird der Verfasser (bzw. die Institution, welche die Informationen zur 
+Verfügung stellt) mit Nachname und Vorname genannt. Es folgt das Erscheinungsjahr in 
+Klammern. Der Titel des Dokuments wird nicht kursiv dargestellt. Durch den Hinweis 
+[online] wird darauf hingewiesen, dass es sich um eine Internet-Quelle handelt. Darauf 
+folgt direkt (ohne Komma) die vollständige Internetadresse. Wiederum ohne Komma 
+wird das Datum des Abrufs [TT.MM.JJJJ] in eckigen Klammern angegeben.  
+Hinweis: Häufig kann man die benötigten Informationen dem Impressum der Internetseite 
+entnehmen.  
+ 
+ Beispiel:  
+Statistisches Bundesamt Deutschland (2006): Fast 30% aller Kinder kamen 2005 
+außerehelich zur Welt, [online] 
+http://www.destatis.de/presse/deutsch/pm2007/zdw4.htm [25.01.2007]. 
+ 
+
+
+=== PAGE 32 ===
+30 
+Name, Vorname 
+(Jahr): 
+Titel, 
+[online] 
+http://www. ... 
+Internet-Quellen 
+[TT.MM.JJJJ]. 
+ 
+5.2.5 
+Beiträge aus Zeitschriften 
+Wie in den vorigen Beispielen werden Namen des Autors, Jahr und Titel des Artikels 
+angeführt. Nach dem Wort „in:“ wird der vollständige Name der Zeitschrift in kursiver 
+Schrift angegeben. Es folgt der Jahrgang (Abkürzung: Jg.) und falls vorhanden die 
+Nummer des Heftes (Abkürzung: Nr.). Am Schluss wird der Seitenbereich des zitierten 
+Artikels angegeben. 
+Einige Zeitschriften weisen abweichende Bezeichnungen wie zum Beispiel „Heft“ anstatt 
+„Nr.“ auf. In diesen Fällen sollten die Bezeichnungen der jeweiligen Zeitschriften 
+übernommen werden. 
+Die Angabe zur Heftnummer kann in Klammern gesetzt werden. 
+ 
+ Beispiel:  
+Heusinger, Robert von (2007): Die Angst vor der Größe. Die geplante Fusion zwischen 
+den Banken DZ und WGZ ist geplatzt. Aus Partnern werden Konkurrenten, in: Die 
+Zeit, Jg. 61, Nr. 52, S. 27. 
+Wößmann, Ludger (2007): Die Relevanz von Bildung für Beschäftigung und Wachstum, 
+in: Wirtschaftspolitische Blätter, Jg. 54, Nr. 1, S. 9-26. 
+ 
+ Angabe der Heftnummer ohne Klammern (in: Die Zeit, Jg. 61, Nr. 52, S. 27.) 
+ Angabe der Heftnummer mit Klammern (in: Die Zeit, Jg. 61 (Nr. 52), S. 27.) 
+ 
+
+
+=== PAGE 33 ===
+31 
+Name, Vorname 
+(Jahr): 
+Titel des Artikels, 
+in: 
+Titel der Zeitschrift (kursiv), 
+Jg. ..., 
+Nr. ..., 
+Beiträge aus Zeitschriften 
+Seitenbereich. 
+ 
+5.2.6 
+Studienarbeiten 
+Beim Zitieren von wissenschaftlichen Arbeiten, die im Rahmen eines Studiengangs 
+entstanden sind, wird zunächst der Name des Autors mit Nachname und Vorname 
+genannt. Es folgt die Jahresangabe. Der Titel der Arbeit wird nicht kursiv dargestellt, da 
+es sich um keine offizielle Veröffentlichung handelt. Anschließend wird der Rahmen 
+angegeben, in dem die Arbeit entstanden ist. Neben der Form der Arbeit (Seminararbeit, 
+Diplomarbeit, 
+Masterarbeit 
+etc.) ist dabei sowohl das Fach als auch die 
+Bildungseinrichtung anzuführen. 
+ 
+ Beispiel:  
+Bahr, Jonas (2008): Marktversagen als Rechtfertigung für ein staatliches Eingreifen in die 
+Finanzierung von Hochschulbildung, Diplomarbeit im Fach Volkswirtschaftslehre an 
+der Humboldt-Universität zu Berlin. 
+ 
+Name, Vorname 
+(Jahr): 
+Titel, 
+Studienarbeit 
+Form der Arbeit / Fach / Bildungseinrichtung.
+ 
+5.2.7 
+Zitate aus Filmen 
+Bei Zitaten aus Filmen wird anstelle des Autors der Regisseur mit Nachnamen und 
+Vornamen aufgeführt. Es folgt die Jahresangabe der Veröffentlichung in Klammern mit 
+
+
+=== PAGE 34 ===
+32 
+anschließendem Doppelpunkt nach der Klammer. Der Titel wird in kursiver Schrift 
+angegeben. Direkt im Anschluss (ohne Komma) folgt in eckigen Klammern das Medium 
+[DVD] oder [Video] etc. Vervollständigt wird die Angabe durch den Ort der 
+Veröffentlichung und der Produktionsfirma.  
+ 
+ Beispiel:  
+Forman, Milos (2002): Einer flog über das Kuckucksnest [DVD], Burbank: Warner Home 
+Video. 
+ 
+Name, Vorname 
+(Jahr): 
+Titel, 
+[Medium], 
+Ort: 
+Film 
+Produktionsfirma. 
+ 
+5.2.8 
+Eigene, unveröffentlichte Quellen  
+Da Interviews, persönliche Korrespondenzen oder Vorträge meistens nicht wortwörtlich 
+dokumentiert sind, werden sie nicht mit im Literaturverzeichnis aufgeführt. Verwendet 
+man ein Zitat aus einer persönlichen Korrespondenz, so wird der Verweis darauf nur 
+direkt im Text angegeben. Das selbe gilt auch für Email-Korrespondenzen; diese werden 
+auch nicht mit im Literaturverzeichnis aufgenommen, da es sich genau genommen 
+lediglich um eine persönliche Korrespondenz in elektronischer Form handelt. 
+ 
+5.2.9 
+Zitate aus zweiter Hand 
+Bei Zitaten aus zweiter Hand wird nur die Sekundärquelle aufgeführt, welche dem 
+Verfasser der Arbeit vorliegt. Es gelten jeweils die dem Werk entsprechenden Regelungen 
+für den Eintrag ins Literaturverzeichnis.  
+ 
+ Beispiel zu (von Hayek 1989, zitiert nach Blankart 2006: 113): 
+Blankart, Charles B. (2006): Öffentliche Finanzen in der Demokratie, 6. Aufl., München: 
+Verlag Franz Vahlen. 
+
+
+=== PAGE 35 ===
+33 
+ 
+
+
+=== PAGE 36 ===
+34 
+6 Literaturverzeichnis 
+Am Schluss der Arbeit werden alle in der Arbeit zitierten Titel im Literaturverzeichnis 
+aufgeführt.  
+ 
+Bahr, Jonas (2008): Marktversagen als Rechtfertigung für ein staatliches Eingreifen in die 
+Finanzierung von Hochschulbildung, Diplomarbeit im Fach Volkswirtschaftslehre an 
+der Humboldt-Universität zu Berlin. 
+Blankart, Charles B. (2006): Öffentliche Finanzen in der Demokratie, 6. Aufl., München: 
+Verlag Franz Vahlen. 
+Böll, Heinrich und Günter Wallraff (1975): Berichte zur Gesinnungslage der Nation, 
+Köln: Kiepenheuer & Witsch. 
+Camus, Albert (2003): Der Fremde, in: Barbara Hoffmeister (Hrsg.), Albert Camus. Ein 
+Lesebuch mit Bildern, Reinbek bei Hamburg: Rowohlt Verlag, S. 7-114. 
+Defoe, Daniel (1987): Leben und Abenteuer des Robinson Crusoe, München: Deutscher 
+Taschenbuch Verlag.  
+Dürrenmatt, Friedrich (1985a): Die Physiker. Eine Komödie in zwei Akten, Neufassung 
+1980, Zürich: Diogenes. 
+Dürrenmatt, Friedrich (1985b): Der Besuch der alten Dame. Eine tragische Komödie, 
+Neufassung 1980, Zürich: Diogenes. 
+Forman, Milos (2002): Einer flog über das Kuckucksnest [DVD], Burbank: Warner Home 
+Video. 
+ 
+Frisch, Max (1975): Ich suche den Wert des Alters, in: Rudolf Ossowski (Hrsg.), Jugend 
+fragt – Prominente antworten, Berlin: Colloquium-Verlag. 
+Fritsch, Michael, Thomas Wein und Hans-Jürgen Ewers (2005): Marktversagen und 
+Wirtschaftspolitik, 6. Auflage, München: Verlag Franz Vahlen. 
+Galbraith, John Kenneth (2005): Die Ökonomie des unschuldigen Betrugs. Vom 
+Realitätsverlust der heutigen Wirtschaft, München: Siedler Verlag. 
+Heusinger, Robert von (2007): Die Angst vor der Größe. Die geplante Fusion zwischen 
+den Banken DZ und WGZ ist geplatzt. Aus Partnern werden Konkurrenten, in: Die 
+Zeit, Jg. 61, Nr. 52, S. 27. 
+Melville, Herman (1994): Moby Dick, London: Penguin Popular Classics. 
+Miller, Arthur (2001): Tod eines Handlungsreisenden, 46. Auflage, Frankfurt am Main: 
+Fischer Taschenbuch Verlag. 
+Miller, Henry (2004): Stille Tage in Clichy, 20. Auflage, Reinbek: Rowohlt Taschenbuch 
+Verlag. 
+
+
+=== PAGE 37 ===
+35 
+Rusch, Claudia (2003): Meine freie deutsche Jugend, Frankfurt am Main: Fischer Verlag. 
+Schmidt, Michael (2004): Der Abgrund der Freiheit und die erste Liebe. Eine Reise mit 
+Faust durch Ihr Leben, München: Archiati Verlag. 
+Statistisches Bundesamt Deutschland (2006): Fast 30% aller Kinder kamen 2005 
+außerehelich zur Welt, [online] 
+http://www.destatis.de/presse/deutsch/pm2007/zdw4.htm [25.01.2007]. 
+Steiner, Rudolf (1978): Vierter Vortrag: Menschenerkenntnis als Grundlage der 
+Pädagogik und Didaktik III, in: Rudolf Steiner Nachlassverwaltung (Hrsg.), Die 
+gesunde Entwickelung des Menschenwesens. Eine Einführung in die 
+anthroposophische Pädagogik und Didaktik, Bd. 303 GA, 3. Aufl., Dornach: Rudolf 
+Steiner Verlag, S. 60-80. 
+Steiner, Rudolf (2000): Friedrich Nietzsche ein Kämpfer gegen seine Zeit, Bd. 5 GA, 4. 
+Aufl., Dornach: Rudolf Steiner Verlag. 
+Wößmann, Ludger (2007): Die Relevanz von Bildung für Beschäftigung und Wachstum, 
+in: Wirtschaftspolitische Blätter, Jg. 54, Nr. 1, S. 9-26. 
+
+
+=== PAGE 38 ===
+ 
+
+
+=== PAGE 39 ===
+ 
+ 
+
+
+=== PAGE 40 ===
+Copyright 2011: Institut für Praxisforschung, Solothurn CH
+www.institut-praxisforschung.ch
+Die vorliegende Arbeitshilfe soll Ihnen einen möglichst 
+vollständigen Überblick über die Verwendung der Harvard-
+Zitierweise geben und als Hilfestellung für das Verfassen eines 
+wissenschaftlichen Textes dienen. Bei der Auswahl der Inhalte 
+stand immer die einheitliche Vorgehensweise beim Zitieren im 
+Vordergrund, um Ausnahmeregelungen auf ein Minimum zu 
+beschränken. 
+Wir hoffen, dass diese Arbeitshilfe einen kleinen Beitrag zum 
+Gelingen Ihrer schriftlichen Arbeiten leisten kann.

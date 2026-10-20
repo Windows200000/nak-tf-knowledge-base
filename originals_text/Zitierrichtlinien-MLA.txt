@@ -1,0 +1,364 @@
+
+=== PAGE 1 ===
+Zitierrichtlinien nach MLA 
+Inhaltsverzeichnis 
+1 
+Was ist MLA Style? ...................................................................................................................... 1 
+2 
+Zitationen und Quellenangaben im Fließtext .............................................................................. 1 
+3 
+Das Quellenverzeichnis ............................................................................................................... 4 
+3.1 
+Buch & Buchbeiträge ................................................................................................................... 4 
+3.1.1 
+Buch (ein Verfasser) ................................................................................................................ 4 
+3.1.2 
+Buch (zwei oder mehrere Verfasser) ....................................................................................... 4 
+3.1.3 
+Beiträge in Herausgeberwerken .............................................................................................. 5 
+3.1.4 
+Dissertationen ......................................................................................................................... 5 
+3.1.5 
+Unveröffentlichte Abschlussarbeit (Master-, Bachelor-, Diplomarbeit etc.) .......................... 5 
+3.2 
+Artikel in Zeitschriften ................................................................................................................. 6 
+3.3 
+Internetquellen ............................................................................................................................ 6 
+3.3.1 
+Digitales Buch .......................................................................................................................... 6 
+3.3.2 
+Digitale Zeitschriftenartikel ..................................................................................................... 7 
+3.4 
+Webseiten ................................................................................................................................... 7 
+3.5 
+Blogs und Online-Videos ............................................................................................................. 7 
+3.6 
+Filme und Fernsehen ................................................................................................................... 8 
+3.6.1 
+Filme ........................................................................................................................................ 8 
+3.6.2 
+Serien/Serienepisoden ............................................................................................................ 8 
+3.7 
+Software/Computerspiele ........................................................................................................... 8 
+3.8 
+Patente ........................................................................................................................................ 8 
+3.9 
+Normen / Richtlinien ................................................................................................................... 9 
+ 
+ 
+
+
+=== PAGE 2 ===
+1 
+ 
+Zitationen nach MLA 
+In diesem Dokument erhalten Sie detaillierte Informationen über Zitationen und Quellenangaben im 
+Fließtest sowie die Formatierung und Listung der Literatur in der Bibliografie. Bitte lesen Sie sich 
+zunächst das Grundlagendokument durch, um grundlegende Informationen über wissenschaftliche 
+Literatur, Zitate und Publikationsformen zu erhalten. 
+1 Was ist MLA Style? 
+Der Zitationsstil der Modern Language Association wird hauptsächlich im Bereich der Sprach-, Sozial- 
+und Kulturwissenschaften angewendet. Der MLA-Style arbeitet nicht mit Fußnoten, sondern es wird 
+im Text zitiert (amerikanische Zitierweise).  
+Regulär wird bei der Zitation im Fließtext bei der MLA keine Jahreszahl angegeben, sondern nur 
+Autor und Seitenzahl (z.B. Müller und Schulze: 151). Am Institut für Medienforschung empfehlen wir 
+die Verwendung einer abgewandelten Form der MLA-Zitation im Fließtext (u.a. mit der zusätzlichen 
+Angabe von Jahreszahlen). Bitte sprechen Sie Details mit Ihren Betreuern ab. 
+Die folgenden Übersichten fassen Beispiele aus den Bereichen Print- und Neue Medien zusammen. 
+Bitte beachten Sie, dass es sich hier um eine am IMF angepasste Version der MLA-Zitierweise 
+handelt. 
+2 Zitationen und Quellenangaben im Fließtext 
+Wenn Sie einen Autor zitieren, fügen Sie im Fließtext den/die Autorennachnamen, die Jahreszahl und 
+die Seitenzahl in Klammern an, wobei nach der Jahreszahl ein Doppelpunkt steht. 
+Beispiele: 
+(1) Flick (2002: 20) weist darauf hin, dass... 
+(2) In einer Übersicht über die Kennzeichen qualitativer Forschung (Flick 2002: 20) zeigt sich, 
+dass... 
+Direkte Zitate kann man auf verschiedene Arten angeben. Folgende Optionen sind empfehlenswert: 
+(1) „Zitat“ (Autor Jahr: Seitenzahl) 
+ 
+Beispiel: 
+
+
+=== PAGE 3 ===
+2 
+ 
+„Wir interagieren in unseren empirischen Untersuchungen mit Nichtwissenschaftlern und 
+müssen die Rechte und Interesse der Untersuchten ernst nehmen“ (Gläser und Laudel 2010: 
+49). 
+(2) Autor (Jahr) „Zitat“ (Jahr: Seitenzahl) 
+ 
+Beispiel: 
+Gläser und Laudel konstatieren, dass sie „die Rechte und Interesse der Untersuchten ernst 
+nehmen“ (2010: 49). 
+(3) Autor (Jahr: Seitenzahl) „Zitat“. 
+Beispiel:  
+Gläser und Laudel (2010: 49) konstatieren, dass sie „die Rechte und Interesse der 
+Untersuchten ernst nehmen“. 
+Hinweis: Bitte beachten Sie, dass der Punkt immer am Satzende gesetzt wird. Der Punkt wird somit 
+nach den Ausführungszeichen zum Zitatende oder nach der Seitenzahl gesetzt (siehe Beispiele). 
+Wenn Sie mehrere Werke eines Autors zitieren, geben Sie bitte nicht den Titel in der Klammer an 
+(wie von MLA verlangt), sondern beschränken sich auf die Jahreszahl. 
+Sollten zwei Werke desselben Autors und desselben Jahres zitiert werden, verfahren Sie bitte wie bei 
+der APA-Zitierweise, indem Sie der Jahreszahl eine Nummerierung in Kleinbuchstaben anfügen. 
+Beispiel: 
+(Werk 1) Krotz (2005a: 145) weist darauf hin, dass ...  
+(Werk 2) Jedoch zeigt sich in einer Übersicht über die Kennzeichen qualitativer Forschung 
+(Krotz 2005b: 32), dass...  
+Zitieren Sie eine Quelle mit zwei Autoren, verbinden Sie diese im Fließtext oder in der Klammer durch 
+ein „und“. 
+ 
+Beispiele: 
+ 
+(1) Strauss und Corbin (1996: 57) weisen darauf hin, dass ... 
+(2) In einer Übersicht über Techniken zur Erhöhung theoretischer Sensibilität (Strauss und 
+Corbin 1996: 57) zeigt sich, dass... 
+Zitieren Sie eine Quelle mit drei Autoren, trennen Sie den ersten und zweiten Autor mit einem 
+Komma und verbinden Sie den zweiten und dritten Autor mit einem „und“. Achten Sie darauf, dass 
+nach dem zweiten Autor auch ein Komma folgt. 
+
+
+=== PAGE 4 ===
+3 
+ 
+Beispiele: 
+(1) Bentele, Fröhlich, und Szyszka (2008: 10) betonen, dass ... 
+(2) In einer Übersicht der einzelnen Teilkapitel (Bentele, Fröhlich, und Szyszka 2008: 10) zeigt 
+sich, dass... 
+Zitieren Sie eine Quelle mit mehr als drei Autoren, geben Sie den Namen des Erstautors an und 
+ersetzen Sie die anderen Autoren durch ein „et al.“. 
+Beispiele: 
+(1) Ritchie et al. (2014: 7) betonen, dass ... 
+(2) In einer Übersicht epistemologischer Positionen (Ritchie et al. 2014: 7) zeigt sich, dass... 
+Entnimmt man ein Zitat, das über das Seitenende hinaus auf eine zweite Seite verläuft, wird nach der 
+Seitenzahl ein „f“ hinzugefügt. Geht das Zitat über mehr als zwei Seiten, fügt man „ff“ hinzu. 
+Beispiel: 
+Rey (2012) beschreibt Studien, in welchen Probanden selektiert wurden, die in einem 
+vorherigem Screeningtest besonders gut abschnitten „which indicated a high working 
+memory-capacity” (S. 230f). 
+Wörtliche Zitate über 40 Zeilen werden in einem eingerückten, freistehenden Block ohne 
+Anführungszeichen platziert. 
+ 
+Beispiel: 
+In seiner Studie fand Jones (1993) heraus: 
+Students often had difficulty using APA style, especially when it was their first time citing 
+sources. This difficulty could be attributed to the fact that many students failed to 
+purchase a style manual or to ask their teacher for help. (S.199). (Beispielzitat ist aus 
+Platzgründen kürzer gewählt) 
+Um Sekundärquellen zu zitieren, wird auf beide Quellen verwiesen. In der Bibliografie erscheint dann 
+allerdings nur die tatsächlich genutzte Quelle. 
+ 
+Beispiel: 
+ 
+(Gordon 1975, zitiert nach Gläser und Laudel 2010) 
+Hinweis: Gläser und Laudel (2010) würden im Literaturverzeichnis aufgelistet werden, Gordon (1975) 
+nicht. 
+
+
+=== PAGE 5 ===
+4 
+ 
+3 Das Quellenverzeichnis 
+Im 
+folgenden 
+Abschnitt 
+wird 
+die 
+Auflistung 
+der 
+gängigsten 
+Publikationsformen 
+im 
+Literaturverzeichnis beschrieben. Sollten Sie dennoch andere Quellen zitieren, welche hier nicht 
+beschrieben sind, finden Sie eine detailliertere Auflistung im MLA-Manual.  
+Für jede Publikationsform wird zunächst die grundlegende Struktur gezeigt, die alle verlangten 
+Inhalte verdeutlicht. Danach wird anhand eines Beispiels gegebenenfalls auf Besonderheiten 
+hingewiesen. 
+Struktur der Beispiele: 
+Publikationsform 
+ grundlegende Struktur (abstrakt) 
+ 
+ Beispiel 
+Hinweis: … 
+3.1 Buch & Buchbeiträge 
+3.1.1 Buch (ein Verfasser) 
+Autornachname, Autorenvorname. Buchtitel1. Auflage (falls vorhanden). Verlagsort: Verlag, Jahr. 
+Publikationsform. 
+Beispiel: 
+Flick, Uwe. Qualitative Sozialforschung: Eine Einführung. 6. Auflage. Reinbek bei Hamburg: 
+Rowohlt Taschenbuch Verlag, 2002. Print. 
+3.1.2 Buch (zwei oder mehrere Verfasser) 
+Autorennachname, Autorenvorname und Autorenvorname Autorennachname. Buchtitel. Auflage 
+(falls vorhanden). Verlagsort: Verlag, Jahr. Publikationsform. 
+ 
+Beispiel: 
+Strauss, Anselm und Juliet Corbin. Grounded Theory: Grundlagen qualitativer Sozialforschung. 
+Weinheim: Psychologie Verlags Union, 1996. Print. 
+Autorennachname, Autorenvorname, Autorenvorname Autorennachname, und Autorenvorname 
+Autorennachname. Buchtitel. Auflage (falls vorhanden). Verlagsort: Verlag, Jahr. Publikationsform. 
+                                                          
+1 Beachten Sie, dass bei verschiedenen Publikationsformen verschiedene Informationen kursiv formatiert 
+werden. 
+
+
+=== PAGE 6 ===
+5 
+ 
+Beispiel: 
+Huber, Ludwig, Judith Hellmer und Friederike Schneider. Forschendes Lernen im Studium. 
+Aktuelle Konzepte und Erfahrungen. Bielefeld: UniversitätsVerlagWebler, 2009. Print. 
+Hinweise:  
+(1) Nur bei dem ersten Autor wird der Nachname vorangestellt. Die Auflage wird, falls vorhanden, 
+nach dem Buchtitel angeführt. 
+(2) Wollen Sie mehrere Werke desselben Autors/derselben Autorin zitieren, werden diese nach den 
+Erscheinungsjahren geordnet (ältere zuerst). 
+3.1.3 Beiträge in Herausgeberwerken 
+Autorennachname, 
+Autorenvorname. 
+„Beitragstitel". 
+Buchtitel. 
+Hrsg. 
+Herausgebervorname 
+Herausgebernachname, Herausgebervorname Herausgebernachname und Herausgebervorname 
+Herausgebernachname. Verlagsort: Verlag, Jahr, Seitenzahlen. Publikationsform. 
+Beispiel: 
+Merten, Klaus. „Kommunikation und Persuasion“. Handbuch der Public Relations. 
+Wissenschaftliche Grundlagen und berufliches Handeln. 2. Aufl. Hrsg. Günter Bentele, Romy 
+Fröhlich und Peter Szyszka. Wiesbaden: Verlag für Sozialwissenschaften, 2008, 297-308. 
+Print. 
+Hinweis: Bei mehr als drei Autoren können Sie entweder alle Autoren anführen, oder nur den ersten 
+Autorennamen und die restlichen durch das Kürzel „et al.“ ersetzen. 
+3.1.4 Dissertationen 
+Autorennachname, Autorenvorname. Titel der Dissertation. Diss. Name der Universität. Verlagsort: 
+Verlag, Jahr. Publikationsform. 
+Beispiel:  
+Walzik, Sebastian. Sozialkompetenzen an der Hochschule fördern. Diss. Universität St. Gallen. 
+Brühl: MVR-Druck, 2002. Print. 
+3.1.5 Unveröffentlichte Abschlussarbeit (Master-, Bachelor-, Diplomarbeit etc.) 
+Autorennachname, Autorenvorname. Titel der Abschlussarbeit. Art der Abschlussarbeit. Name der 
+Universität, Jahr. 
+Beispiel: 
+
+
+=== PAGE 7 ===
+6 
+ 
+Sprank, Melanie. Motivationale Lernstrategien von MK-Studierenden unter Berücksichtigung 
+soziokultureller Hintergründe. Unveröffentlichte Bachelorarbeit. Technische Universität 
+Chemnitz, 2012. 
+Hinweis: Die Zitation von Bachelor- und Master- sowie Diplomarbeiten sollte man möglichst generell 
+vermeiden. 
+3.2 Artikel in Zeitschriften 
+Autorennachname, Autorenvorname, Autorenvorname Autorennachname und Autorenvorname 
+Autorennachname. „Titel des Artikels“. Name der Zeitschrift Jahrgang. Ausgabe: Seitenzahlen. 
+Publikationsform. 
+Beispiel: 
+Kiousis, Spiro. „Public Trust or Mistrust? Perceptions of Media Credibility in the Information 
+Age“. Mass Communication & Society 4.4 (2001), 381-403. Print. 
+Hinweis: DOI Nummern können weggelassen werden, da diese in Datenbanken zu finden sind. 
+Wichtig ist, dass die DOI Nummern entweder einheitlich überall angegeben oder komplett 
+weggelassen werden. 
+Bei (Tages-)Zeitungsartikeln und Magazinen wird das konkrete Erscheinungsdatum angegeben. 
+Beispiel: 
+Falter, Jürgen. Alle Macht dem Spin Doctor. Frankfurter Allgemeine Zeitung (17. April 1998), 
+11-12. 
+3.3 Internetquellen 
+Wichtig: Da Webadressen nicht statisch sind und zudem in vielfältigen Datenbanken auftauchen 
+können, ist es laut MLA-Richtlinien gestattet die URLs wegzulassen. Bitte sprechen Sie vorher mit 
+Ihren Betreuern ab, ob die Angabe der URL gewünscht ist. Sollten Sie auf die URL verzichten, geben 
+Sie bitte zwischen Erscheinungsjahr und Zugriffsdatum die Publikationsform „Web“ an (28. Nov. 
+2013. Web. 18. Apr. 2014). 
+Nachfolgend werden alle Beispiele mit Abrufdatum und URL angegeben. 
+3.3.1 Digitales Buch 
+Autor/Herausgeber/Institution. Titel der Quelle, Datum der Publikation. Abrufdatum URL 
+
+
+=== PAGE 8 ===
+7 
+ 
+Beispiel: 
+Bryant, 
+Peter. 
+Biodiversity 
+and 
+Conversation, 
+18. 
+Juli 
+2011 
+http://darwin.bio.uci.edu/sustain/bio65/Titlpage.htm 
+3.3.2 Digitale Zeitschriftenartikel 
+Autornachname, Autorenvorname. „Titel des Artikels“. Name der Zeitschrift Jahrgang. Ausgabe 
+(Erscheinungsjahr): Seitenzahlen. Abrufdatum URL (oder database). 
+Beispiel: 
+Germann, Christiano. „Politische Irrwege in die globale Informationsgesellschaft“. Aus Politik 
+und Zeitgeschichte 32: 16-25. 03. Okt. 2009 netLibrary database 
+3.4 Webseiten 
+Autor/Herausgeber/Institution. Titel der Seite. Datum der Publikation. Abrufdatum. URL. 
+Beispiel: 
+Bundeszentrale für politische Bildung. Wahlen in Deutschland. 22. Sep. 2004 
+http://www.bpb.de/wissen/7004AT,0,Wahlen_in_Deutschland.html 
+3.5 Blogs und Online-Videos 
+Bloginhaber/Videoproduzent. 
+Titel 
+des 
+Blogeintrages/Videos. 
+Datum 
+der 
+Publikation. 
+Veröffentlichungsform [Weblogeintrag/Videodatei]. Abrufdatum URL 
+Beispiel: 
+Middlekid. The unfortunate prerequisites and consequences of partitioning your mind. 22. 
+Januar 
+2007. 
+[Weblogeintrag]. 
+30.07.2014 
+http://scienceblogs.com/pharyngula/2007/01/the_unfortunate_prerequisites.php 
+Hinweise:  
+(1) Zur Zitation eines Blog-Eintrags verwenden Sie bitte die Angabe „Blog-Eintrag“, bei Antworten 
+bzw. Kommentaren „Blog Kommentar“. Bei Kommentaren in anderen Social- Media-Systemen 
+verfahren Sie analog, z.B.: „YouTube-Kommentar“, „Tweet“, etc.  
+(2) Sollte kein Publikationsdatum vorhanden sein, verwenden Sie bitte „n.d.“. 
+
+
+=== PAGE 9 ===
+8 
+ 
+3.6 Filme und Fernsehen 
+3.6.1 Filme 
+Titel. Reg. Vorname Nachname. Darst. Vorname Nachname, Vorname Nachname, Vorname 
+Nachname, und Vorname Nachname. Produktionsfirma, Erscheinungsjahr. Publikationsform. 
+Beispiel: 
+Die üblichen Verdächtigen. Reg. Bryan Singer. Darst. Kevin Spacey, Gabriel Byrne, Chazz 
+Palminteri, Stephen Baldwin, and Benicio del Toro. Polygram, 1995. Film. 
+Hinweis: Geben Sie VHS-, DVD- und Blu-ray Disc-Quellen auch als entsprechende Publikationsform 
+an. 
+3.6.2 Serien/Serienepisoden 
+„Episodentitel“. Serientitel. Produktionsfirma. Produktionsort. Erscheinungsdatum. Publikationsform. 
+Beispiel: 
+„Schalom, Dr. House?“ Dr. House. Fox Broadcasting. New York, USA. 2008. 
+Fernsehserienepisode. 
+3.7 Software/Computerspiele 
+Spiel oder Softwarename [Software]. Produktionsort: Produktionsfirma, Erscheinungsdatum. 
+Publikationsform. 
+Beispiel: 
+Grand Theft Auto IV [Software]. New York, USA: Rockstar Games, 2008. Computerspiel. 
+Hinweis: Das Spiel reiht sich hinsichtlich des Spielenamens alphabetisch in die Bibliografie ein. 
+3.8 Patente 
+Nachname, Vorname. Patent Land und Nummer. Stadt: Patentamt, Jahr. 
+Beispiel: 
+Lemelson, John (1981). U. S. Patent No. 4,285,338. Washington, D.C.: U.S. Patent and 
+Trademark Office. 
+
+
+=== PAGE 10 ===
+9 
+ 
+3.9 Normen / Richtlinien 
+Normierungsinstitut.  Ausführliche Normbezeichnung (wenn möglich mit konkreter Normnummer), 
+Jahr. 
+Beispiel: 
+DIN Deutsches Institut für Normung e. V.  DIN ISO 690 Information und Dokumentation - 
+Richtlinien für Titelangaben und Zitierung von Informationsressourcen (ISO 690:2010), 2013. 
+ 
+ 
+ 

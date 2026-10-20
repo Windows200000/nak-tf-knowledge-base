@@ -1,0 +1,1604 @@
+
+=== PAGE 1 ===
+Vahlen
+Thomas Träger
+Elektronische Quellen und Projektmaterialien 
+korrekt zitieren
+Zitieren2.0
+2. Auflage
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 2 ===
+Zum Inhalt  
+Das unentbehrliche Hilfsmittel zum Zitieren digitaler Quellen und von Pro-
+jektmaterialien 
+Das Internet und die elektronischen Medien sind selbstverständlicher Alltag 
+für Wissenschaftler, Dozenten und Studierende. Es ist nur konsequent, dass 
+sich die neuen Medien und die Möglichkeiten ihrer Nutzung auch in wissen-
+schaftlichen Arbeiten niederschlagen. Die Grundregeln der wissenschaftli-
+chen Quellenarbeit orientieren sich jedoch noch immer am Papier. Viele Fra-
+gen zur Arbeit mit dem Internet und elektronischen Quellen sind noch nicht 
+durch einheitliche Standards beantwortet. 
+Praxisorientierte Forschungsarbeiten stellen im Umgang mit Publikationen 
+von Unternehmen und firmeninternen Dokumenten besondere Herausforde-
+rungen dar, da auch hier eine Lücke zwischen gewachsenen Grundregeln der 
+Quellenarbeit und den Anforderungen projektorientierter Abschlussarbeiten 
+klafft. 
+Dieses Buch beschreibt die wissenschaftliche Quellenarbeit unter besonderer 
+Berücksichtigung von Internet, elektronischen und firmeninternen Quellen. 
+Zahlreiche Zitierbeispiele zeigen ganz konkret, wie unterschiedliche Quellen 
+genutzt werden.  
+Mit der aktuellen Auflage steht der Zitierstil auch für Citavi zur Verfügung. 
+ 
+ 
+Zum Autor: 
+Prof. Dr. Thomas Träger lehrt Organisation und Personalwesen an der Stein-
+beis-Hochschule Berlin, SHB. Als wissenschaftlicher Betreuer zahlreicher Ba-
+chelor- und Master-Studiengänge unterrichtet er „Wissenschaftliches Arbei-
+ten“ für die Steinbeis Business Academy, SBA. 
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 3 ===
+Zitieren 2.0
+Elektronische Quellen und Projektmaterialien 
+richtig zitieren
+von
+Prof. Dr. Thomas Träger
+2., überarbeitete und erweiterte Auflage
+Verlag Franz Vahlen München
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 4 ===
+Inhaltsverzeichnis
+Vorwort zur zweiten Auflage  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 
+V
+Vorwort zur ersten Auflage  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . .  VII
+Abbildungsverzeichnis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . XIII
+Tabellenverzeichnis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . XIII
+A.	 Einführung  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . 
+1
+B.	 Grundlagen wissenschaftlicher Quellenarbeit  .  .  .  .  .  . . . . . . . . 
+3
+	 I.	Sinn und Zweck von Quellenangaben und Zitaten  .  .  .  . . . . . . 
+3
+	 II.	Wissens- und Datenquellen  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 
+6
+	III.	Anforderungen an Quellen  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 
+9
+1.	 Zitierfähigkeit  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  10
+2.	 Zitierwürdigkeit  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . .  13
+3.	 Themenrelevanz  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . .  17
+	IV.	Direktes, indirektes Zitat und Rezitat  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .  19
+C.	 Die korrekte Zitierweise wählen  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . .  23
+	 I.	Systematik und Priorisierung der Zitierweisen  .  .  .  .  .  . . . . . . .  23
+1.	 Grundregel: Vorrang von Dozent, Lehrstuhl, Fakultät 
+und Hochschule  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . .  24
+2.	 Grundregel: Einheitlichkeit  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . .  25
+	 II.	Wahlentscheidungen beim Zitieren  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .  26
+1.	 Vollbeleg, Kurzbeleg und erweiterter Kurzbeleg  .  .  .  . . . . .  26
+2.	 Position des Quellennachweises  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .  29
+3.	 Ausgestaltung des Literatur- und Quellenverzeichnisses  . 35
+	III.	Zitierstile  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . .  41
+1.	 APA – American Psychological Association  .  .  .  .  .  . . . . . . .  41
+2.	 MLA – Modern Language Association  .  .  .  .  .  .  .  . . . . . . . . . .  42
+3.	 ISO – International Standardisation Organisation  .  .  . . . . .  43
+	IV.	Überlegungen zum Zitierstil in diesem Buch  .  .  .  .  .  .  . . . . . . . .  44
+1.	 Fußnoten und der erweiterte Kurzbeleg im Hauptteil  .  . . .  45
+2.	 Zusätzliche Angaben zur Art der Quelle  .  .  .  .  .  .  . . . . . . . . .  46
+3.	 Spezifikation der Fundstelle in der Quelle  . . . . . . . . . . . . .  47
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 5 ===
+Inhaltsverzeichnis
+X
+4.	 Korrekte Notation und Trennung einer URL  .  .  .  .  .  . . . . . . .  49
+5.	 Aufbau und Verwendung der DOI-Angaben  .  .  .  .  . . . . . . .  52
+6.	 Schema zur Notation der Quellenangaben im Quellen-
+verzeichnis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . .  53
+D.	 Zitieren aus dem Internet und von elektronischen Quellen  . . .  57
+	 I.	Besonderheiten digitaler Quellen  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .  57
+	 II.	Qualitätskriterien und Zitierwürdigkeit elektronischer 
+Quellen  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . .  59
+	III.	Zitierfähigkeit der Quellen verbessern  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .  61
+	IV.	Konkrete Zitiervorgaben nach Werks-/Medienart  .  .  .  .  . . . . . .  63
+1.	 Audio-Stream/Podcast  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . .  63
+2.	 Blog  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . .  64
+3.	 DVD/CD  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . .  65
+4.	 E-Book  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . .  67
+5.	 Enzyklopädie  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  68
+6.	 Fachlexikon  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . .  69
+7.	 Forum  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . .  70
+8.	 Internetseite  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . .  70
+9.	 Twitter  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . .  72
+10.	Video und YouTube  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . .  73
+11.	Zeitschriftenartikel  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . .  74
+	 V.	Praktische Tipps für die Arbeit mit elektronischen ­ 
+Quellen  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . .  76
+1.	 Archivierung der Quellen  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . .  76
+2.	 Verzicht auf „URL-Shortener“  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .  77
+E.	 Zitieren von öffentlich zugänglichen ­Firmenquellen  .  .  .  . . . . .  81
+	 I.	Besonderheiten öffentlich zugänglicher Firmenquellen  .  . . . .  81
+	 II.	Qualitätskriterien öffentlicher Firmenquellen  .  .  .  .  .  .  . . . . . . . .  83
+	III.	Zitierfähigkeit und Zitierwürdigkeit öffentlicher 
+­Firmenquellen verbessern  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . .  84
+	IV.	Konkrete Zitiervorgaben nach Werks-/Medienart  .  .  .  .  . . . . . .  86
+1.	 Broschüren  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . .  86
+2.	 Firmenwebseiten  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  87
+3.	 Geschäftsberichte, Jahres- und Konzernabschlüsse  .  .  . . . .  88
+4.	 Präsentationsfoliensatz (Powerpoint)  .  .  .  .  .  .  .  .  . . . . . . . . . .  89
+5.	 Prospekte, Datenblätter und Kataloge  .  .  .  .  .  .  .  . . . . . . . . . .  90
+6.	 Reden von Firmenvertretern  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . .  93
+F.	
+Zitieren von firmeninternen Quellen  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .  97
+	 I.	Besonderheiten interner Quellen  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . .  97
+	 II.	Qualitätskriterien interner Quellen  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .  98
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 6 ===
+Inhaltsverzeichnis
+XI
+1.	 Funktion und Position des Urhebers  .  .  .  .  .  .  .  .  . . . . . . . . . . .  98
+2.	 Publikationskontext und Fundort einer Quelle  .  .  .  .  . . . . . .  99
+3.	 Meta-Daten der Quelle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . .  100
+	III.	Zitierfähigkeit und Zitierwürdigkeit interner Quellen 
+­verbessern  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . .  101
+	IV.	Konkrete Zitiervorgaben nach Werks-/Medienart  .  .  .  .  . . . . . .  102
+1.	 Arbeitsanweisung  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . .  102
+2.	 Betriebsanweisung  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . .  104
+3.	 Betriebsvereinbarung  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . .  105
+4.	 Datenbankinhalte  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . .  107
+5.	 E-Mail  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . .  108
+6.	 Handbücher: Organisations-, Qualitätshandbuch etc.  .  . . .  109
+7.	 Interview  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . .  110
+8.	 Intranet-Inhalte  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  112
+9.	 Memos und Notizen  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . .  113
+10.	Organigramm  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  113
+11.	Präsentationsfoliensatz (Powerpoint)  .  .  .  .  .  .  .  .  . . . . . . . . . .  114
+12.	Projektauftrag  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  115
+13.	Prozessdiagramm  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . .  116
+14.	Rundschreiben  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . .  117
+15.	Verfahrensanweisung  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . .  118
+	 V.	Praktische Tipps für die Arbeit mit internen Quellen  .  .  . . . . .  119
+1.	 Vertraulichkeitserklärung diskutieren  .  .  .  .  .  .  .  . . . . . . . . . .  120
+2.	 Sperrvermerk in der wissenschaftlichen Arbeit  .  .  .  . . . . . .  121
+3.	 Vertraulichkeit persönlicher Kommunikation beachten  . .  122
+4.	 Archivierung nur mit Wissen des Unternehmens  .  .  . . . . .  123
+G.	 Unterstützung durch Literatur­verwaltungsprogramme  .  .  . . . .  125
+	 I.	Ausgewählte Literaturverwaltungen im Vergleich  .  .  .  . . . . . .  125
+	 II.	Citavi für Zitieren 2.0 nutzen  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . .  127
+1.	 Zitierstil „Zitieren 2.0 (Träger)“ installieren  .  .  .  .  .  . . . . . . . .  127
+2.	 Ein neues Projekt anlegen  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . .  128
+3.	 Quellen in Citavi aufnehmen und ergänzen  .  .  .  .  .  . . . . . . .  129
+4.	 Umgang mit nicht-unterstützten Quellen  .  .  .  .  .  .  . . . . . . . .  131
+5.	 Quellen zu Gruppen zuordnen  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .  131
+6.	 Zusammenarbeit mit Microsoft Word  .  .  .  .  .  .  .  . . . . . . . . . .  132
+	III.	Beurteilung der Verwendung einer Literatur­verwaltung  .  . . .  133
+H.	 Fazit  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . .  135
+Literatur- und Quellenverzeichnis  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . .  137
+Stichwortverzeichnis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . .  143
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 7 ===
+Abbildungsverzeichnis
+Abbildung 1: Funktionsweise von URL-Shortener .  .  .  .  .  .  . . . . . . . . 	 78
+Abbildung 2: Benutzeroberfläche von Citavi  .  .  .  .  .  .  .  .  . . . . . . . . . . 	 129
+Abbildung 3: Gruppierung der Quellen .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 	 132
+Abbildung 4: Arbeiten in Word mit dem Citavi-Add-In .  .  .  . . . . . . 	 133
+Tabellenverzeichnis
+Tabelle 1:	 Beispielhafte Wissens- und Datenquellen für eine 
+Projektarbeit  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 
+8
+Tabelle 2:	 Umgang mit wörtlichen Zitaten  .  .  .  .  .  .  .  .  . . . . . . . . . . .  20
+Tabelle 3:	 Mögliche Anker für Fußnoten  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .  31
+Tabelle 4:	 Mögliche Anker für Endnoten  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .  34
+Tabelle 5:	 Empfehlung zur Positionierung von Belegen  .  .  .  . . . . .  35
+Tabelle 6:	 Bezeichner zur Spezifikation der Quellenart  .  .  .  . . . . .  47
+Tabelle 7:	 Spezifikation der Fundstelle in Printquellen  .  .  .  . . . . .  48
+Tabelle 8:	 Spezifikation der Fundstelle in Onlinequellen  .  .  . . . .  48
+Tabelle 9:	 Elemente der Zitiervorgaben  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .  54
+Tabelle 10:	 Medientypen in Citavi und weitere Feldangaben  .  . . .  131
+https://doi.org/10.15358/9783800657469-I
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:05:40.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 8 ===
+F.  Zitieren von firmeninternen Quellen
+I.  Besonderheiten interner Quellen
+Die größte Besonderheit firmen- und organisationsinterner Quellen 
+ist, dass sie klassisch als „nicht zitierfähig“ gelten.93 Dafür werden im 
+engeren Sinn zwei Argumente gesehen: Interne Quellen sind unver-
+öffentlicht und unwissenschaftlich.
+Erweitert kommt hinzu, dass der Urheber einer internen Quelle der 
+Öffentlichkeit meist unbekannt ist. Seine „Güte“ als Quelle ist somit 
+undefiniert. Abschließend liegen keine klassischen bibliografischen 
+Daten zu einer internen Quelle vor. Dies ist eine Begleiterscheinung 
+der fehlenden Veröffentlichung.
+Damit Zitierfähigkeit und Zitierwürdigkeit dieser Quellen beurteilt 
+werden können, sollen die genannten Besonderheiten näher diskutiert 
+werden:
+•
+• Die fehlende Veröffentlichung ist insofern ein Problem, als dass 
+Dritte von außen keinen Zugriff auf die Quelle haben und sich diese 
+zum Zweck der Einsichtnahme/Prüfung nicht beschaffen können.
+•
+• Interne Quellen sind üblicherweise tatsächlich unwissenschaftlich. 
+Sie belegen typischerweise anwendungsorientiertes, praktisches 
+Wissen. Von Ausnahmen94 abgesehen sind es ja gerade Prakti-
+ker – und eben keine Wissenschaftler –, die interne Quellen (z. B. 
+Dokumente) verfassen oder selbst eine solche Quelle darstellen 
+(Gesprächspartner in einem Interview).
+•
+• Der Name des Urhebers einer internen Quelle ist – beruflich gese-
+hen – außerhalb seiner Organisation und seines direkten Umfeldes 
+oft nur Wenigen bekannt. Auch die Leser und Gutachter Ihrer wis-
+senschaftlichen Arbeit werden nicht jeden Projektbeteiligten oder 
+internen Funktionsträger namentlich kennen. Der Name eines in-
+ternen Urhebers eignet sich damit nicht als „Reputationsindikator“.
+•
+• Interne Quellen, z. B. Dokumente oder Kalkulationstabellen, sind 
+ohne expliziten Autor denkbar. Sie verfügen naturgemäß über 
+93	 Vgl. Theisen, Wissenschaftliches Arbeiten, 2017, S. 160; Rossig, Leitfaden, 
+2011, S. 146. 
+94	 Privatwirtschaftliche Forschungseinrichtungen und deren wissenschaftli-
+ches Personal werden intern durchaus eine wissenschaftliche Arbeitsweise 
+praktizieren. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 9 ===
+F.  Zitieren von firmeninternen Quellen
+98
+keinen Verlag und keinen klassischen Veröffentlichungsort. Das 
+Datum oder auch nur Jahr ihrer Erstellung ist insbesondere bei aus-
+gedruckten Zufallsfunden nicht verlässlich feststellbar. Je weniger 
+Daten zu einer Quelle verfügbar sind, desto eher sind Zitierfähigkeit 
+und Zitierwürdigkeit abzulehnen.
+Diese Schwächen interner Quellen existieren. Manche internen Quel-
+len werden nicht – oder nur mit großem Aufwand – zitierfähig sein. 
+Für überraschend viele Quellen lässt sich jedoch eine gute Zitierfähig-
+keit herstellen, indem man gegebene und recherchierbare Metadaten 
+der Quelle nutzt und so die Zitierfähigkeit verbessert.
+Eine direkte und unwiderrufliche Einschränkung für die Verwendung 
+interner Quellen ergibt sich aus der fehlenden Wissenschaftlichkeit 
+und den daraus folgenden Implikationen für die Zitierwürdigkeit:
+Grundsatz
+Interne Quellen sind nur als Datenquellen zitierwürdig. Sie dürfen nicht 
+dazu herangezogen werden, klassische Wissensquellen (z. B. Fachbü-
+cher) zu ersetzen.
+Um es klar zu formulieren: Interne Quellen können nie den wissen-
+schaftlichen Teil einer Arbeit ersetzen oder Beleg für diesen sein! 
+Interne Quellen kommen aus der Praxis, sie sind per Definition nicht 
+Wissenschaft. Sie lassen sich aber sehr gut nutzen, um das Auftreten 
+von wissenschaftlichen Zusammenhängen in der Praxis bzw. deren 
+reale Manifestation zu belegen.
+II.  Qualitätskriterien interner Quellen
+Die folgenden Ausführungen gehen der Frage nach, wie ein externer 
+Leser, z. B. der Gutachter Ihrer Arbeit, die Qualität einer internen 
+Quelle einschätzen kann. Dies ist wichtig, da darauf aufbauend im 
+nächsten Unterpunkt Wege aufgezeigt werden, die Zitierfähigkeit und 
+Zitierwürdigkeit einer Quelle zu verbessern.
+1.  Funktion und Position des Urhebers
+Mit Funktion soll hier die fachliche Ausrichtung einer Stelle, mit 
+Position ihre Reihung in der Hierarchie der Organisation bezeichnet 
+werden. Arbeitsteilung und Spezialisierung in der Aufgabenerfül-
+lung führen zum Entstehen verschiedener Funktionen und Positionen 
+(Hierarchiestufen) in Organisationen.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 10 ===
+II.  Qualitätskriterien interner Quellen
+99
+Die Funktion des Urhebers einer Quelle ist ein wesentliches Qualitäts-
+kriterium: Nimmt man an, dass jede Organisation bestrebt ist, eine 
+möglichst große Deckung zwischen den Anforderungen einer Stelle 
+und den Qualifikationen sowie Kompetenzen eines Stelleninhabers 
+zu realisieren, so lässt sich ableiten, dass verschiedene Funktionen In-
+formationen in unterschiedlicher „Güte“ zu einem bestimmten Thema 
+einer wissenschaftlichen Arbeit beisteuern können.
+Beispiel
+In seiner Funktion als „Qualitätsmanagementbeauftragter“ kann Herr 
+Meier mehr zum Thema „Analyse und Beseitigung von Anlauffeh-
+lern der Serienproduktion“ beitragen als Herr Müller, dessen Stelle als 
+„Teamleiter Außendienst“ angegeben wird.
+Die Position des Urhebers einer Quelle ist ein weiteres wesentliches 
+Qualitätskriterium: Je höher jemand in der Hierarchie einer Orga-
+nisation angesiedelt ist, desto umfassender wird üblicherweise der 
+Blick auf die Organisation und ihre Themen sein. Zudem gibt es einen 
+Qualitätssprung, der eintritt, wenn es sich bei der Quelle um bevoll-
+mächtigte Vertreter des Unternehmens handelt – diese sind befugt, 
+Rechtsgeschäfte für die Organisation vorzunehmen und können damit 
+„offizielle“ Stellungnahmen im Außenverhältnis abgeben.
+Beispiel
+Die Geschäftsführerin eines Unternehmens gibt in einem Interview 
+Auskunft zur Strategie der GmbH. Diese interne Quelle ist auf Grund 
+ihrer Position und der damit einhergehenden Gesamtsicht auf das Un-
+ternehmen ceteris paribus qualitativ hochwertiger als ein Mitarbeiter, 
+der als Teil der Strategieabteilung tätig ist.
+2.  Publikationskontext und Fundort einer Quelle
+Bei klassischen Quellen ist der Weg der Veröffentlichung ein wesent-
+licher Qualitätsindikator. Der publizierende Verlag und sein Lektorat 
+oder das Journal mit seinem Review-Prozess sind Garanten eines 
+bestimmten Qualitätsniveaus. Internen Quellen fehlen diese Mecha-
+nismen.
+Allerdings gibt es auch in den Unternehmen qualitätssichernde Sys-
+teme. Sie gleichen einem Container, in den nur gelangt, was den Qua-
+litätssicherungsprozess durchlaufen hat. Was sich im Inneren des 
+Containers findet, gilt damit als konform mit den Mechanismen des 
+Sicherungssystems. Der Publikationskontext bzw. Fundort ist insofern 
+durchaus ein Qualitätsindikator.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 11 ===
+F.  Zitieren von firmeninternen Quellen
+100
+Beispiel
+Die Qualitäts-, Umwelt- und Sicherheitsmanagementsysteme der Un-
+ternehmen sehen einen Freigabeprozess vor, der nur durch legitime 
+Vertreter des Unternehmens autorisierte Dokumente in die entspre-
+chenden (papiergebundenen oder elektronischen) Handbücher auf-
+nimmt. Ist der Fundort einer Quelle nun ein solches Handbuch, muss 
+das entsprechende Dokument von der Unternehmensleitung autorisiert 
+worden sein. Dies bestätigt meist auch eine datierte Unterschrift im 
+Fußbereich oder am Ende des Dokumentes.
+Ist das System zudem zertifiziert (z. B. DIN EN ISO 9001), hat zumindest 
+ein externer Sachverständiger die Konformität mit den Vorgaben der 
+Norm geprüft und bestätigt. Die Güte des Fundortes wurde damit 
+weiter erhöht.
+Publikationskontexte und Fundorte, deren Inhalte durch einen Frei-
+gabeprozess gehen mussten, sind beispielsweise:95
+•
+• Managementhandbuch,
+•
+• Organisationshandbuch,
+•
+• Personalhandbuch,
+•
+• Qualitätsmanagementhandbuch,
+•
+• Umweltmanagementhandbuch,
+•
+• Arbeitssicherheitshandbuch,
+•
+• Compliance-Richtlinien und
+•
+• Unternehmens- und Führungsleitbild.
+3.  Meta-Daten der Quelle
+Ebenso wie sich zu klassischen Quellen neben bibliografischen Anga-
+ben (Erscheinungsort, -jahr etc.) auch Meta-Daten (Herausgeberschaft, 
+als Band, Teil einer Reihe etc.) zur Quelle angeben lassen, lassen sich 
+ähnliche Angaben auch für interne Quellen finden.
+Beispielhaft stehen für interne Quellen eventuell folgende Meta-Daten 
+zur Verfügung:
+•
+• Wann wurde die Quelle erstellt?
+•
+• Wer hat sie im Unternehmen verteilt?
+•
+• Wurde sie intern bereits einmal präsentiert/genutzt?
+Je mehr dieser Meta-Daten zu einer Quelle vorliegen und je nachvoll-
+ziehbarer deren Bedeutung für die Güte der Quelle ist, desto höher 
+wird auch die Glaubwürdigkeit der Quelle sein.
+95	 Die Titulierung als „Handbuch“ schließt elektronische Dokumentencon­
+tainer im Intranet nicht aus. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 12 ===
+III.  Zitierfähigkeit und Zitierwürdigkeit interner Quellen
+101
+Beispiel
+Eine interne Powerpoint-Präsentation, welche die Absatzzahlen nach 
+Regionen enthält, wird eine höhere Glaubwürdigkeit erlangen, wenn 
+der Leser erfährt, dass diese Präsentation im vergangenen Monat an 
+einem bestimmten Datum bei einer Betriebsversammlung gezeigt wur-
+de und dass Sie den Foliensatz direkt vom Marketingleiter als Anhang 
+einer E-Mail erhalten haben.
+III.  Zitierfähigkeit und Zitierwürdigkeit interner Quellen 
+verbessern
+Zur Verbesserung der Zitierfähigkeit werden die bereits weiter oben 
+angesprochenen Maßnahmen für die nun internen Quellen durchge-
+führt. Für die Zitierfähigkeit muss festgestellt werden:
+•
+• Wer der Autor/Urheber der Quelle ist,
+•
+• wie die Quelle eindeutig bezeichnet wird (eventuell gibt es eindeu-
+tige interne Dokumenten-IDs, wie sie durch ein Dokumentenma-
+nagementsystem, kurz DMS, vergeben werden),
+•
+• an welchem Datum die Quelle intern in Umlauf gebracht wurde (als 
+quasi eine interne „Veröffentlichung“),
+•
+• an welchem Standort die Quelle in Umlauf gebracht wurde (als 
+Ersatz für den Verlagsort),
+•
+• wo und wann die Quelle firmenintern eingesehen werden konnte 
+(„Speicherort“) und
+•
+• ob die Quelle Teil eines „Containers“ ist, der zusätzliche Meta-Daten 
+zur Quelle liefert.
+Die fehlende Zugänglichkeit für Dritte sowie die Intransparenz inter-
+ner Quellen erfordern zwingend eine Archivierung als sog. Archiv­
+quelle, so dass die Quellen entweder direkt im Anhang der wissen-
+schaftlichen Arbeit eingebunden oder auf Verlangen des Gutachters 
+diesem zugänglich gemacht werden.96 Finden sich bei der archivierten 
+Quelle die Kontaktdaten des Autors, steigert dies die Zitierfähigkeit 
+weiter.97
+Der Autor/Urheber hat eine formale Bedeutung für die Zitierfähigkeit. 
+Bei den im nächsten Gliederungspunkt folgenden konkreten Zitiervor-
+gaben wird in vielen Fällen das Unternehmen als Autor genannt und 
+erst in zweiter Linie auf den eigentlichen Autor abgestellt. Dies folgt 
+96	 Auch Autoren, die an sich die Zitierfähigkeit unveröffentlichter Quellen 
+ablehnen, zeigen Wege auf, wie dennoch aus solchen Quellen zitiert werden 
+kann. 
+97	 Vgl. Heesen, Wissenschaftliches Arbeiten, 2014, S. 56. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 13 ===
+F.  Zitieren von firmeninternen Quellen
+102
+der Argumentation zu den öffentlich zugänglichen Quellen, wonach 
+die Personen in vielen Fällen hinter der für das Unternehmen erbrach-
+ten Arbeitsleistung zurückstehen. Im Unterschied zu öffentlichen 
+Quellen werden die internen aber nicht „herausgegeben“, und das 
+ist durchaus doppeldeutig zu lesen. Daher kann bei internen Quellen 
+auf das Kürzel „(Hrsg.)“ verzichtet werden, wenn es sich bei dem 
+Unternehmen um eine juristische Person handelt und die Rechtsform 
+mit angegeben wird (z. B. „Siemens AG“). Bei inhabergeführten Un-
+ternehmen trägt das Kürzel („Hrsg.“) zur Differenzierung der Rollen 
+von Inhaber und Autor bei.
+Für „graue Literatur“ wird deren Kenntlichmachung durch erklärende 
+Zusätze empfohlen.98 In einer Analogie zu diesem Gedanken ist es 
+hilfreich, durch eine Ergänzung die Art des internen Dokumentes 
+in der Kurzbeschreibung der Fußnote aufzunehmen. Der Leser weiß 
+dann, um welche Dokumentenart es sich handelt und der Zusatz „[In-
+tern]“ spezifiziert die Quelle zudem als Datenquelle.
+Die Zitierwürdigkeit einer internen Quelle wird erhöht, wenn der 
+Urheber auf Grund seiner Funktion oder Position als maßgebliche 
+Quelle gewertet werden kann. Daher sollten auch diese Meta-Daten 
+recherchiert und in die Beschreibung der Quelle eingebracht werden. 
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+1.  Arbeitsanweisung
+Bei der Arbeitsanweisung handelt es sich um einen mündlich oder 
+schriftlich gegebenen Arbeitsauftrag und/oder eine Vorgabe zur Art 
+und Weise der Aufgabenerfüllung (Arbeitsmethodik).
+•
+• Eine mündliche Arbeitsanweisung dient der persönlichen, fallwei-
+sen Vorgabe durch den Vorgesetzten. Sie ist typisch für Unterneh-
+men mit einer geringen formalen Organisation, wird aber auch in 
+hoch organisierten Umgebungen zur Koordination einmaliger oder 
+komplexer Aufgaben verwendet.
+•
+• Eine schriftlich bzw. elektronisch gefasste Arbeitsanweisung regelt 
+detailliert und zeitlich dauerhaft, wie Arbeitsaufgaben an einem 
+bestimmten Arbeitsplatz auszuführen sind. In ihr finden sich pro-
+zesshafte Vorgaben, die den Mitarbeiter bei der Arbeitsausführung 
+anleiten. Dazu werden unter anderem Texte, Prozessdiagramme 
+sowie Checklisten eingesetzt.
+98	 Vgl. Stickel-Wolf/Wolf, Wissenschaftliches Arbeiten, 2013, S. 257. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 14 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+103
+Eine Arbeitsanweisung kann zitiert werden, wenn sie schriftlich bzw. 
+elektronisch gefasst ist und als formaler Teil der Unternehmensor-
+ganisation vorliegt, also einen institutionalisierten Freigabeprozess 
+durchlaufen hat. Mündlich gegebene Arbeitsanweisungen, aber auch 
+schriftliche „Notizen“ als Anweisungen, sind nicht zitierfähig. Für sie 
+gibt es Alternativen, die Ihnen weiter unten vorgestellt werden.
+Beispiel: Arbeitsanweisung (schriftlich)
+In der Fußnote erfolgt ein sinngemäßer Verweis auf die Quelle, S. 4, 
+wie folgt:
+Vgl. Metallbau Walger GmbH, Arbeitsanweisung Erstmusterprüf-
+bericht [Intern], 2016, S. 4.
+Im Quellenverzeichnis erfolgt die vollständige Nennung der Quelle:
+Metallbau Walger GmbH (Arbeitsanweisung Erstmusterprüfbe-
+richt [Intern], 2016): Arbeitsanweisung zur Durchführung des 
+Erstmusterprozesses von Bauteilen (Erstmusterprüfbericht), Do-
+kument AA-ABC-12, Version 3, München. Erstellt von: L. Schneider 
+(Qualitätsbeauftragter) am 10.11.2015, freigegeben von: C. Bauer 
+(Abteilungsleiter) am 10.11.2015, veröffentlicht am 8.1.2016 im 
+QM-Handbuch, Version 2.0.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Arbeitsanweisung“,
+•
+• {interner Dokumentbezeichner,}
+•
+• {optional: Version „Versionsnummer“,}
+•
+• {optional: für Arbeitsplatz: „Arbeitsplatzbezeichnung/Tätigkeits-
+bereich …“,}
+•
+• „Sitz des Unternehmens/der Organisation“. {Punkt beachten!}
+•
+• Erstellt von: „Vornameninitial“. „Name“ („Funktion“{/„Position“}) 
+{am „Datum“},
+•
+• freigegeben von: „Vornameninitial“. „Name“ ({„Funktion“/}„Posi-
+tion“) {am „Datum“},
+•
+• veröffentlicht am „Datum“ in „Container“ {,Meta-Daten zum Con-
+tainer}.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Es gibt nur mündliche Arbeitsanweisungen. Diese sind, wie oben 
+erwähnt, nicht zitierfähig. Lösung: Nutzen Sie die bekannten Ver-
+fahren der Primärdatenerhebung und führen Sie eine Organisa-
+tions- oder Arbeitsanalyse durch.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 15 ===
+F.  Zitieren von firmeninternen Quellen
+104
+2.  Betriebsanweisung
+Eine Betriebsanweisung regelt durch schriftliche Vorgaben den si-
+cheren Umgang mit Betriebsmitteln sowie gefährlichen Stoffen. Sie 
+bezieht sich konkret auf ein Betriebsmittel, einen Arbeitsplatz oder 
+eine Tätigkeit und macht diesbezüglich verbindliche Vorgaben. Mit 
+der Betriebsanweisung setzen der Arbeitgeber bzw. dessen Vertreter 
+Forderungen des Arbeitsschutzgesetzes, der Betriebssicherheitsver-
+ordnung sowie der Unfallverhütungsvorschriften um.99
+Betriebsanweisungen erlangen Gültigkeit durch die sog. Freigabe. Die 
+Freigabe erfolgt durch die dokumentierte Unterschrift der obersten 
+Leitungsebene oder einer von ihr dazu bevollmächtigten Person. Eine 
+freigegebene Betriebsanweisung wird im Sicherheitshandbuch veröf-
+fentlicht und direkt am Ort des Betriebsmittels ausgehängt.
+Diese Art interner Dokumente lässt sich durch den autorisierten Frei-
+gabeprozess und das Vorliegen der Meta-Daten sehr gut zitieren. Ein 
+Einsatz als Datenquelle ist möglich.
+Beispiel: Betriebsanweisung
+In der Fußnote erfolgt ein sinngemäßer Verweis auf die S. 2 der Quelle 
+wie folgt:
+Vgl. Metallbau Walger GmbH, Betriebsanweisung Druckluftgeräte 
+[Intern], 2016, S. 2.
+Im Quellenverzeichnis erfolgt die vollständige Nennung der Quelle:
+Metallbau Walger GmbH (Betriebsanweisung Druckluftgeräte 
+[Intern], 2016): Maschinen-Betriebsanweisung für Arbeiten mit 
+Druckluft-Werkzeugen, Nr. 123, Version 1.01, München. Erstellt 
+von: P. Zumhausen (Sicherheitsbeauftragter) am 12.12.2015, frei-
+gegeben von: B. Walger (Geschäftsführer) am 8.1.2016, veröffent-
+licht am 8.1.2016 im Sicherheitshandbuch, Version 2.15, Standort 
+Industriestraße 5.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Betriebsanweisung“,
+•
+• {interner Dokumentbezeichner,}
+•
+• {optional: Version „Versionsnummer“,}
+•
+• {optional: für Arbeitsplatz: „Arbeitsplatzbezeichnung/Tätigkeits-
+bereich …“,}
+99	 Schriftliche Betriebsanweisungen werden u. a. gefordert in § 12 II BetrSichV. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 16 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+105
+•
+• „Sitz des Unternehmens/der Organisation“. {Punkt beachten!}
+•
+• Erstellt von: „Vornameninitial“. „Name“ („Funktion“{/„Position“}) 
+{am „Datum“},
+•
+• freigegeben von: „Vornameninitial“. „Name“ ({„Funktion“/}„Posi-
+tion“) {am „Datum“},
+•
+• veröffentlicht am „Datum“ in „Container“ {Meta-Daten zum Con-
+tainer}.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Für die Jahresangabe der Quelle sind maximal drei Datumsangaben 
+denkbar: Das Erstellungsdatum, das der Freigabe und zuletzt das 
+Veröffentlichungsdatum. Welches sollte man nehmen? Lösung: Die 
+Jahresangabe der Quelle richtet sich nach dem Veröffentlichungs-
+datum. Erstellung und Freigabe sind nur „Vorarbeiten“, erst ab 
+Veröffentlichung kann die Organisation die Anweisung kennen.
+•
+• Mehrere Namen bzw. Bezeichner kommen als Urheber der Quelle 
+in Betracht: Ersteller, freigebende Person oder die Organisation/
+das Unternehmen. Lösung: Es sollte die Organisation/das Unter-
+nehmen als Urheber genannt werden.
+•
+• Die einzelne Betriebsanweisung nennt üblicherweise keinen Ort/
+Standort. Lösung: Verwenden Sie als Ort den (Haupt-)Sitz des Un-
+ternehmens gemäß Handelsregister bzw. Impressum. Als Standort 
+geben Sie entweder den physischen Ort des Handbuches oder den 
+des Betriebsmittels an. Bei Unternehmen mit mehreren Betriebsstät-
+ten können Ort und Standort daher unterschiedlich sein.
+3.  Betriebsvereinbarung
+Eine Betriebsvereinbarung ist ein kollektivrechtlicher Vertrag zwi-
+schen Arbeitgeber und Betriebsrat. Sie gilt für die gesamte Belegschaft 
+oder bestimmte Gruppen von Arbeitnehmern. Ihre Rechtsgrundlage 
+hat die Betriebsvereinbarung in § 77 BetrVG, sie entstammt somit dem 
+Betriebsverfassungsgesetz und kann daher nur in Betrieben existieren, 
+die über einen Betriebsrat verfügen.
+Betriebsvereinbarungen werden genutzt, um dauerhaft Angelegen-
+heiten zu regeln, die zum gesetzlichen Aufgabenbereich des Betriebs-
+rates gehören. Ihre möglichen Inhalte sind sehr divergent: Personelle 
+Auswahlrichtlinien, Personalfragebögen, Grundsätze der Personalbe-
+urteilung, aber auch Rahmenbedingungen der Personalentwicklung 
+können beispielsweise dort niedergelegt sein.100 Gründe und Ansatz-
+punkte für die Zitation in einer wissenschaftlichen Projektarbeit gibt 
+es genug.
+100	Vgl. W.A.F. (Hrsg.), Inhalt von Betriebsvereinbarungen [Online], 2016, Kap. 3. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 17 ===
+F.  Zitieren von firmeninternen Quellen
+106
+§ 77 II BetrvG bestimmt hinsichtlich der formalen Ausgestaltung:
+•
+• Betriebsvereinbarungen sind von Betriebsrat und Arbeitgeber ge-
+meinsam zu beschließen und schriftlich niederzulegen. Sie werden 
+üblicherweise unterzeichnet.
+•
+• Der Arbeitgeber hat die Betriebsvereinbarungen an geeigneter Stel-
+le im Betrieb auszulegen.
+In der Betriebsvereinbarung werden räumlicher und personeller Gel-
+tungsbereich sowie die Geltungsdauer genannt.101 Die Seiten einer Be-
+triebsvereinbarung sind nummeriert, der Text ist inhaltlich gegliedert 
+und z. B. in Paragraphen unterteilt. Beides erlaubt beim Zitieren eine 
+genaue Bezugnahme auf den Fundort. Betriebsvereinbarungen lassen 
+sich sehr gut zitieren.
+Beispiel: Betriebsvereinbarung
+In der Fußnote erfolgt ein sinngemäßer Verweis auf die S. 2 der Quelle 
+wie folgt:
+Vgl. Melter AG, Betriebsvereinbarung Personalauswahl [Intern], 
+2016, S. 2.
+Im Literatur- und Quellenverzeichnis erfolgt die vollständige Nennung 
+der Quelle:
+Melter AG (Betriebsvereinbarung Personalauswahl [Intern], 2016): 
+Betriebsvereinbarung über Fragen zur Personalauswahl und ver-
+bindliche Beurteilungskriterien, gültig ab 12.02.2016, München. 
+Veröffentlicht im Personalhandbuch der Melter AG, Version 1.8, 
+im Intranet verfügbar unter: <https://intranet.melter-ag.de/perso-
+nalhandbuch/>, Zugriff am: 01.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Betriebsvereinbarung“,
+•
+• gültig ab „Datum“, „Ort der Unterzeichnung“.
+•
+• Veröffentlicht im „Container“ {,Meta-Daten zum Container}.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Wieso werden nicht die Namen der Unterzeichner angegeben? Lö-
+sung: Die unterzeichnenden Personen handeln institutionell, das 
+heißt für den Arbeitgeber oder den (Gesamt-)Betriebsrat.
+•
+• Was ist, wenn das Unternehmen mehrere Betriebe hat? Lösung: 
+Betriebsvereinbarungen gelten für den Betrieb, in dem sie abge-
+101	 Vgl. Heidemann/Maschke, Betriebsvereinbarung entwickeln [E-Book], 
+2012, S. 14 f. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 18 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+107
+schlossen wurden. Besteht das Unternehmen aus mehreren Betrie-
+ben, ist dieser jeweils für eine genaue Zuordnung anzugeben, z. B. 
+„Betriebsvereinbarung zur Personalauswahl am Standort H“.
+•
+• Wie behandelt man eine Gesamtbetriebsvereinbarung? Lösung: 
+Eine Gesamtbetriebsvereinbarung gilt für mehrere Betriebe. Sie 
+wird zwischen Arbeitgeber und dem Gesamtbetriebsrat geschlos-
+sen und ist abgesehen von der anderen Benennung in der Zitation 
+zu behandeln wie eine Betriebsvereinbarung.
+•
+• Warum wird bei der Angabe zur Veröffentlichung kein Datum be-
+nötigt? Lösung: Die Veröffentlichung ist lediglich deklaratorisch. Die 
+Gültigkeit, sprich das „Inkrafttreten“, ist wichtiger als das Veröffent-
+lichungsdatum. Bei Gültigkeit entfaltet die Betriebsvereinbarung 
+unmittelbare Rechtswirkung, d. h. betroffene Arbeitnehmer müssen 
+die Regelung nicht einmal kennen und sind doch davon erfasst.102
+Tipp
+Betriebsvereinbarungen gehören nicht zu den Betriebs- und Ge-
+schäftsgeheimnissen (Landesarbeitsgericht Hamm, 30.09.2011, AZ 10 
+Sa 471/11).
+4.  Datenbankinhalte
+Datenbanken sind unter anderem die Grundlage von Enterprise-Re-
+source-Planning-Tools. Sie beherbergen teilweise gewaltige Daten-
+schätze, die in einer wissenschaftlichen Arbeit als Datenquelle genutzt 
+werden können: Auslastungsquoten der Produktionsmittel, Produk-
+tivitätskennzahlen, Umsätze gruppiert nach Produkten oder Kunden 
+etc.
+Das Zitieren von Datenbankinhalten stellt eine besondere Proble-
+matik dar, da ein Abfrageergebnis nur reproduzierbar ist, wenn die 
+exakt gleiche Syntax verwendet wird und die Inhalte der Datenbank 
+zwischenzeitlich nicht verändert wurden. Da dies in der Praxis nicht 
+gegeben sein wird, müssen die Ergebnisse der Datenbankabfrage als 
+Beleg in den Anhang der Arbeit übernommen werden.
+Beispiel: Datenbank
+Fußnote, hier mit sinngemäßem Verweis auf den Beleg im Anhang, 
+Seite A-2:
+Vgl. Melter AG, Datenbankabfrage vom 12.02.2016, siehe Anhang 
+A-2.
+102	 Vgl. Hromadka/Maschmann, Arbeitsrecht Band 2, 1999, S. 332. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 19 ===
+F.  Zitieren von firmeninternen Quellen
+108
+5.  E-Mail
+E-Mails können selbst wesentliche Datenquellen sein, sie können aber 
+auch als Transportmittel für die eigentliche zu zitierende Quelle die-
+nen. Letzteres ist zum Beispiel dann der Fall, wenn der Anhang einer 
+E-Mail die Quelle ist.
+Eine E-Mail ist
+•
+• zitierfähig, falls sie dem wissenschaftlichen Autor vorliegt und
+•
+• zitierwürdig, wenn der Urheber eine relevante Quelle für das The-
+ma ist.
+Im Kopfbereich der E-Mail finden sich die für eine eindeutige Iden-
+tifikation der Quelle relevanten Daten: Sender, seine E-Mail-Adresse, 
+Empfängeradresse, Sendedatum, Sendeuhrzeit – ggf. mit Zeitzone – 
+und Betreff der Kommunikation („Subject“).
+E-Mails sind persönliche Kommunikation. Man könnte daher vermu-
+ten, dass die Angabe des Empfängers überflüssig ist.103 Allerdings sind 
+auch Situationen denkbar, in denen die E-Mail vom ursprünglichen 
+Empfänger an den Autor der wissenschaftlichen Arbeit weitergeleitet 
+wurde. Der Empfänger ist folglich anzugeben.
+Wesentlich für die Glaubwürdigkeit als relevante Quelle sind die Po-
+sition, Funktion oder Qualifikation des Senders. Ergänzen Sie diese 
+Informationen, soweit sie Ihnen vorliegen.
+Wollen Sie als Beleg auf den Text der E-Mail verweisen, verfahren Sie 
+wie folgt:
+Beispiel: E-Mail
+Fußnote, hier mit sinngemäßem Verweis auf die Quelle:
+Vgl. Weber, Kostenkalkulation [E-Mail], 2016.
+Literatur- und Quellenverzeichnis, vollständige Nennung der Quelle:
+Weber, Gary (Kostenkalkulation [E-Mail], 2016): Kostenkalkula-
+tion bei X-Projekten, E-Mail von G. Weber (Leitung Controlling, 
+weber@melter-ag.de) an P. Zumhausen (zumhausen@melter-ag.
+de), gesendet am 1.3.2014, 08:14 Uhr.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Name des Senders“, „Vorname des Senders“ {+Leerzeichen/Tabu-
+lator}
+•
+• („Kurztitel“ [E-Mail], „Jahr“):
+•
+• „Betreff der E-Mail“,
+103	 Vgl. Runkehl/Siever, Zitat im Internet, 2001, S. 102. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 20 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+109
+•
+• E-Mail von „Vornameninitial des Senders“. „Name des Senders“
+•
+• („Position/Funktion des Senders“, „E-Mail-Adresse des Senders“)
+•
+• an „Vornameninitial des Empfängers“. „Name des Empfängers“ 
+(„E-Mail-Adresse des Empfängers“),
+•
+• gesendet am „Datum“, „Uhrzeit“ Uhr.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Wie geht man mit weitergeleiteten E-Mails um? Lösung: Die Tat-
+sache, dass der ursprüngliche Empfänger nicht der Verfasser der 
+wissenschaftlichen Arbeit ist, hat für den Informationsgehalt der 
+Mitteilung des Urhebers keine Bedeutung. Sender und Empfänger 
+richten sich also einzig nach der Ursprungsnachricht. Die Nennung 
+der weiterleitenden Person ist nicht erforderlich.104
+•
+• Was ist, wenn die Mail ausgedruckt wurde? Lösung: Es bleibt trotz-
+dem eine interne E-Mail und sie sollte als solche zitiert werden.
+6.  Handbücher: Organisations-, Qualitätshandbuch etc.
+Interne Handbücher sammeln Richtlinien, spezielle Verfahrensan-
+weisungen, Ablauf-/Prozessdokumentationen sowie Checklisten und 
+Formulare zu ihrem jeweiligen Themenbereich. Da einige dieser Infor-
+mationen als Betriebsgeheimnisse gesehen werden, sind Handbücher 
+der Öffentlichkeit üblicherweise nicht zugänglich. Beispiele für interne 
+Handbücher sind:
+•
+• Managementhandbuch,
+•
+• Organisationshandbuch,
+•
+• Qualitätsmanagementhandbuch,
+•
+• Arbeitssicherheitshandbuch,
+•
+• Umweltmanagementhandbuch etc.
+Die inhaltliche Verantwortung für die genannten Quellen wird in-
+nerhalb des Unternehmens einzelnen Personen übertragen, z. B. dem 
+Qualitätsmanagement-Beauftragten (QMB).
+Interne Handbücher lassen sich gut für die Zitation von projektspe-
+zifischem Wissen im praxisbezogenen Teil einer wissenschaftlichen 
+(Projekt-)Arbeit nutzen: Das Handbuch und teilweise sogar jedes ein-
+zelne Dokument darin verfügt über eine Dokumentenhistorie, aus der 
+hervorgeht, wer das Dokument verfasst hat (Autor), in welcher Version 
+es vorliegt, wann diese freigegeben bzw. für gültig erklärt wurde und 
+wer über die Freigabe entschieden hat.
+104	Anderer Ansicht sind Runkehl/Siever, bei denen der Weiterleitende als Autor 
+genannt und auf die Weiterleitung der Nachricht hingewiesen wird, vgl. 
+Runkehl/Siever, Zitat im Internet, 2001, S. 103. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 21 ===
+F.  Zitieren von firmeninternen Quellen
+110
+Das folgende Beispiel erläutert die Zitation des gesamten Handbuches:
+Beispiel: Handbuch
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Melter AG, Qualitätsmanagementhandbuch [Intern], 2016.
+Im Quellenverzeichnis lautet der Eintrag:
+Melter AG (Qualitätsmanagementhandbuch [Intern], 2016): Qua-
+litätsmanagementhandbuch, Version 3.0, gültig ab 23.11.2015, 
+München. Im Intranet verfügbar unter: <https://intranet.mel-
+ter-ag.de/qm/handbuch/>, Zugriff am: 29.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel des Handbuches“,
+•
+• {Angaben zur Versionsnummer/Auflage o.ä.,}
+•
+• gültig ab „Datum“, „Ort des Unternehmenssitzes“.
+•
+• {Im Intranet verfügbar unter: <„Intranet-URL“>, Zugriff am: „Da-
+tum“.}
+Meist sind die Handbücher elektronisch als PDF verfügbar. Eine Si-
+cherung bzw. eine Übernahme einzelner Seiten in den Anhang der 
+eigenen Arbeit ist damit technisch problemlos möglich. Die Erlaubnis 
+zur Übernahme erteilen die Firmen üblicherweise, wenn ein Sperrver-
+merk die allgemeine Veröffentlichung der Arbeit verhindert.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Wie zitiert man einzelne Arbeit- oder Verfahrensanweisungen aus 
+dem Handbuch? Lösung: Das vorliegende Kapitel enthält dafür 
+eigene Unterpunkte, in denen die korrekte Zitation vorgestellt wird.
+7.  Interview
+Das Interview ist eine besondere Form der Befragung. Im Interview las-
+sen sich persönliche Sichtweisen auf einen Untersuchungsgegenstand, 
+Meinungen, Einstellungen und Gefühle erheben, während ein einzel-
+nes Interview weniger geeignet erscheint, objektive Tatbestände über 
+wirkliches Verhalten und konkrete Arbeitsabläufe zu dokumentieren.105
+Eine Form des Interviews ist das sog. Experteninterview. Bei diesem 
+wird eine Person, die hinsichtlich des Untersuchungsgegenstandes als 
+kompetent gilt („Experte“), befragt, um dadurch das aus der Theorie 
+105	Vgl. Bühner, Organisationslehre, 2004, S. 35. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 22 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+111
+mittels Wissensquellen abgeleitete Vorverständnis hinsichtlich prak-
+tischer Implikationen zu prüfen.106
+Damit ein Interview zitierfähig wird, muss es zunächst protokolliert 
+oder technisch aufgezeichnet werden. Die Aufnahme des Gesprächs 
+mittels Digitalrekorder bzw. einem ähnlichen Hilfsmittel ist dem Pro-
+tokoll vorzuziehen, da man sich so voll auf das Interview konzentrieren 
+kann.107 Die Zustimmung des Gesprächspartners zur Aufzeichnung ist 
+zweifelsfrei zu dokumentieren, unter den praktischen Tipps am Ende 
+dieses Kapitels finden sich ergänzende rechtliche Hinweise dazu.108
+Die Aufzeichnung wird dann entweder verschriftlicht (sog. Tran-
+skript) oder als Audio-Datei zitiert. Da sie als firmeninterne Quelle 
+archiviert und dem Gutachter zugänglich gemacht werden muss, wird 
+das Transkript in den Anhang aufgenommen oder die Audio-Datei auf 
+CD/DVD der Arbeit beigefügt.
+Ein typisches Transkript ist aufgebaut als dreispaltige Tabelle: Die 
+erste Spalte nennt eine fortlaufende Zeilen- oder Absatznummer, die 
+zweite Spalte identifiziert den aktuellen Sprecher, die dritte Spalte 
+enthält die verschriftlichten Aussagen.109
+Es ist guter Stil, das transkribierte Interview dem Gesprächspartner 
+noch einmal vorzulegen und sich die inhaltliche Richtigkeit mit einer 
+datierten Unterschrift bestätigen zu lassen. Die Zitierfähigkeit wird 
+dadurch verbessert.
+Das Interview ist einer der Fälle, wo bei einer Firmenquelle tatsächlich 
+die Person im Mittelpunkt steht und daher als Autor genannt werden 
+sollte.
+Beispiel: Interview
+In der Fußnote steht bei erweitertem Kurzzitat für ein Transkript bei-
+spielhaft:
+²   Vgl. Huber, Interview vom 12.02.2016 [Intern], 2016, Absatz 23.
+Bei Verwendung einer Audio-Datei:
+²   Vgl. Huber, Interview vom 12.02.2016 [Intern], 2016, 05:32 Min.
+Im Quellenverzeichnis lautet der Eintrag:
+Huber, Norbert (Interview vom 12.02.2016 [Intern], 2016): Inter-
+view mit N. Huber (Leiter Einkauf der Walger GmbH), durchge-
+führt von M. Musterfrau, München, 2016.
+106	Vgl. Weber, Wissenschaftliches Arbeiten, 2015, S. 88. 
+107	 Beispielsweise wird die Aufzeichnung mittels Videokamera empfohlen, 
+wenn nonverbale Elemente miterhoben werden sollen, vgl. Weber, Wissen-
+schaftliches Arbeiten, 2015,S. 92 f. Denkbar ist dies bei Interviews zu einem 
+(provokanten) Werbeclip. 
+108	Siehe Gliederungspunkt V.3 dieses Kapitels. 
+109	Vgl. Weber, Wissenschaftliches Arbeiten, 2015, S. 142. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 23 ===
+F.  Zitieren von firmeninternen Quellen
+112
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Name“, „Vorname“ {+Leerzeichen/Tabulator}
+•
+• (Interview vom „Datum“ [Intern], „Jahr“):
+•
+• Interview mit „Vornameninitial“. „Name“ ({Funktion/Position/Or-
+ganisation}),
+•
+• durchgeführt von „Vornameninitial“. „Name“,
+•
+• „Ort“, „Jahr“.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Wann sollte ein Transkript und wann die Audio-Datei genutzt wer-
+den? Lösung: Je länger ein Interview ist, desto zeitintensiver ist das 
+Transkribieren. Erfahrungswerte gehen von einem Faktor 1:15 aus: 
+Für jede Minute aufgezeichnetes Interview benötigt man 15 Minu-
+ten zum Abtippen, Aufbereiten und Korrekturlesen.110
+8.  Intranet-Inhalte
+Das Intranet arbeitet wie ein eigenes, kleines abgeschottetes Fir-
+men-Internet. Daher sind die Inhalte analog zu Internetangeboten zu 
+zitieren. Die fehlende Zugänglichkeit erfordert stets die Erstellung der 
+Archivquelle.
+In Konkurrenz treten nun zwei Bezeichner, [Intern] und [Online], wo-
+bei die wesentlichere Charakterisierung diejenige als interne Quelle 
+ist. Selbst wenn im Intranet der (technische) Autor identifiziert werden 
+kann, was regelmäßig der Fall sein wird, steht für den firmenexternen 
+Leser der Arbeit diese Information hinter der Firmen-/Organisations-
+bezeichnung der Quelle zurück.
+Beispiel: Intranetseite
+Auf der Intranetseite ist ein Autor genannt. Dieser steht hinter der 
+Firma zurück:
+Melter AG (Unternehmenskultur [Intern], 2015): Unsere Unterneh-
+menskultur – Grundsätze der Zusammenarbeit. Veröffentlicht von 
+A. Mayer (Leitung OE) am 15.12.2015, im Intranet verfügbar unter: 
+<https://intranet.melter-ag.de/cms/unternehmenskultur>, Zugriff 
+am: 26.04.2016.
+In der Fußnote steht bei erweitertem Kurzzitat als Bezug beispielhaft:
+Vgl. Melter AG, Unternehmenskultur [Intern], 2015.
+110	 Vgl. Weber, Wissenschaftliches Arbeiten, 2015, S. 139. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 24 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+113
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Intranetseite“,
+•
+• {ggf. weitere Informationen zur Intranetseite,}
+•
+• {im Intranet verfügbar unter: <„Intranet-URL“>, Zugriff am: „Da-
+tum“.}
+9.  Memos und Notizen
+Memos und Notizen sind persönliche Aufzeichnungen zu Gedanken, 
+Ideen und Vorgängen mit einem geringen Formalisierungsgrad. Form-
+los wird notiert oder als Sprachdatei aufgenommen, was nicht verges-
+sen werden soll. Memos und Notizen sind nicht auf Weiterverbreitung 
+angelegt. Sie sind daher für die Zitation ungeeignet.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Wie kann man dennoch die Informationen nutzen? Lösung: Bitten 
+Sie die Person, welche die Unterlagen verfasst hat, zu einem Inter-
+view. Stellen Sie Ihre Fragen so, dass Sie die aus den Unterlagen 
+bekannten Informationen neu erheben. Das Interview als solches 
+können Sie zitieren, siehe „Interview“.
+10.  Organigramm
+Das Organigramm ist ein Schaubild der tatsächlichen oder geplan-
+ten Aufbauorganisation einer Organisation. Es wird eingesetzt, um 
+mittels einer grafischen Darstellung die Struktur der Organisation 
+prägnant wiederzugeben.
+Das Organigramm ist schriftlich fixiert. Es ist oftmals Teil eines Or-
+ganisationshandbuches, dann ist es auch als Teil des Handbuches zu 
+zitieren (siehe „Handbücher“).
+Steht es alleine oder es ist als einzelne elektronische Datei im Intranet 
+abrufbar, ist der genaue Auffindeort zu lokalisieren und für die Zita-
+tion (z. B. als Pfadangabe zum Dokument) zu spezifizieren.
+Eventuell ist kein Urheber auf dem Organigramm angegeben. Bei einer 
+Verbreitung des Organigramms innerhalb des Unternehmens (z. B. per 
+Download) kann von einer internen Freigabe durch eine autorisierte 
+Stelle ausgegangen werden. Der Firmen- oder Organisationsname 
+wird dann als Verfasser angegeben.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 25 ===
+F.  Zitieren von firmeninternen Quellen
+114
+Auch Organigramme entwickeln sich. Um die als Beleg zitierte Fas-
+sung zu spezifizieren, sollte – sofern auf dem Organigramm vorhan-
+den – die Versionsnummer angegeben werden. In der Praxis verfügen 
+viele Organigramme jedoch nicht über eine solche Versionierung, 
+sondern die Fassung und Aktualität werden durch den Vermerk eines 
+Datums („Stand“ o.ä.) auf dem Blatt gekennzeichnet.
+Beispiel: Organigramm
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Melter AG, Organigramm [Intern], 2016.
+Im Quellenverzeichnis lautet der Eintrag:
+Melter AG (Organigramm [Intern], 2016): Organigramm der Mel-
+ter AG, Stand 18.01.2016, München. Im Intranet verfügbar unter: 
+<https://intranet.melter-ag.de/dokumente/organigramm.pdf>, Zu­
+griff am: 01.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel des Organigramms“,
+•
+• {Angaben zur Versionsnummer und/oder Angaben zum Stand,}
+•
+•  „Ort des Unternehmenssitzes“.
+•
+• {Im Intranet verfügbar unter: <„Intranet-URL“>, Zugriff am: „Datum“.}
+11.  Präsentationsfoliensatz (Powerpoint)
+Interne Präsentationen dienen der Visualisierung von Informationen. 
+Es sind quasi unendlich viele Einsatzzwecke denkbar. Beispielsweise 
+können damit Projektvorhaben, deren Fortschritt oder die Projekter-
+gebnisse illustriert werden. Für interne Präsentationen gelten ähnliche 
+Überlegungen wie für öffentlich zugängliche Präsentationen.111 Der 
+wesentliche Unterschied ist die Urheberschaft, die bei internen Prä-
+sentationen die tatsächliche(n) Person(en) nennt.
+Interne Präsentationen haben einen oder mehrere Urheber und be-
+fassen sich mit einem bestimmten Thema, das meist auf der ersten 
+Folie als Titel ersichtlich ist. Dort oder im Fußbereich der Folien ist ein 
+Datum angegeben, das in der Quellenangabe genannt werden kann.
+Für die Zitierfähigkeit sind weitere Informationen erforderlich: Zu-
+nächst ist zu erheben, unter welcher Intranet-URL oder unter welchem 
+111	 Siehe Kapitel E. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 26 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+115
+Pfad eines internen Laufwerks die Präsentation verfügbar ist. Dies 
+ist zu ergänzen mit dem Datum, an dem die Präsentationsdatei am 
+Speicherort verfügbar war.
+Die Zitierwürdigkeit wird verbessert, indem ergänzende Angaben zur 
+Funktion und Position des Urhebers gegeben werden.
+Beispiel: Interne Präsentation
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Walger, Strategie 2020 [Intern], 2016, Folie 3.
+Im Quellenverzeichnis lautet der Eintrag:
+Walger, Bernd (Strategie 2020 [Intern], 2016): Roadmap zur Strate-
+gie 2020 der Metallbau Walger GmbH, präsentiert von B. Walger 
+(Geschäftsführer). Datei verfügbar unter: <https://intranet.walger-
+gmbh.de/ pfad_zur_praesentation/strategie_2020.pptx>, Zugriff 
+am: 01.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Name“, „Vorname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Präsentation“,
+•
+• präsentiert von „Vornameninitial“. „Name“ („Funktion/Position“).
+•
+• Datei verfügbar unter: {<„Intranet-URL“>|< „Pfadangabe“>}, Zugriff 
+am: „Datum“.
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Der Urheber der Präsentation ist nicht zweifelsfrei feststellbar, auch 
+das Datum der Präsentationserstellung ist unklar. Kann die Quelle 
+trotzdem verwendet werden? Lösung: Nein. Die Quelle ist nicht 
+zitierwürdig.
+12.  Projektauftrag
+Der Projektauftrag ist ein Dokument, mit dessen Unterzeichnung ein 
+Projekt formal initiiert wird. Das Dokument enthält Angaben zum 
+Projekt, seinem Namen, der Ausgangssituation sowie den Projektzie-
+len und weitere Rahmenbedingungen, soweit sie in diesem Moment 
+schon bekannt sind. Der Projektauftrag ist immer schriftlich gefasst. 
+Er stellt die Grundübereinkunft zum Projekt zwischen Auftraggeber 
+(Unternehmen) und internem Auftragnehmer (Projektleiter) dar. Ent-
+sprechend ist er intern in z. B. nummerierte Sektionen gegliedert und 
+wird mit Datumsangabe unterzeichnet.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 27 ===
+F.  Zitieren von firmeninternen Quellen
+116
+Praxisbezogene Abschlussarbeiten, die als Projekt im Unternehmen 
+durchgeführt werden, sind auf diese Informationen angewiesen: Im-
+merhin gibt der Projektgeber im Projektauftrag den Fokus und somit 
+auch die Grenzen der Abschlussarbeit vor. Die Zitierwürdigkeit kann 
+daher angenommen werden.
+Für die Zitierfähigkeit sind die Angaben aus dem Projektauftrag aus-
+reichend:
+Beispiel: Projektauftrag
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Metallbau Walger GmbH, Projektauftrag Evaluation HR-Abteilung 
+[Intern], 2016, Ziffer 1.
+Im Quellenverzeichnis lautet der Eintrag:
+Metallbau Walger GmbH (Projektauftrag Evaluation HR-Abteilung 
+[Intern], 2016): Evaluation von Erfolgsfaktoren der HR-Abteilung 
+und Ableitung von optimierenden Handlungsempfehlungen, 
+Projektauftrag unterzeichnet von B.  Walger (Geschäftsführer), 
+01.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Projektname“,
+•
+• Projektauftrag unterzeichnet von „Vornameninitial“. „Name“ 
+(„Funktion/Position“), „Datum“ {.|,}
+•
+• {ggf. „Ort des Unternehmenssitzes“.}
+Typische Probleme und Lösungsansätze zu dieser Quelle:
+•
+• Was macht man, wenn für das eigene Projekt kein Auftrag for-
+muliert wurde? Lösung: In diesem Fall sollten Sie selbst ein Pro-
+jektauftragsformular erstellen, die Ihnen bekannten Daten und 
+Informationen eintragen und Ihre vorgesetzte Stelle bzw. den Pro-
+jektauftraggeber um Unterzeichnung bitten. Verdeutlichen Sie, dass 
+Sie dieses Dokument in Ihrer Arbeit zitieren wollen und daher einen 
+formellen Auftrag benötigen.
+13.  Prozessdiagramm
+Mit einem Prozessdiagramm werden Arbeitsabläufe und deren Abfol-
+ge visualisiert. Prozessdiagramme ergänzen daher oftmals die auch 
+in diesem Kapitel besprochenen Verfahrensanweisungen, sie können 
+diese aber auch ersetzen und stehen dann alleine.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 28 ===
+IV.  Konkrete Zitiervorgaben nach Werks-/Medienart
+117
+Ist ein zu zitierendes Prozessdiagramm Teil einer Verfahrensanwei-
+sung, so zitieren Sie wie bei „Verfahrensanweisung“ angegeben. Ist es 
+Teil eines Organisations- oder Managementhandbuches, so zitieren Sie 
+wie unter „Handbücher“ angegeben. Hintergrund ist, dass in beiden 
+Fällen ein formal gut zitierfähiger „Container“ um das Dokument 
+existiert.
+Für den Fall, dass es sich um ein einzelnes Prozessdiagramm handelt, 
+sind zunächst die verfügbaren Daten zum Dokument zu prüfen: Ur-
+heber und dessen Funktion/Position, Versions- oder Datumsangabe 
+der Erstellung und Gültigkeit sowie die Lokalisation des genauen 
+Auffinde- bzw. Speicherortes. Sind dazu keine Angaben möglich, ist 
+das Diagramm nicht zitierfähig.
+Liegen alle Daten vor, zitiert man das Prozessdiagramm wie in fol-
+gendem Beispiel:
+Beispiel: Prozessdiagramm
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Metallbau Walger GmbH, Lieferantenauswahlprozess [Intern], 2016.
+Im Quellenverzeichnis lautet der Eintrag:
+Metallbau Walger GmbH (Lieferantenauswahlprozess [Intern], 
+2016): Lieferantenauswahlprozess der Walger GmbH, erstellt von 
+N. Huber (Leiter Einkauf), gültig ab 01.03.2016. Datei verfügbar 
+unter: <G:\Users\Shared\Einkauf\lieferantenausw.vsd>, Zugriff am: 
+11.03.2016.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel des Prozessdiagramms“,
+•
+• erstellt von „Vornameninitial“. „Name“ („Funktion/Position“), gül-
+tig ab „Datum“.
+•
+• Datei verfügbar unter: {<„Intranet-URL“>|<„Pfadangabe“>}, Zugriff 
+am: „Datum“.
+14.  Rundschreiben
+Rundschreiben dienen dazu, einen zumeist größeren, aber definier-
+ten internen Adressatenkreis auf einen gemeinsamen, verbindlichen 
+Kenntnisstand zu bringen. Dazu wird der Inhalt des Rundschreibens 
+in identischer Kopie mehrfach in der Organisation verteilt und nach 
+festgelegten Umlaufplänen zirkuliert.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 29 ===
+F.  Zitieren von firmeninternen Quellen
+118
+Urheber sind entweder hierarchisch hochrangige oder spezialisierte 
+Stellen. Im ersten Fall kann dies in einem Unternehmen die Geschäfts-
+führung sein, die beispielsweise über eine neue Geschäftsinitiative 
+informiert oder auf die Geltung einer bestimmten Regelung hinweist. 
+Im zweiten Fall kann dies z. B. die interne IT sein, die eine Regelung 
+verbindlich bekannt machen möchte. Die Verantwortlichen eines 
+Rundschreibens unterzeichnen dies persönlich, so dass der Urheber 
+feststeht.
+Für die Zitierfähigkeit kommt uns entgegen, dass Rundschreiben wie 
+ein Geschäftsbrief einen Betreff im Kopfbereich benennen, datiert sind 
+und zudem in den meisten Organisationen jahresweise fortlaufend 
+nummeriert sind (z. B. „Nr. XIII/2016).
+Mit diesen Angaben kann die Zitierfähigkeit hergestellt werden:
+Beispiel: Rundschreiben
+In der Fußnote steht bei erweitertem Kurzzitat beispielhaft:
+²  Vgl. Metallbau Walger GmbH, Rundschreiben Compliance [Intern], 2016.
+Im Quellenverzeichnis lautet der Eintrag:
+Metallbau Walger GmbH (Rundschreiben Compliance [Intern], 
+2016): Zur Anwendung der Compliance-Grundsätze unseres Un-
+ternehmens, in Umlauf gegeben von B. Walger (Geschäftsführer), 
+Rundschreiben-Nr. 18/2015 vom 04.12.2015.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Betreff des Rundschreibens“,
+•
+• in Umlauf gegeben von „Vornameninitial“. „Name“ („Funktion/
+Position“), 
+•
+• Rundschreiben-Nr. „Nummer“ vom „Datum“.
+15.  Verfahrensanweisung
+Die Verfahrensanweisung hat einen ähnlichen Zweck wie die Arbeits-
+anweisung: Sie regelt durch verbindliche Vorgaben die Art und Weise 
+der Aufgabenerfüllung. Anders als die Arbeitsanweisung bezieht sich 
+die Verfahrensanweisung jedoch nicht auf einen Arbeitsplatz, sondern 
+auf einen Prozess, der verbindlich geregelt wird.
+Verfahrensanweisungen sind auf Grund ihres generellen Charakters 
+schriftlich geregelt. Sofern sie einen Freigabeprozess durchlaufen ha-
+ben, sind sie sehr gut als Beleg verwendbar.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 30 ===
+V.  Praktische Tipps für die Arbeit mit internen Quellen
+119
+Beispiel: Verfahrensanweisung
+In der Fußnote erfolgt ein sinngemäßer Verweis auf die Quelle, S. 1, 
+wie folgt:
+Vgl. Metallbau Walger GmbH, Verfahrensanweisung Lieferanten-
+wahl [Intern], 2016, S. 1.
+Im Quellenverzeichnis erfolgt die vollständige Nennung der Quelle:
+Metallbau Walger GmbH (Verfahrensanweisung Lieferantenwahl 
+[Intern], 2016): Verfahrensanweisung zur Prüfung und Auswahl 
+von Lieferanten, Dokument BB-ABC-34, München, erstellt von 
+N. Huber (Leiter Einkauf) am 10.11.2015, freigegeben von B. Wal-
+ger (Geschäftsführer) am 10.11.2015, veröffentlicht am 8.1.2016 im 
+QM-Handbuch, Version 2.0.
+Allgemeines Schema zur vollständigen Nennung im Quellenverzeich-
+nis:
+•
+• „Firma oder Organisationsname“ {+Leerzeichen/Tabulator}
+•
+• („Kurztitel“ [Intern], „Jahr“):
+•
+• „Vollständiger Titel der Verfahrensanweisung“,
+•
+• {Dokumentbezeichnung,}
+•
+• erstellt von „Vornameninitial“. „Name“ („Funktion/Position“) am 
+„Datum“,
+•
+• freigegeben von „Vornameninitial“. „Name“ („Funktion/Position“) 
+am „Datum“,
+•
+• veröffentlicht am „Datum“ im „Container“.
+V.  Praktische Tipps für die Arbeit mit internen Quellen
+Die vertrauliche Behandlung firmeninterner Daten ist für die Unter-
+nehmen naturgemäß von besonderer Relevanz. Studierende, die als 
+Mitarbeiter eines Unternehmens dort ihre Projekt- oder Abschluss-
+arbeit erstellen, sind durch den Arbeitsvertrag zu einer vertraulichen 
+Behandlung von internen Dokumenten verpflichtet.112
+Trotzdem können aus der Verwendung interner Dokumente in der 
+wissenschaftlichen Arbeit Probleme erwachsen:
+•
+• Betreuer und Gutachter der Arbeit haben keinen Vertrag mit dem 
+Unternehmen, der sie auf die Geheimhaltung vertraulicher Firmen-
+interna verpflichtet.
+•
+• Die Arbeit kann nach Begutachtung in der Hochschulbibliothek 
+auftauchen und dort von Dritten eingesehen werden.
+112	 Vgl. Sicking, Betriebsgeheimnisse [Online], 2010. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 31 ===
+F.  Zitieren von firmeninternen Quellen
+120
+•
+• Werden die internen Informationen in einem persönlichen Ge-
+spräch gegeben und wird dieses verdeckt aufgezeichnet, ist die 
+Verwendung der Quelle unter Umständen strafbar.
+•
+• Das eigenmächtige Archivieren firmeninterner Unterlagen und 
+deren Entnahme aus dem Betrieb können als Verrat von Betriebsge-
+heimnissen gesehen werden und Folgen bis zur außerordentlichen 
+Kündigung haben.
+Die genannten Probleme lassen sich allesamt vermeiden, wenn Stu-
+dierende frühzeitig mit allen Beteiligten offen kommunizieren und 
+ggf. rechtliche Zusatzvereinbarungen treffen. Die Möglichkeiten dazu 
+werden im Folgenden erläutert:
+1.  Vertraulichkeitserklärung diskutieren
+Betreuer sowie Gutachter der Hochschule stehen mit dem projekt-
+gebenden Unternehmen in keinem direkten Rechtsverhältnis. Daher 
+existiert keine die Geheimhaltung betreffende Regelung für die ge-
+nannten Personengruppen auf individualrechtlicher Basis. Für das 
+Unternehmen ist dies ein Risiko, denn Betreuer/Gutachter könnten 
+die ihnen durch die Arbeit zur Kenntnis gebrachten Informationen 
+weiterverbreiten.
+Aus Sicht der Unternehmen empfiehlt sich eine sog. Geheimhaltungs-
+vereinbarung oder auch Vertraulichkeitserklärung, die vom Betreuer/
+Gutachter zu unterzeichnen ist. Dieses, im Englischen auch als Non-
+Dis­closure-Agreement (NDA) bezeichnete Dokument regelt, dass die 
+unterzeichnende Person firmeninterne Informationen, von denen sie 
+im Zusammenhang mit der Erstellung, Betreuung oder Begutachtung 
+der Arbeit Kenntnis erlangt, geheim hält, Dritten nicht zugänglich 
+macht und nicht über das zur Betreuung der Arbeit erforderliche Maß 
+hinaus verwendet.
+Der Begriff der internen Information wird von den Unternehmen 
+erwartungsgemäß allumfassend gebraucht: Es werden z. B. Infor-
+mationen über technische Verfahren, technische Problemstellungen, 
+Konstruktionsunterlagen, Fertigungseinrichtungen sowie allgemein 
+Geschäftsvorgänge in solchen Vereinbarungen explizit genannt.
+Ein nachgewiesenes vertragswidriges Verhalten kann eine Schadens-
+ersatzpflicht auslösen. Seien Sie sich also bewusst, dass die Vertrau-
+lichkeitserklärung ein persönliches Rechts- und Vermögensrisiko für 
+Ihren Betreuer/Gutachter darstellt.113 Vorlagen für eine Geheimhal-
+113	 Auch wenn keine Informationen weitergegeben wurden, kann der Verdacht 
+der Weitergabe zunächst zu einem Rechtsstreit führen. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 32 ===
+V.  Praktische Tipps für die Arbeit mit internen Quellen
+121
+tungsvereinbarung erhalten Sie in der Rechts- oder Personalabteilung 
+des projektgebenden Unternehmens.114
+Tipp
+Klären Sie die Notwendigkeit eines Non-Disclosure-Agreements (NDA) 
+möglichst frühzeitig mit dem Projektgeber. Versuchen Sie, ohne NDA 
+auszukommen.
+Gelingt dies nicht, besprechen Sie das Thema vor Beginn der eigentli-
+chen Betreuung mit Ihrem Betreuer/Gutachter.
+Eine Alternative zur persönlich von Betreuern/Gutachtern zu unter-
+zeichnenden Geheimhaltungsvereinbarung ist der Sperrvermerk.
+2.  Sperrvermerk in der wissenschaftlichen Arbeit
+Ein Sperrvermerk verpflichtet die Hochschule zu einem bestimmten 
+Umgang mit der eingereichten Arbeit. Zum Beispiel wird darin gere-
+gelt, dass die Arbeit für die Öffentlichkeit unzugänglich bleibt oder 
+dieser erst nach Ablauf einer bestimmten Frist zur Verfügung gestellt 
+werden darf.115
+Ein Sperrvermerk muss bei der Hochschule vorab beantragt und ge-
+nehmigt werden. Der Antrag hat sich auf eine konkrete Arbeit zu 
+beziehen (z. B. Bachelor-Thesis mit dem Titel „…“) und eine Begrün-
+dung zu nennen („Die Arbeit wird vertrauliche Daten der XY GmbH 
+enthalten.“). Zuständig für die Entscheidung über den Antrag ist im 
+Normalfall der Prüfungsausschuss.
+Da beim Sperrvermerk die Hochschule – und nicht wie bei der Ge-
+heimhaltungserklärung/NDA der Betreuer/Gutachter – die Vertrau-
+lichkeit zusichert, ist der Sperrvermerk weitaus unproblematischer für 
+Betreuer und Gutachter zu akzeptieren.
+Der Sperrvermerk wird nach dem Titelblatt der Arbeit und vor dem 
+Inhaltsverzeichnis der Arbeit eingefügt.116 In etwa hat der Sperrver-
+merk folgenden Wortlaut:
+Beispielformulierung Sperrvermerk
+Diese wissenschaftliche Arbeit mit dem Titel: „(Titel)“ enthält interne 
+vertrauliche Daten der (Firmenname). Sie ist nur den Erst- und Zweit-
+gutachtern sowie ggf. dem Prüfungsausschuss zugänglich zu machen.
+114	 Vgl. Schmidt, Abschlussarbeit, 2013, S. 81. 
+115	 Vgl. Theisen, Wissenschaftliches Arbeiten, 2017, S. 217. 
+116	 Vgl. Heesen, Wissenschaftliches Arbeiten, 2014, S. 45 f. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 33 ===
+F.  Zitieren von firmeninternen Quellen
+122
+Veröffentlichungen und Vervielfältigungen der Arbeit oder ihre Wei-
+tergabe – im Gesamten oder in Teilen – sowie das Anfertigen von 
+Kopien oder Abschriften – auch in digitaler Form – sind grundsätzlich 
+untersagt.
+Die Arbeit darf weder als gebundenes Exemplar noch in digitaler Fas-
+sung in die Bibliothek der Hochschule eingestellt werden.
+Ausnahmen bedürfen der vorherigen schriftlichen Genehmigung der 
+(Firmenname).
+Dieser Sperrvermerk wurde mit Antrag an den Prüfungsausschuss der 
+Hochschule durch diesen am (Datum) genehmigt.
+Das Formular für den Antrag auf Genehmigung eines Sperrvermerks 
+erhalten Sie über das Prüfungssekretariat Ihrer Hochschule. Dort 
+können Sie auch den genauen Wortlaut für den Sperrvermerk erfragen.
+3.  Vertraulichkeit persönlicher Kommunikation beachten
+Eventuell erhalten Sie firmeninterne Daten durch persönliche Gesprä-
+che oder persönliche schriftliche Kommunikation (E-Mail) mit Mitar-
+beitern und Firmenvertretern. Es ist fraglich, ob den Informationsge-
+bern stets bewusst war, dass sie für Daten in einer wissenschaftlichen 
+Arbeit als „Quelle“ zitiert werden würden?
+•
+• Das deutsche Strafrecht schützt mit § 201 StGB die Vertraulichkeit 
+des Wortes: Die unbefugte technische Aufnahme (Informations-
+konservierung) und Weiterverbreitung mündlicher Äußerungen 
+(Informationshehlerei), die an Sie gerichtet und eben nicht für eine 
+allgemeine Öffentlichkeit bestimmt waren, ist verboten.117 Den-
+ken Sie hier an Betriebsinterna und Firmengeheimnisse, die per 
+Definition nicht für eine abstrakte und vorab nicht festzulegende 
+Leserschaft bestimmt sind.
+•
+• Schriftliche Kommunikation, die an Sie gerichtet war, ist unprob-
+lematischer. Diese können Sie rechtlich gesehen zunächst verwen-
+den, ohne dass der Urheber der Kommunikation dies beanstanden 
+könnte. Dies ändert sich, wenn es sich um Betriebs- oder Geschäfts-
+geheimnisse handelt, die Sie unbefugt verwerten und Sie (etwa 
+durch den Arbeitsvertrag) jedoch zur Geheimhaltung verpflichtet 
+sind (§ 203 StGB).
+Eine klare Kommunikation über den Anlass und Hintergrund des 
+Gesprächs/Interviews oder der schriftlichen Anfragen helfen im Vor-
+feld, diese Probleme zu vermeiden. Schützen Sie sich zudem selbst und 
+dokumentieren Sie die Art und Weise der Informationserhebung und 
+die Zustimmung der Beteiligten dazu genau – es könnte ja sein, dass 
+117	 Vgl. Sonnen, Strafrecht, 2005, S. 82. 
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 34 ===
+V.  Praktische Tipps für die Arbeit mit internen Quellen
+123
+ein Informationsgeber zu einem späteren Zeitpunkt seine „Offenher-
+zigkeit“ bereut.
+Tipp
+Bei einem Interview sollten Sie zu Beginn den Gesprächszweck und die 
+technische Aufnahme explizit ansprechen und dies in der laufenden 
+Aufnahme dokumentieren. Als Beispiel kann die folgende Einleitung 
+dienen:
+„Vielen Dank, dass Sie sich die Zeit nehmen, mir als Expertin/
+Experte zur Verfügung zu stehen für einige Fragen, die sich bei 
+der Erstellung meiner Abschlussarbeit ergeben haben. Es freut 
+mich sehr, dass ich Sie dazu zitieren darf. Der Einfachheit halber 
+möchte ich das Gespräch mit diesem Handy/Voice Recorder/Dik-
+tafon aufzeichnen, dann können wir uns voll auf das Gespräch 
+konzentrieren. Sind Sie damit einverstanden?“
+Daneben hat es sich auch für die Validität einer Quelle bewährt, eine 
+auf das Wesentliche gestraffte Abschrift des Interviews bzw. des Kom-
+munikationsvorgangs dem Informationsgeber zukommen zu lassen 
+und um seine Unterschrift als Zeichen der Autorisierung zu bitten.
+4.  Archivierung nur mit Wissen des Unternehmens
+In diesem Buch wurde Ihnen empfohlen, von Datenquellen, die Ein-
+gang in Ihre Arbeit finden, eine Archiv-Kopie anzufertigen, damit 
+die Quelle der Arbeit beigefügt oder auf Verlangen den Gutachtern 
+zugänglich gemacht werden kann.
+Informieren Sie davon vor Beginn der Materialsammlung Ihre vor-
+gesetzte Stelle und dokumentieren Sie dies. Andernfalls könnte der 
+Verdacht des Verrats von Betriebs- und Geschäftsgeheimnissen, 
+§ 17 Absatz 2 UWG, auf Sie fallen: Wer sich unbefugt eine „verkörper-
+te Wiedergabe des Geheimnisses“, sprich Kopie, sichert, kann bestraft 
+werden, wenn er dies aus Eigennutz betreibt oder die Weitergabe der 
+Kopie plant. Eigennutz liegt bereits vor, wenn Sie sich einen Vorteil 
+(Kopie) verschaffen und dabei die berechtigten Interessen Dritter 
+(Schutz der Betriebs- und Geschäftsgeheimnisse) übergehen.
+Selbst wenn Sie darlegen können, wofür Sie die Kopie benötigen, ent-
+hält vermutlich alleine der Weg dorthin unschöne Passagen.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.
+
+
+=== PAGE 35 ===
+F.  Zitieren von firmeninternen Quellen
+124
+Tipp
+Weisen Sie Ihre vorgesetzte Stelle im Unternehmen frühzeitig darauf 
+hin, dass Sie gehalten sind, von zitierten Datenquellen Kopien an-
+zufertigen. Dokumentieren Sie das Einverständnis. Falls dieses nicht 
+pauschal gegeben wird, unterbreiten Sie den Vorschlag, dass kopierte 
+Datenquellen vor Entnahme aus dem Betrieb gemeinsam gesichtet und 
+für die Zitation irrelevante Stellen geschwärzt werden.
+https://doi.org/10.15358/9783800657469-97
+Generiert durch Nordakademie Hochschule der Wirtschaft, am 09.03.2023, 11:04:37.
+Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig.

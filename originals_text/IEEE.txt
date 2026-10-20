@@ -1,0 +1,184 @@
+
+=== PAGE 1 ===
+Zitations-Styleguide IEEE 
+ 
+Zitatsionsregeln  
+Es folgen ein paar Regeln, wie Quellen im Fließtext einer Arbeit referenziert werden sollen. 
+Nachfolgend wird dann erläutert, wie die Bibliografie, auf die sich diese Referenzen beziehen 
+sollen, aufgebaut wird. Generell bietet sich an, für die Literaturarbeit BibTeX zu verwenden, das 
+erleichtert das Einhalten dieser Regeln und die Verwaltung der Quellen enorm! Der folgende 
+Auszug aus [1] gibt den Zitations-Stil des IEEE wieder, der hier als Maßstab festgesetzt werden 
+soll: 
+ 
+“About this guide 
+This guide is an introduction to citing using the IEEE (Institute of Electrical and Electronic 
+Engineers) Style.[…] 
+ 
+Style essentials 
+The IEEE Style is an number style with two key components: 
+1. In-text citations, which appear within the text 
+(a citation number in a square bracket).  
+2. A reference list, at the end of the text 
+(provides full details of all references cited in-text).  
+It is important to BE CONSISTENT when you are referencing. […] 
+ 
+Citation numbers are... 
+1. Arabic numbers assigned to each reference as it is cited. 
+i.e. the first reference is assigned the number 1, the second is assigned the number 2 and 
+so on.  
+2. Reused each time that reference is cited.  
+3. Identified by square brackets which are placed inside...  
+o punctuation marks. 
+eg "...was the most significant [4]."  
+o colons and semicolons.  
+eg "...had asserted [4]: further research..." 
+4. Multiple references - do not use spaces:  
+o if non-inclusive: joined by commas.  
+e.g. Though unlikely, the same effects was reported by [2,4,7,10]  
+o if inclusive numbers: joined by hyphen.  
+e.g. Motion or centrifugation can speed up the diagnosis of some viral infections 
+[2-5]  
+ 
+Author-Name Substitution 
+Substitute reference numbers for the name of the author, whenever appropriate: 
+ 
+As [1], [2], and [3] demonstrate, the natural course of microprocessor evolution will likely 
+lead to computers with...  
+ 
+According to [2], current Internet technology is still years behind industry projections...  
+ 
+Note Placement 
+
+
+=== PAGE 2 ===
+Directly after the reference, rather than at the end of a clause or sentence. (Sometimes the 
+reference will occur at the end of a clause or sentence): 
+ 
+One study [2] examined the mRNA levels of Jun C, Jun B, and Jun D in mouse tissues.  
+ 
+Current Internet technology is still years behind industry projections, one study suggested 
+[2].  
+ 
+Multi-reference Citations 
+Separate citation numbers with commas and without any spaces: 
+ 
+Though unlikely, the same effects was reported by [2,7,12].  
+ 
+Motion or centrifugation can speed up the diagnosis of some viral infections [19-22]. “ 
+ 
+Die Bibliografie 
+Im Fließtext werden also nur Referenzen in From von [Nummern] angegeben. In der Bibliografie 
+werden diese Nummern mit Inhalt gefüllt, wobei auch dies nach bestimmten Regeln erfolgt. 
+Diese stellen sicher, dass 
+- 
+Die gegeben Informationen vollständig sind und man alles an der Hand hat, um das Zitat zu 
+überprüfen 
+- 
+Die Bibliografie ein einheitliches und optisch ansprechendes Layout hat, was das Auffinden 
+von Informationen in kürzester Zeit unterstützt. 
+Wiederum folgen Regeln entsprechend dem IEEE Stil [2], getrennt nach gedruckten- und online 
+vorhandenen Quellen, für die erweiterte Regeln gelten: 
+ 
+Regeln für gedruckte Ressourcen 
+“A numbered list of references must be provided at the end of the paper. The list should be 
+arranged in the order of citation in text, not in alphabetical order. List only one reference per 
+reference number. Each reference number should be enclosed by square brackets. 
+ 
+In text, citations of references may be given simply as “in [1] . . . ”, rather than as “in reference 
+[1] . . . ”. Similarly, it is not necessary to mention the authors of a reference unless the mention is 
+relevant to the text. It is almost never useful to give dates of references in text. […] 
+ 
+Footnotes or other words and phrases that are not part of the reference format do not belong on 
+the reference list. Phrases such as “For example,” should not introduce references in the list, but 
+should instead be given in parentheses in text, followed by the reference number, i.e., “For 
+example, see [5].”  
+ 
+Sample correct formats for various types of references are as follows. 
+ 
+Books: 
+[1] G. O. Young, “Synthetic structure of industrial plastics,” in Plastics, 2nd ed., vol. 3, J. Peters, 
+Ed. New York: McGraw-Hill, 1964, pp. 15–64. 
+[2] W.-K. Chen, Linear Networks and Systems. Belmont, CA: Wadsworth, 1993, pp. 123–135. 
+ 
+Periodicals: 
+[3] J. U. Duncombe, “Infrared navigation—Part I: An assessment of feasibility,” IEEE Trans. 
+Electron Devices, vol. ED-11, pp. 34–39, Jan. 1959. 
+
+
+=== PAGE 3 ===
+[4] E. P. Wigner, “Theory of traveling-wave optical laser,” Phys. Rev., vol. 134, pp. A635–A646, 
+Dec. 1965. 
+[5] E. H. Miller, “A note on reflector arrays,” IEEE Trans. Antennas Propagat., to be published. 
+ 
+Articles from Conference Proceedings (published): 
+[6] D. B. Payne and J. R. Stern, “Wavelength-switched passively coupled single-mode optical 
+network,” in Proc. IOOC-ECOC, 1985, pp. 585–590. 
+ 
+Papers Presented at Conferences (unpublished): 
+[7] D. Ebehard and E. Voges, “Digital single sideband detection for interferometric sensors,” 
+presented at the 2nd Int. Conf. Optical Fiber Sensors, Stuttgart, Germany, 1984. 
+ 
+Standards/Patents: 
+[8] G. Brandli and M. Dick, “Alternating current fed power supply,” U.S. Patent 4 084 217, Nov. 
+4, 1978. 
+ 
+Technical Reports: 
+[9] E. E. Reber, R. L. Mitchell, and C. J. Carter, “Oxygen absorption in the Earth’s atmosphere,” 
+Aerospace Corp., Los Angeles, CA, Tech. Rep. TR-0200 (4230-46)-3, Nov. 1968.” 
+ 
+Die Zusammenstellung wurde entnommen aus [2]. Wichtig ist, auf die Vollständigkeit 
+(Seitenzahlen, Datum, Ort, …) und das Layout (Reihenfolge, Abkürzungen von Namen, 
+Anführungszeichen, Kursiv etc.) der spezifischen Informationen pro Quellentyp zu achten! 
+ 
+Regeln für elektronische Ressourcen 
+Wiederum entnommen aus [2]: 
+ 
+ “The guidelines for citing electronic information as offered below are a modified illustration of 
+the adaptation by the International Standards Organization (ISO) documentation system and the 
+American Psychological Association (APA) style. Three pieces of information are required to 
+complete each reference: 1) protocol or service; 2) location where the item is to be found; and 3) 
+item to be retrieved. It is not necessary to repeat the protocol (i.e., http) in Web addresses after 
+“Available” since that is stated in the URL. 
+ 
+Books: Author. (year, month day). Title. (edition) [Type of medium]. volume (issue). Available: 
+site/path/file 
+Example: 
+[1] J. Jones. (1991, May 10). Networks. (2nd ed.) [Online]. Available: http://www.atm.com 
+ 
+Journals: Author. (year, month). Title. Journal. [Type of medium]. volume (issue), pages. 
+Available: site/path/file 
+Example: 
+[2] R. J. Vidmar. (1992, Aug.). On the use of atmospheric plasmas as electromagnetic reflectors. 
+IEEE Trans. Plasma Sci. [Online]. 21(3), pp. 876–880. Available: 
+http://www.halcyon.com/pub/journals/21ps03-vidmar 
+ 
+Papers Presented at Conferences: Author. (year, month). Title. Presented at Conference title. 
+[Type of Medium]. Available: site/path/file 
+
+
+=== PAGE 4 ===
+Example: 
+[3] PROCESS Corp., MA. Intranets: Internet technologies deployed behind the firewall for 
+corporate productivity. Presented at INET96 Annu. Meeting. [Online]. Available: 
+http://home.process.com/Intranets/wp2.htp 
+ 
+Reports and Handbooks: Author. (year, month). Title. Company. City, State or Country. [Type of 
+Medium]. Available: site/path/file 
+Example:  
+[4] S. L. Talleen. (1996, Apr.). The Intranet Architecture: Managing information in the new 
+paradigm. Amdahl Corp., CA. [Online]. Available: 
+http://www.amdahl.com/doc/products/bsg/intra/infra/html 
+ 
+Computer Programs and Electronic Documents: ISO recommends that capitalization follow the 
+accepted practice for the language or script in which the information is given. 
+Example: 
+[5] A. Harriman. (1993, June). Compendium of genealogical software. Humanist. [Online]. 
+Available e-mail: HUMANIST@NYVM Message: get GENEALOGY REPORT” 
+ 
+ 
+Bibliografie 
+[1] IEEE Transactions, Journals and Letters (2006, 01). Information for Authors. IEEE 
+Periodicals Transactions/Journal Department. New York. [Online]. Available: 
+http://www.ieee.org/portal/cms_docs/pubs/transactions/auinfo03.pdf 
+[2] TeLaRS Web Team (2005, 02). IEEE Style. The University of Melbourne. [Online]. 
+Available: http://www.lib.unimelb.edu.au/cite/ieee/citing.html 

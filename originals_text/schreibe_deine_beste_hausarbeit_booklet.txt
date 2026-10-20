@@ -1,0 +1,1223 @@
+
+=== PAGE 1 ===
+KEIN’ BOCK? 
+Schau Dir an, wie Du die 
+Sache zum Laufen kriegst.
+in Wirtschaftswissenschaften
+Schreibe Deine beste 
+ econbiz
+ Find Economic Literature.
+ econ
+ econ
+Neuauflage
+mit Ergänzungen 
+zu KI-Tools
+
+
+=== PAGE 2 ===
+Hi! 
+Diese Broschüre soll Dir helfen, die beste Hausarbeit oder Abschluss­
+arbeit überhaupt zu schreiben. Folge den Anleitungen und Dir steht 
+nichts mehr im Weg. Wir haben Dir außerdem immer ­wieder Extra­
+material und hilfreiche Seiten mit QR-Codes hinterlegt. 
+Unten am Seitenrand findest Du eine Zeitleiste, die Dir ungefähr 
+zeigt, wann Du mit diesem Arbeitsschritt fertig sein solltest. Der 
+Prozess muss aber nicht immer linear sein, so dass Du zu einigen 
+Punkten noch einmal zurück­kehren kannst.
+Viel Erfolg bei Deiner Arbeit!
+Dein Redaktionsteam
+
+
+=== PAGE 3 ===
+	 6	
+Wissenschaftlich Schreiben & KI
+	 11	
+Thema finden
+	 13	
+Literatur recherchieren
+	 15	
+	
+Suche in Datenbanken
+	 17	
+	
+Was ist eine gute, wissenschaftliche Quelle? 
+	 18	
+	
+Working Paper & Fachzeitschrift
+	 21	
+Lesen
+	 23	
+Leitfrage herausarbeiten: Dein roter Faden
+	 25	
+Details absprechen: Das Exposé
+	 27	
+Arbeit schreiben
+	 28	
+Richtig Zitieren: Achtung Plagiat!
+	30	
+	
+Referenzen im Text 
+	 31	
+	
+Das Literaturverzeichnis
+	 33	
+Korrektur und Abgabe
+	34	
+Weiterführende Quellen und Beratung
+Inhalt
+
+
+=== PAGE 4 ===
+4
+Tipps & Hinweise
+Du hast eigentlich 
+überhaupt ­keine 
+Lust auf diese 
+­Arbeit? ­Ganz andere 
+­Sachen im Kopf?
+Schau Dir an, wie 
+Du die Sache zum 
+Laufen kriegst.
+
+
+=== PAGE 5 ===
+5
+→ Forscher:in werden
+In Deiner Arbeit gehst Du einer wissenschaftlichen Fragestellung 
+nach und machst erste Schritte in der Forschung. Das kann span­
+nend sein, wenn Du das Thema richtig wählst und Dich die Frage­
+stellung persönlich interessiert.
+Deine ersten Hausarbeiten bestehen überwiegend in der Einord­
+nung vorhandenen Wissens in den Kontext Deiner Fragestellung 
+und in der kritischen Bewertung der vorhandenen Literatur. 
+Deine eigenen Thesen und Argumente untermauerst Du durch den 
+Rückgriff auf anerkannte Expert:innen.
+→ Gute Note bekommen
+„First things first“ – Du willst eine gute Note, klar. 
+Das A und O dafür ist: 
+• die Recherche der einschlägigen Literatur, 
+• die Absprache mit Deinen Profs, 
+• der rote Faden im Text anhand Deiner Leitfrage und 
+• das korrekte Zitieren. 
+Mit den Tipps aus dieser Broschüre ist das 
+machbar! Stell Dir schon einmal das A – 
+Excellent auf Deiner Arbeit vor.
+
+
+=== PAGE 6 ===
+6
+Tipps & Hinweise
+Das 
+leere 
+Blatt
+Arbeitsauftrag
+Thema ﬁnden
+Einlesen / 
+erste Recherche
+Thema eingrenzen
+Fragestellung / 
+Ziel festlegen
+Methode festlegen
+Anforderungen klären
+Systematisch recherchieren
+Lesen, übersetzen & 
+exzerpieren
+Material sammeln /
+Daten erheben
+Daten verarbeiten
+Gliederung
+festlegen
+Feedback 
+einholen
+Inhaltlich 
+überarbeiten
+Sprachlich
+überarbeiten
+Layout gestalten
+Korrigieren
+Formatieren /
+Editieren
+Abgabe
+Begutachtung/
+Benotung
+Rückmeldung
+Exposé
+Manuskript
+-fassung
+Rohtext
+Teilprozesse
+beim akademischen
+Schreiben und
+Anwendungsfelder von 
+KI-Tools (in Orange)
+APROPOS:
+Für alle diese Aufgaben 
+verbrauchen KI-Model­
+le viel Energie. Das hat 
+negative ökologische 
+Auswirkungen.
+Es gibt viele verschiedene KI-Tools. Du kannst sie für fast alle Teil­
+aufgaben des wissenschaftlichen Schreibens nutzen. Je nach Auf­
+gabe sind unterschiedliche KI-Tools geeignet – für die Literatursuche 
+andere als für die Textüberarbeitung.
+zbw.to/hTOHL
+Finde KI-Tools für ver­
+schiedene Aufgaben auf 
+dieser Plattform:
+Quelle: Teilaufgaben im Schreibprozess von Anika 
+Limburg ist lizenziert unter CC-BY-SA (Anwen­
+dungsfelder von KI-Tools orange markiert).
+Wissenschaftlich
+Schreiben & KI
+
+
+=== PAGE 7 ===
+7
+→ Prompting 101
+Prompts sind Anweisungen, die einer KI sagen, was sie tun soll.
+Hier sind 6 Tipps, wie Du richtig gute Prompts schreibst:
+Quelle: Effektives Prompting von KI-Campus ist 
+lizenziert unter CC-BY-SA (als Text, gekürzt).
+1. 
+2. 
+4. 
+5. 
+6. 
+3. 
+Rolle zuweisen
+Weise der KI eine Rolle (mit Eigenschaften) zu.
+Du bist eine hilfsbereite Expertin für die Literaturrecherche in 
+Wirtschaftswissenschaften an einer Universitätsbibliothek.
+Kontext / Hintergrund geben
+Gib der KI Informationen zum Kontext. Zu kurze Prompts
+führen oft zu allgemeinen oder irrelevanten Ergebnissen.
+Ich bin Studentin im 3. Semester VWL und suche Literatur zu 
+den ökonomischen Auswirkungen von CO2-Bepreisung.
+Konkrete Aufgabe stellen
+Lege für die KI eine konkrete Aufgabe fest.
+Erstelle eine Liste mit Begriffen für die Literatursuche.
+Aufgabe in Arbeitsschritte einteilen
+Die meisten KI-Tools profitieren davon, wenn Du die 
+­Aufgabe in mehrere Arbeitsschritte einteilst.
+Schritt 1: Identifiziere zentrale Konzepte innerhalb des Themas.
+Schritt 2: Leite von den Konzepten relevante Suchbegriffe ab.
+Präzise Vorgaben machen / Länge festlegen
+Gib der KI präzise Vorgaben und lege die Länge fest.
+Vermeide dabei Füllwörter wie „max.“ oder „ungefähr“.
+Erstelle eine Liste mit 15 englischsprachigen Begriffen.
+Format vorgeben
+Definiere das gewünschte 
+Format des Outputs der KI. 
+Schreibe Deine Antwort als 
+numme­rierte Liste.
+APROPOS:
+Der erste Output ist 
+oft noch nicht passend. 
+Mit Folge-Prompts 
+kannst Du die Antwort 
+verbessern.
+
+
+=== PAGE 8 ===
+8
+→ ki-tools
+Eure Fragen zu wissenschaftlichem Schreiben und KI:
+Wie zuverlässig ist der Output von generativen KI-Tools?
+Auf den ersten Blick sind die Texte von ChatGPT oft überzeugend. Wenn 
+Du neu in einem Thema bist, ist es aber sehr schwer, die Qualität des Out­
+puts richtig einzuschätzen und falsche Inhalte zu erkennen. Die Entste­
+hung des Outputs ist nicht transparent: Der gleiche Prompt kann zu unter­
+schiedlichen Antworten führen. Daher gilt: Verwende nur Inhalte, die Du 
+nachvollziehen und verstehen kannst. Nutze sie als Hilfsmittel – nicht als 
+Ersatz für eigene Analyse und wissenschaftliches Arbeiten. 
+Muss ich Tools wie ChatGPT zitieren?
+KI-Tools sind keine Personen im Sinne des Urheberrechts. Sie stehen nicht 
+als Autor:innen im Literaturverzeichnis, aber sie können Dir helfen, Quel­
+len und Informationen zu finden. 
+Vorsicht: KI nutzt vorhandene Texte (Trainingsdaten), um neuen Output 
+zu generieren. Dieser kann sehr nah am Original sein. Eine Übernahme 
+wäre ein Plagiat und nicht erlaubt.
+Darf ich einen Volltext in ein KI-Tool hochladen? 
+Wenn Du einen eigenen Text (z. B. Deine Hausarbeit) oder einen fremden 
+Text (z. B. ein wissenschaftliches Paper) in ein KI-Tool hochlädst, um ihn 
+zu überarbeiten oder zusammenzufassen, kann dieser Text dort gespei­
+chert werden. Das ist ein Problem, 
+1. 	wenn der Text Informationen über Personen 
+enthält, die dann in der KI gespeichert wer­
+den, oder 
+2. wenn Du keine Erlaubnis der Autor:innen 
+oder des Verlags hast – denn dann verletzt Du 
+Urheberrecht. 
+Daher: Gib niemals sensible Informationen (eige­
+ne oder fremde) oder urheberrechtlich geschützte 
+Volltexte in KI-Tools ein!
+TIPP:
+Manche Hochschulen 
+bieten eigene 
+KI-Zugänge an, um 
+Deine Daten zu schüt­
+zen. Informiere Dich!
+
+
+=== PAGE 9 ===
+9
+Darf ich KI überhaupt nutzen? Und wenn ja, wie?
+Viele Hochschulen haben eigene Richtlinien zur Nutzung von KI-
+Tools. An manchen Hochschulen gibt es auch (noch) keine klaren 
+Vorgaben. Frage bei Deinen Betreuer:innen nach, was für Dich gilt, 
+bevor Du mit der Arbeit beginnst.
+Muss ich angeben, dass ich KI-Tools genutzt habe?
+Auch dafür gibt es bisher keine einheitlichen Regeln. Kläre mit den 
+Betreuer:innen Deiner Arbeit, wie Du die Nutzung von KI-Tools do­
+kumentieren musst (z. B. Nennung der KI-Tools und ihrer Funktion / 
+inkl. Prompts / inkl. Prompts und Output).
+So kann eine Dokumentation verwendeter KI-Tools aussehen:
+KI-basiertes 
+Hilfsmittel
+Einsatzform
+Betroffene Teile 
+der Arbeit
+Bemerkungen
+DeepL 
+Translator
+Übersetzung von 
+Textpassagen
+Ganze Arbeit
+von Französisch 
+zu Englisch
+DALL-E3
+Erstellungen von
+Visualisierungen
+Abb. 1, S. 5,
+Abb. 4, S. 17
+Prompts im 
+Anhang
+ChatGPT
+Neuformulierung 
+der Einleitung in 
+Kapitel 3
+Kap. 3, S. 12, 
+erster Absatz
+Chatverlauf im 
+Anhang
+Elicit
+Literaturrecherchen
+Ganze Arbeit
+Dokumentiere von Anfang an alle ge­
+nutzten KI-Tools. Das ist einfacher als 
+am Ende alles nachzuarbeiten.
+Quelle: Leitfaden „Aus KI zitieren“ der Universität Basel ist lizenziert unter CC-BY-SA 
+(gekürzt, Beispiele ergänzt). 
+Objektivität ist 
+wichtig in der Wissen­
+schaft! KI kann Vor­
+urteile aus Trainings­
+daten reproduzieren.
+
+
+=== PAGE 10 ===
+10
+Tipps & Hinweise
+Brainstorming 
+»Thema«
+TIPP: 
+Schau Dir jetzt schon Vorgaben zum 
+Layout Deiner Arbeit an: Titelblatt, 
+Zeilenabstand, Schriftgröße, Zitierstil 
+uvm. sind meist vom Prüfungsamt oder 
+Lehrstuhl exakt vorgegeben. In den 
+Anleitungen stehen oft auch gute Tipps 
+von Deinen Profs.
+
+
+=== PAGE 11 ===
+11
+→ thema finden
+Bei Hausarbeiten und Bachelorarbeiten bekommst Du meist ein 
+Thema vorgeschlagen. Wenn Du Dein Thema frei wählen kannst, 
+beachte bei der Themenfindung:
+→ 	den Zusammenhang mit dem Seminar (bei Hausarbeiten) 
+oder das Fachgebiet Deiner Betreuer:innen (bei Bachelor- oder 
+­Masterarbeiten),
+→ 	Deine Vorlieben und Interessen (Was war in letzter Zeit interes­
+sant für Dich? Gab es da etwas in den Vorlesungen? ­Hast Du ein 
+interessantes Thema entdeckt in den Nachrichten, in Magazinen, 
+Blogs oder Podcasts? Hast Du im Studium/in Deiner Freizeit/auf 
+Reisen etwas beobachtet, das Du untersuchen möchtest?).
+→ 	Check: Gibt es ausreichend Literatur zu dem Thema? (S. 13) 
+Ggf. auch: Gibt es ausreichend Daten? Kennst Du Dich mit den 
+wissenschaftlichen Theorien und Methoden aus?
+Du kannst auch KI-Tools für die Themensuche nutzen: 
+→ 	Diskutiere ein grobes Thema, um es einzugrenzen. 
+→ 	Lasse Dir neue mögliche Themen vorschlagen.
+Achtung: Wähle das Thema nicht zu allgemein und stimme Dich 
+eng mit Deinen Betreuer:innen ab.
+APROPOS:
+Das Thema ist nicht das 
+Gleiche wie die Leitfrage. 
+Sobald Du ein Thema 
+hast, entwickelst Du die 
+passende Fragestellung 
+für deine Arbeit. (S. 23)
+→ 	Fragen wie z. B.: „Mit welcher ­Methode?“, 
+„Mit welchen Modellen?“, „Welche Ak­
+teur:innen/Stakeholder:innen?“, „Be­
+trachtung auf Mikro- oder Makroebene?“ 
+oder auch „Wann?“ und „Wo?“ eignen sich 
+zur Eingrenzung des Themas.
+
+
+=== PAGE 12 ===
+12
+Tipps & Hinweise
+TIPP: 
+Übersichtsarbeiten geben einen Überblick 
+über relevante Literatur zu Deinem Thema 
+und stellen den aktuellen Forschungsstand 
+dar.
+Um sie zu finden, ergänze in Deiner Suche:
+"systematic review", Übersichtsarbeit, 
+Literaturüberblick, Literaturübersicht, 
+"literature survey" oder "literature review". 
+APROPOS: 
+Hier ist eine Seite für Fortgeschrittene, die 
+selbst eine Literaturübersicht schreiben 
+wollen.
+Das Fundament
+Die Literatur, die Du zitierst, ist das Fundament Deiner Arbeit.
+Deine Hausarbeit besteht in erster Linie in der Einordnung vorhande­
+nen Wissens in den Kontext Deiner Fragestellung. Darum hängt Deine 
+Note stark davon ab, welche Literatur Du verwendest – auf welches 
+vorhandene Wissen Du zurückgreifst.
+zbw.to/DbEOk
+zbw.to/iSNQf
+Übersichtsarbeiten 
+in EconBiz
+Übersichtsarbeit 
+schreiben
+
+
+=== PAGE 13 ===
+13
+→ Literatur recherchieren
+Für die Suche verwendest Du nur die relevanten WiWi-Fachbegriffe 
+und z. B. Geografika, .... Suche insbesondere mit englischen Begrif­
+fen und verwende Synonyme, um keine wichtigen Treffer zu über­
+sehen:
+→	 im Standard-Thesaurus Wirtschaft (STW): Das ist ein Fachwort­
+schatz für die Wirtschaftswissenschaften (zbw.eu/stw). 
+→	 in fachlichen Lexika (z. B. dem Gabler Wirtschaftslexikon) und 
+Nachschlagewerken, auch in der ­Wikipedia
+→	 in Datenbanken (S. 15): Die gefundene Literatur ist oft mit Schlag­
+wörtern ausgezeichnet, die Du zur Weitersuche nutzen kannst.
+→ Brainstorming: 
+	 Suchbegriffe
+Aspekt 1
+Aspekt 2
+Aspekt n
+Begriffe
+Lebensmittel*, Le­
+bensmittelhandel
+Abfall*, Abfälle,
+...
+Deutsch*
+Übersetzungen
+food
+waste, ...
+German*
+Synonyme
+Nahrung*
+Müll, Entsorgung
+Oberbegriffe
+Einzelhandel*, 
+"retail trade", ...
+EU-Staaten, 
+Europ*
+Unterbegriffe
+Obst*, fruit*, 
+Milch*, dairy, ...
+Verwandte 
+Begriffe
+Haltbarkeit*, 
+"date label", ...
+Verschwendung, 
+"nachhaltiger 
+Konsum"
+
+
+=== PAGE 14 ===
+Inspiriert von „Understanding Search Tools“ Loyola University Chicago
+Tipps & Hinweise
+14
+GOOGLE…
+… durchsucht Websites und ist nicht da­
+rauf angelegt, wissenschaftliche Artikel 
+zu finden. Es ist daher eher nicht für 
+eine WiWi-Recherche geeignet. Hier 
+kannst Du Dich einlesen und in Dein 
+Thema einsteigen.
+GOOGLE SCHOLAR…
+…enthält wissenschaftliche 
+Artikel und Working Paper. Oft 
+ist ein Volltextzugriff möglich. 
+Aber Achtung: Das Ranking 
+bevorzugt viel zitierte (oft ältere) 
+Publikationen.
+E-Books
+FACHDATENBANKEN…
+… sind die erste Wahl für die wissenschaftliche 
+Recherche. Hier findest Du die wichtigsten 
+Journal-Artikel für Dein Fachgebiet. Häufig sind 
+Datenbanken nur in Bibliotheken mit Lizenzen 
+nutzbar.
+Auf welche Datenbanken Du in deutschen 
+­Bibliotheken zugreifen kannst, siehst Du in 
+DBIS: dbis.ur.de
+Welche Datenbank für Deine Fragestellung 
+passt, kannst Du auch in DBIS ermitteln oder 
+Du fragst in Deiner Bibliothek.
+Online-Zugriff?
+Verbinde Dich via VPN/remote 
+access, um von zuhause auf lizen­
+zierte Datenbanken, Artikel und 
+E-Books Deiner Bibliothek zuzu­
+greifen.
+Suchwerkzeuge 
+verstehen
+BIBLIOTHEKSKATALOG 
+→ umfasst Bücher, E-Books und Zeit­
+schriften Deiner Bibliothek für alle 
+Fachgebiete
+→ enthält Dinge, die Du über Google 
+nicht findest
+→ enthält geprüfte, wissenschaftliche 
+Quellen (oft auch Journal-Artikel)
+→ aber Achtung: Auch hier wirst Du nie 
+alle relevanten Artikel auf einmal 
+finden. 
+Bücher
+Journal-
+Artikel
+
+
+=== PAGE 15 ===
+ econ
+ econ
+EBSCO Business Source
+Premier/Elite/Complete
+search.ebscohost.com 
+RePEc
+ideas.repec.org
+EconLit
+aeaweb.org/econlit
+WISO
+wiso-net.de
+econbiz.de
+Wichtige 
+WiWi-Datenbanken:
+15
+BEACHTE, dass die 
+Zeichen in verschiedenen 
+Datenbanken voneinander 
+abweichen können.
+→ Suche in Datenbanken
+Die Suche in Datenbanken unterscheidet sich 
+von der Suche in Suchmaschinen. Mit vier 
+Tricks findest Du alles Relevante:
+1. 
+Alle Endungen finden mit *Stern
+Finde Singular und Plural sowie zusammen­
+gesetzte Begriffe mit einer Suche:
+Chin* = China, Chinese, …
+Personal* = Personalmarketing, Personal­
+beschaffung
+2. 
+Exakte Wortfolge finden: 
+"mit Anführungszeichen" 
+"Brand behaviour", "Brand strategy"
+4. 
+3. 
+Synonyme mit OR verknüpfen, 
+Aspekte mit AND
+Es kann praktisch sein, Synonyme mit OR in 
+einer Suche abzufragen:
+("Internal branding" OR "Brand behaviour") 
+AND (Firmenimage OR Reputation)
+Trefferlisten filtern und 
+sortieren
+Datenbanken erlauben häufig das Filtern 
+nach Jahren, Themen/Schlagwörtern, 
+Autor:innen, Publikationsart, …. Auch eine 
+Sortierung nach Erscheinungsjahr kann 
+sinnvoll sein.
+
+
+=== PAGE 16 ===
+16
+Tipps & Hinweise
+Hättest Du’s 
+gewusst?
+→ 	Was ist eigentlich „Peer Review“?
+Peer Review ist ein Verfahren zur Qualitätssicherung, das häufig bei 
+Fachzeitschriften angewendet wird. Peers (Wissenschaftler:innen 
+aus der gleichen Community) begutachten einen Artikel vor der Ver­
+öffentlichung. Wenn mehrere Fassungen einer Publikation vorliegen, 
+zitiere die Fassung, die ein Peer Review durchlaufen hat.
+	
+	
+→ 	Darf ich aus Lehrbüchern zitieren?
+	
+Lehrbücher sollten nicht die Basis Deiner Hausarbeit sein. Sie geben 
+einen Überblick über Forschungsstand und Themen, präsentie­
+ren aber keine originalen Forschungsergebnisse. Bis aktuelle For­
+schungsergebnisse in Lehrbücher einfließen, dauert es eine ganze 
+Weile. Aber: Lehrbücher können einen guten Einstieg bieten für eine 
+Übersicht zu einem Thema oder zu Definitionen von zentralen Be­
+griffen. Auch im Falle von Methoden oder bestimmten Formeln (z. B. 
+aus Statistik und Ökonometrie) dürfen durchaus Lehrbücher zitiert 
+werden.
+→ 	Kann ich KI-Tools für die Literaturrecherche nutzen?
+	
+Wenn Du generative KI für die Literatursuche nutzt, dann 
+zeigen Tools wie ChatGPT manchmal Quellen an, die es gar 
+nicht gibt. Für eine verlässliche Recherche eignen sie sich 
+deshalb nicht. Du kannst sie für den Einstieg in ein Thema 
+nutzen. Für die Recherche greifst Du besser zu KI-Tools 
+speziell für die Literatursuche, wie z. B. Semantic Scholar 
+oder Perplexity. Hier ist eine Übersicht: Nutze KI-Tools nie 
+als einziges Suchwerkzeug, sondern zusätzlich zu Daten­
+banken und Suchmaschinen (S. 14). Überprüfe alle Quellen, 
+die KI-Tools ausgeben, mithilfe von Datenbanken.
+zbw.to/lydxq
+KI-Tools für 
+die  Literatur­
+suche
+
+
+=== PAGE 17 ===
+Inspiriert von Sarah Blakeslee: The CRAAP Test zbw.to/omj1B
+17
+→ 	Was ist eine gute, wissen­
+schaftliche Quelle?
+Stütze Dich bei einer wirtschaftswissenschaftlichen 
+Arbeit überwiegend auf Artikel aus Fachzeitschriften 
+(S. 19) und aktuelle ­Working Paper (S. 18) aus Forschungs-
+einrichtungen. Diese findest Du in Fachdatenbanken (S. 15).
+Ist es Mist oder eine gute Quelle? Mache den CRAAP-Test 
+– vor allem in Zweifelsfällen. Bei Publikationen, die Du in 
+Fachdatenbanken findest, erübrigt sich das.
+Currency: 	 Sind die Informationen aktuell? Erfordert das 
+	
+Thema aktuelle Informationen oder sind evtl. auch
+	
+ältere Quellen geeignet?
+Relevance: 	 Bezieht sich die Information auf Dein Thema? 
+	
+Richtet sich das Paper an die wissenschaftliche 
+	
+Fachcommunity?
+Authority: 	 Wer hat das Paper verfasst? Sind die Autor:innen 
+	
+Expert:innen auf dem Gebiet? An welcher wissen-
+	
+schaftlichen Einrichtung sind sie tätig? 
+Accuracy: 	 Sind die Informationen durch Referenzen belegt?
+	
+Wurden die Informationen geprüft oder begutachtet	
+	
+(Peer Review)?
+Purpose: 	
+Ist der Text an wissenschaftlicher Erkenntnis orien-	 	
+	
+tiert und mit neutraler Haltung geschrieben? Oder 	
+	
+	
+werden andere Ziele verfolgt (politische, finanzielle, 	 	
+	
+Lobby-Arbeit, Propaganda, …)?
+
+
+=== PAGE 18 ===
+zbw.to/Nvuai
+18
+→ Working Paper 
+Working Paper werden von Forschungsinstituten meist frei im Inter­
+net veröffentlicht. Sie haben kein Peer Review wie Fachzeitschriften, 
+werden aber auf Grund ihrer Aktualität sehr geschätzt und sind in den 
+Wirtschaftswissenschaften wichtige Quellen. Relevante Fragen: Wird 
+das Working Paper von einer angesehenen Forschungseinrichtung her-
+ausgegeben? Wurde der Beitrag bereits als Journal-Artikel veröffent­
+licht? Dann zitiere den begutachteten Artikel statt des ­Working Papers.
+Forschungsinstitut
+Serienbezeichnung
+Zählung innerhalb 
+der Serie
+Volltext öffnen
+
+
+=== PAGE 19 ===
+„Argentine government policies: impacts on the beef sector“ 
+von Gustavo Rossini, Rodrigo García Arancibia & Edith Depe­
+tris Guiguet ist lizenziert unter CC-BY 4.0.
+19
+RESEARCH
+Open Access
+Argentine government policies: impacts on
+the beef sector
+Gustavo Rossini1*, Rodrigo García Arancibia2 and Edith Depetris Guiguet2
+* Correspondence:
+grossini@fce.unl.edu.ar
+1Applied Economic Institute of
+Litoral (IECAL), National University of
+Litoral and Catholic University of
+Santa Fe, Moreno 2557, 3000 Santa
+Fe, Argentina
+Full list of author information is
+available at the end of the article
+Abstract
+Beef is a staple food for Argentine consumers, and although the country has been a
+major exporter, the highest proportion of beef production is consumed in the domestic
+market. With rising inflation rates in the last 5 years, and given the beef prices’ strong
+weight on the composition of the Consumer Price Index, the Argentine government
+began taking measures to control it. They initially forced price agreements with
+members of the marketing and production chain and ended up with a total ban
+on exports. The results were not as expected and caused serious distortions at
+different levels of the beef chain. This study aimed to determine whether the
+impact on some economic and production variables would have been different
+without such intervention. A VAR model was estimated in order to compare the
+observed behavior with intervention measures and estimated predictions with a
+theoretically free market.
+Agricultural and Food
+Economics
+Rossini et al. Agricultural and Food Economics  (2017) 5:1 
+DOI 10.1186/s40100-016-0070-9
+→ 	Fachzeitschrift
+In Fachzeitschriften erscheinen mehrmals pro Jahr Artikel 
+zu speziellen Themen.
+Rankings zeigen, welche Zeitschriften am 
+häufigsten gelesen und zitiert werden:
+•  Web of Science – Journal Citation Reports: 
+	 zbw.to/pJvMb, via Bibliotheks-Lizenz
+•  VHB-Rating 2024: 
+	 zbw.to/ndZYP
+•  Scimago Journal Rank: 
+	 zbw.to/UfSIL
+•  IDEAS/RePEc Simple Impact Factors for Journals: 
+	 zbw.to/JzjUC
+• Journal Weights List (Handelsblatt-Ranking):
+	 zbw.to/RESOL, via Forschungsmonitoring
+Zeitschriftentitel: Agricultural and Food Economics
+Band/Volume: 5
+Heft/No./Issue: 1
+zbw.to/zskZf
+Volltext öffnen
+
+
+=== PAGE 20 ===
+20
+Tipps & Hinweise
+Zeit zum 
+Nachdenken
+Abstand gewinnen
+Manchmal muss man alle Quellen beiseiteschieben und nach­
+denken. Dann erkennt man Verbindungen und kommt auf neue 
+Ideen. 
+Das klappt auch super beim Joggen oder Spazierengehen.
+Kritisch lesen
+Übernimm Literatur nicht unkritisch in Deine Arbeit, sondern 
+bewerte sie. 
+Beachte auch den Hintergrund/die mögliche Absicht, die hinter 
+einem Artikel steht (S. 17).
+
+
+=== PAGE 21 ===
+21
+→ 	Lesen
+Wenn Du eine Quelle als relevant eingestuft hast:
+•	 Lies das Paper, bis Du es ganz durchdrungen hast. Schlage unbe-
+	 kannte Fachbegriffe oder englische Begriffe nach.
+•	 Schreibe Dir die wichtigsten Textstellen heraus – z. B. mithilfe 
+	 eines Literaturverwaltungsprogramms (S. 28). Diese Textstellen 
+	 kannst Du dann kommentieren und darin Querverweise zu ande-
+	 ren Texten notieren. Mach dabei immer sichtbar, was Deine eige-
+	 nen Gedanken sind (das ist Grundlage Deines eigenen Beitrags für 
+	 die Arbeit) und was aus den gelesenen Texten stammt. 
+•	 Notiere Quellen und Seitenzahlen. Das erleichtert Dir später das 	
+	 Zitieren und lässt Dich nicht Gefahr laufen zu plagiieren (S. 28).
+•	 Aus Deinen Gedanken zu den gelesenen Texten entwickelst Du 	
+	 eine Leitfrage oder Hypothese (S. 23).
+Bei der 
+Recherche 
+triffst Du auf viele möglicherweise 
+interessante Artikel. Lesetechniken ­helfen 
+Dir, mit geringerem Aufwand die relevante 
+Literatur auszuwählen. 
+• Lies zuerst den Abstract, die Einleitung ­
+und den Schluss. Daran erkennst Du, ob 
+sich das Paper für Deine Arbeit lohnt.
+• Die verwendete Literatur soll einen 
+klaren Bezug zum Thema 
+haben.
+
+
+=== PAGE 22 ===
+22
+Tipps & Hinweise
+Tipp: Zeit zum 
+Schlafen
+Wenn Du Deine Zeit bis zur Abgabe überschlägst – plane auch 
+Zeit ein für:
+→ Essen
+→ Schlafen
+→ Freizeit
+Zeitfaktor! 
+Leider ist das Stellen der relevanten, präzisen, beantwortbaren 
+Frage oft genau so schwierig wie die Antwort. Das solltest Du in 
+Deiner Zeitplanung berücksichtigen.
+Als Faustregel gilt, dass Du nach ca. 1/3 der Zeit mit dem Schrei­
+ben der Arbeit beginnen solltest.
+
+
+=== PAGE 23 ===
+23
+→ 	Leitfrage: Dein roter Faden
+Während Du die relevante Literatur zum Thema liest und auswer­
+test, entwickelst Du Deine Leitfrage. 
+Herzstück und roter Faden Deiner Arbeit ist die Leitfrage:
+Die Leitfrage sagt aus, was Du mit Deiner Arbeit ­eigentlich heraus­
+finden möchtest. Sie setzt den Schwerpunkt der Arbeit und präzi­
+siert das Thema. 
+Deine Leitfrage gibt Dir einen konsequenten Aufbau für die Arbeit 
+vor. Sie zu beantworten ist Dein roter Faden.
+Zusammengefasst:
+•	 Die Leitfrage muss vor (!) dem Schreiben der Arbeit bekannt sein.
+•	 Eine gute Leitfrage spart viel Arbeit, denn sie erleichtert die 
+­Gliederung und Literaturrecherche.
+•	 Wähle eine offene Frage, die sich nicht mit einem einfachen Ja 
+oder Nein beantworten lässt. Formuliere sie klar und präzise, so 
+dass Du sie im Rahmen Deiner Arbeit beantworten kannst.
+•	In der Einleitung Deiner Arbeit beschreibst Du die Leitfrage: 
+Was ist Deine Leitfrage, warum ist sie relevant und wie soll sie 
+beantwortet werden? Damit gibst Du das „Programm“ Deiner 
+Arbeit bekannt.
+•	 Deine Arbeit soll nur Inhalte enthalten, die zur Beantwortung der 
+Leitfrage beitragen. Mache keine abschweifenden Exkurse.
+MEHR TIPPS:
+Guide „How to write a 
+research question“
+Infografik „How to 
+choose a research topic“ 
+zbw.to/LdJZk
+zbw.to/PClpc
+
+
+=== PAGE 24 ===
+24
+Tipps & Hinweise
+Der Bauplan
+→ 	Das Exposé ist eine Art Bauplan für Deine 
+Arbeit. Mit einem guten Exposé kannst Du die 
+Arbeit leichter runterschreiben. 
+PLUS:
+→ 	Das Exposé ist die Grundlage für die Bespre­
+chung mit Deinen Profs – die beste Gelegen­
+heit, wertvolles Feedback zu bekommen.
+→ 	Du hast Deine Arbeit schon grundsätzlich ent­
+worfen, bevor Du Dich ins Schreiben stürzt. 
+Das verschont Dich vor nachträglichem Um­
+schreiben und davor, am Thema vorbeizu­
+schreiben. Es gibt Dir einen roten Faden für 
+das Schreiben an die Hand.
+→ 	Dein Exposé schützt Dich vor Schreibblocka­
+den. Da Du den Bauplan vor Dir hast, entsteht 
+gar nicht mehr die Frage: „Wo soll ich an­
+fangen?“ (Blank Page Syndrome)
+
+
+=== PAGE 25 ===
+25
+→ 	Das Exposé
+Schreib Dein Exposé, bevor Du Dich an das Verfassen der Arbeit 
+setzt. Gib darin einen groben Überblick über die geplante Arbeit 
+und besprich den Entwurf mit Deinen Profs. 
+Das Exposé schreibst Du nach der Literaturrecherche und -auswer­
+tung. Dabei ist wichtig zu wissen: Die Recherche ist ein iterativer 
+Prozess, der Dich während der ganzen Arbeit begleitet. 
+Das Exposé enthält: 
+1. 
+2. 
+4. 
+5. 
+6. 
+7. 
+3. 
+den vorläufigen Titel
+die wissenschaftliche Fragestellung, die Du 
+beant­worten willst
+warum das Thema/die Fragestellung relevant ist
+die gewählte Forschungsmethode 
+(z. B. empirische ­Arbeit, theoretische Arbeit oder 
+literaturgestützte Arbeit)
+mögliche erste Ergebnisse/Arbeitshypothesen
+eine grobe Gliederung
+eine Liste der bisher recherchierten relevanten 
+Literatur.
+
+
+=== PAGE 26 ===
+TIPP: 
+Die Arbeit richtet sich an informier­
+te Leser:innen. Das erspart Dir z. B. 
+Grundkonzepte aus den ersten Semestern 
+zu erklären. 
+Aber: Für die Arbeit wichtige Fach­begriffe 
+müssen definiert werden.
+So kann’s 
+schief gehen
+Von diesen Problemen mit Arbeiten berichten die Profs:
+→ 	Arbeiten schweifen (z. B. durch viele Exkurse) von der eigentli­
+chen Problemstellung ab, es fehlt der rote Faden;
+→ 	Quellen werden nicht in Bezug zueinander gesetzt oder eingeord­
+net, sondern einfach nur aneinandergereiht; unkritischer Um­
+gang mit Quellen;
+→ 	die Argumentation ist unlogisch; 
+→ 	in der Arbeit wird Umgangssprache statt Fachvokabular verwen­
+det; es gibt Rechtschreibfehler/fehlerhafte Grammatik;
+→ 	es wird nicht korrekt zitiert, fremde Gedanken werden als eigene 
+ausgegeben (S. 28).
+APROPOS:
+Du kannst KI-Tools auch nutzen, um 
+Deine Argumente weiterzuentwickeln. 
+Frage das KI-Tool nach Gegenargumen­
+ten zu Deiner These oder Schwachstellen 
+in Deiner Argumentation. 
+26
+Tipps & Hinweise
+
+
+=== PAGE 27 ===
+→ 	Arbeit schreiben
+→ 	 Beantworte in Deiner Arbeit systematisch Deine Forschungs­
+frage – schreib nicht einfach alles auf, was Du gelernt hast.
+→ 	 Hinterfrage die verwendeten Quellen und begründe Deine 
+Argumente.
+→ 	 Benutze an den passenden Stellen Fachsprache. Schreibe in 
+einem flüssigen, gut lesbaren Stil, nicht unnötig kompliziert. 
+Verwende keine Füllwörter, keine Umgangssprache.
+→ 	 Gib konsequent Deine Quellen an.
+27
+1. 
+2. 
+3. 
+Einleitung
+In der Einleitung beschreibst Du die Fragestellung: Mache 
+deutlich, warum sie wichtig ist und beschreibe, wie Du sie 
+beantworten willst.
+Gib einen Überblick über den Aufbau der Arbeit. 
+Die Einleitung wird übrigens am Schluss geschrieben, weil 
+Du dann den besten Überblick über das Geschriebene hast.
+Hauptteil
+Im Hauptteil stellst Du den aktuellen Forschungsstand 
+dar, das heißt, Du gibst einen Überblick über die relevante 
+Literatur zu dem Thema. Außerdem enthält der Hauptteil 
+Deine Argumentation, Erläuterungen und Erkenntnisse 
+(je nach Fragestellung kann das z. B. das theoretische 
+­Modell oder die empirische Prüfung sein). 
+Schluss
+Am Schluss ziehst Du ein Fazit aus den im Hauptteil 
+gewonnenen Erkenntnissen, gibst einen Ausblick und 
+benennst offene Fragestellungen. Wähle die Überschrift 
+entsprechend des Inhalts, z. B. Ausblick, Zusammenfas­
+sung und offene Fragen, ….
+
+
+=== PAGE 28 ===
+TIPP: 
+Mit Literaturverwaltungsprogrammen wie 
+Citavi, Zotero, EndNote oder Mendeley lassen 
+sich Referenzen im Text  und komplette Literatur­
+verzeichnisse automatisch erstellen. Das spart Zeit.
+Einige Programme sind frei, z. B. Zotero. Viele Biblio­
+theken, bieten aber auch Zugang zu kostenpflichtigen 
+Versionen, z. B. zu Citavi oder EndNote.
+Achtung: Prüfe immer noch einmal die Richtigkeit 
+der Angaben und die Vollständigkeit.
+Solltest Du doch einmal veränderliche Quellen 
+wie Websites verwenden, sichere diese 
+vollständig ab.
+28
+→ 	Achtung Plagiat!
+Gib immer Deine Quellen an. Fehlende Referenzen können dazu 
+führen, dass Du durchfällst – auch wenn dies nur aus Nachlässigkeit 
+passiert ist.
+Die Arbeit muss kein Vollplagiat sein, um als Plagiat eingestuft 
+zu werden. Es reicht aus, dass einzelne Passagen oder Ideen ohne 
+­Quellenangabe aus anderen Texten übernommen werden. 
+Es gibt verschiedene Tools und Services, die Deine Arbeit auf unbe­
+absichtigte Plagiate prüfen. Aber Vorsicht: Die Qualität von Plagiats-
+Scannern – egal ob kostenlos oder kostenpflichtig – kann sehr unter­
+schiedlich sein. Sie bieten keine Garantie.
+Und was ist mit KI-Detektoren?
+KI-Detektoren zeigen an, ob ein Text von einer KI oder einem Men­
+schen geschrieben wurde. Sie sind unzuverlässig: Oft stufen sie selbst 
+verfasste Texte fälschlicherweise als KI-generiert ein. Zudem benach­
+teiligen Sie Studierende, deren Erstsprache nicht Englisch ist.
+Literaturverwaltungs­
+programme im Überblick: 
+zbw.to/dZXzE
+
+
+=== PAGE 29 ===
+→ 	zitieren
+Zitierstil
+Frage Deine Profs nach stilistischen Vorgaben. Wenn Du keine Vor­
+gaben bekommst, kannst Du z. B. den weit verbreiteten APA-Stil 
+oder die Harvard-Zitierweise verwenden. Wichtig ist, dass Du ein­
+heitlich zitierst.
+Indirektes Zitat/Paraphrase
+Eine Paraphrase ist die Wiedergabe fremder Gedanken in eigenen 
+Worten. Sie wird typographisch nicht hervorgehoben, sondern fügt 
+sich in den eigenen Text ein. Dennoch wird die Fundstelle genannt 
+und die Quelle wird im Literaturverzeichnis aufgeführt.
+So war das Übernahmeangebot von RXT an BTX 
+auch in Fachkreisen nicht erwartet worden (Peren­
+ski, 2008, S. 67).
+Wörtliches Zitat
+Wörtliche Zitate nutzt Du nur, wenn es auf den Wortlaut ankommt. 
+Kennzeichne kürzere wörtliche Zitate durch Anführungszeichen, 
+längere (z.B. mehr als 40 Wörter) durch Einrückung des Absatzes. 
+Mache alle Änderungen des Wortlauts kenntlich: Hinzufügungen, 
+Auslassungen und Hervorhebungen.
+Fehler übernimmst Du unverändert und kennzeichnest sie durch 
+[sic].
+So Perenski wörtlich: „Dieses . . . Übernahmeange­
+bot [von RXT an BTX, Anm. d. Verf.] ist in Fachgrei­
+sen [sic] wie eine  B o m b e eingeschlagen.“ (2008, 
+S. 67, Hervorh. im Original)
+29
+
+
+=== PAGE 30 ===
+→ 	Referenzen im Text
+In den Sozial- und Wirtschaftswissenschaften ist die Kurzzitier-
+weise bei Referenzen im Text am weitesten verbreitet. Beim Zitat 
+werden angegeben: → Nachname(n), Jahr und Seitenzahl(en).
+30
+                     Im APA-Stil z. B.:
+So schreiben Brand und Härig (2015, S. 5), dass …
+Da sich der Kaffeepreis auf … auswirkt (Brand & 
+Härig, 2015, S. 5), ist …
+Dabei hat sich … auf den Kaffeepreis ausgewirkt 
+(Brand & Härig, 2015, S. 5).
+→ 	 Wenn Du mehrere Quellen einer 
+	
+Person(engruppe) aus einem Jahr 
+	
+verwendest, ergänze das Erscheinungsjahr 	
+	
+um ein a / b /…: (Sojaran, 2015a, S. 15)
+→ 	 f. und ff. stehen für eine/mehrere folgende 	
+	
+Seiten: (Brand, 2017, S. 15 f.)
+→ 	 Im APA-Stil wird bei Werken von drei oder 
+	
+mehr Personen mit et al. („und andere“) abge-	
+	
+kürzt: (Wung et al., 2016, S. 4 ff.)
+Finde weitere Beispiele im 
+EconBiz-Leitfaden „Wissen­
+schaftliche Information 
+zitieren“ 
+zbw.to/UGxcq
+
+
+=== PAGE 31 ===
+	
+	
+         Beispiele (im APA-Stil)
+Artikel in einer Fachzeitschrift
+Chadi, A., Jeworrek, S., & Mertins, V. (2016). When the meaning of 
+work has disappeared: Experimental evidence on employees’ perfor­
+mance and emotions. Management Science, 63(6), 1696-1707. 
+https://doi.org/10.1287/mnsc.2016.2426
+Working Paper/Report
+Boeing-Reicher, C., & Boysen-Hogrefe, J. (2017). Estimating the effects 
+of the „flight to quality“, with an application to German bond yields and 
+interest payments (Kiel working paper 2086). Kiel Institute for the 
+World Economy. http://hdl.handle.net/10419/162853
+Buch
+Robbins, S. P., & Judge, T. A. (2021). Essentials of organizational 
+­behavior (15th ed.). Pearson.
+Artikel in einem Buch/Sammelwerk
+Fort, R. D. (2006). Competitive balance in North American profes­
+sional sports. In J. L. Fizel (Ed.), Handbook of sports economics re­
+search (pp. 190-208). Routledge.
+→ 	Das Literaturverzeichnis
+Das Literaturverzeichnis enthält alle Details zu Deinen im Text zitier­
+ten Publikationen.
+Achtung: Quellen, die Du liest – aber nicht zitierst – werden nicht auf­
+geführt.
+Die Sortierung erfolgt i.d.R. nach: Nachname(n), Vorname(n), Jahr
+Brand, J. (2019)
+Brand, J. (2016)
+Brand, J., & Härig, R. (2018)
+31
+
+
+=== PAGE 32 ===
+Zeit für Abstand
+32
+Tipps & Hinweise
+
+
+=== PAGE 33 ===
+→ 	Korrektur und Abgabe
+Plane mindestens 1–2 Wochen ein, um:
+→ 	Abstand zum Text zu gewinnen, 
+→ 	die Arbeit selbst Korrektur zu lesen, 
+→ 	sie von anderen Korrektur lesen zu lassen und
+→ 	die Arbeit zu formatieren, ggf. auszudrucken/zu binden und recht­
+zeitig abzugeben.
+Eckpunkte Deines Korrekturgangs
+33
+1. 
+2. 
+4. 
+5. 
+6. 
+7. 
+8. 
+3. 
+9. 
+Prüfe Rechtschreibung und Grammatik.
+Ist die Argumentation verständlich?
+Sind die wichtigsten Punkte klar hervorgehoben 
+und als solche zu erkennen?
+Stimmt die Nummerierung der Fußnoten?
+Stimmen Überschriften und Nummerierung im 
+Inhaltsverzeichnis und im Text überein? Ist die 
+Nummerierung korrekt?
+Sind alle verwendeten Quellen im Text angegeben? 
+Sind alle Quellenangaben korrekt und vollständig?
+Finden sich alle genannten Quellen (und nur diese) 
+im Literaturverzeichnis wieder?
+Prüfe das Literaturverzeichnis genau: Sind alle 
+Angaben vollständig und korrekt formatiert? Hier 
+verstecken sich oftmals kleine Fehler. 
+Sind Titelblatt, Datum, Seitenränder und Schrift­
+größe richtig formatiert? Ist die Plagiatserklärung 
+unterschrieben?
+
+
+=== PAGE 34 ===
+Rundum-
+Sorglos-Paket
+Auf diesen Seiten findest Du weiterfüh­
+rende Quellen und Anlaufstellen.
+Bereich „Wissenschaftlich Arbeiten“ 
+von EconBiz mit:
+→ 	Interaktiven Selbstlern-Trainings
+→ 	PDF-Leitfäden
+→ 	Recherchetipps in unserer EconBiz-
+Tour
+34
+Tipps & Hinweise
+E-Learning-Angebote 
+in EconBiz
+zbw.to/Au7HE/
+
+
+=== PAGE 35 ===
+→ 	Persönliche Beratung
+Betreuer:innen
+Besprich Deine Themen so detailliert wie möglich mit Deinen Be­
+treuer:innen. Solltest Du Zweifel oder Fragen ­haben, sprich sie offen 
+an. Du kannst sie auch nach einer Hausarbeit fragen, die Du als Vor­
+bild nehmen kannst.
+Bibliothek
+Unser ZBW-Team unterstützt Dich via Chat oder E-Mail bei der 
+WiWi-Recherche nach Literatur, Statistiken und Daten (econbiz.de/
+hilfe). 
+Sprich auch die Info-Theke und die wissenschaftlichen Fachrefe­
+rent:innen Deiner Bibliothek an. Häufig gibt es Kurse oder Mate­
+rialien zu Literaturverwaltung, Recherche, Datenbanken, Zitieren, 
+uvm.
+Schreibwerkstatt
+Hochschulen haben oft Schreibwerkstätten oder Schreibzentren, 
+die Kurse und Sprechstunden zum wissenschaftlichen Schreiben 
+anbieten. 
+Kommiliton:innen und die Fachschaft 
+Tausche Dich mit Kommiliton:innen aus, die schon Erfahrung ha­
+ben. Vielleicht können sie Dir eine gut benotete Arbeit als Vorbild 
+geben. Lass Deine Arbeit auf jeden Fall 
+von jemandem gegenlesen! Ihr könnt 
+auch Tandems bilden und Eure Arbeiten 
+gegenseitig austauschen.
+Bestimmt hat auch Deine Fachschaft 
+noch gute Hin­weise und Tipps für Dich, 
+besonders in Problemsituationen.
+35
+
+
+=== PAGE 36 ===
+Wir wünschen 
+Dir viel Erfolg bei 
+­Deiner Arbeit!
+
+
+=== PAGE 37 ===
+Hast Du Fragen 
+oder Feedback?
+Melde Dich beim EconBiz-Team 
+unter: econbiz.de/kontakt
+Lade die Broschüre als PDF herunter 
+unter: zbw.to/Hausarbeit
+Ein herzliches Dankeschön 
+an alle, die uns mit Anregungen 
+und Fragen bei der Erstellung 
+dieser Broschüre unterstützt haben!
+
+
+=== PAGE 38 ===
+Notizen:
+
+
+=== PAGE 39 ===
+Hamburg
+Neuer Jungfernstieg 21
+20354 Hamburg
+T: +49-40-42834-219
+Kiel
+Düsternbrooker Weg 120
+24105 Kiel 
+T: +49-431-8814-555
+Impressum
+ZBW – Leibniz Informationszentrum Wirtschaft
+zbw.eu
+Die ZBW ist Mitglied der Leibniz-Gemeinschaft.
+Redaktion: 
+Dr. Tamara Pianos
+Text: Nicole Krüger / Dr. Ellen Heidelberger
+Gestaltung: Stefan Werner
+econbiz.de
+Lizenzinfos:
+Die Broschüre ist CC-BY-lizenziert. Sie können sie herunterladen und verändert 
+oder unverändert auf Ihrem eigenen Server bereitstellen. Wenden Sie sich mit 
+Fragen gern per Mail an uns.
+Bildnachweise Pixabay: 
+S. 1: https://pixabay.com/de/illustrations/sozial-soziales-netzwerk-1206612
+S. 5: https://pixabay.com/de/illustrations/sozial-soziales-netzwerk-1206603
+S. 20: https://pixabay.com/de/illustrations/sozial-soziales-netzwerk-1206610
+S. 36: https://pixabay.com/de/illustrations/sozial-soziales-netzwerk-1206614
+Die Abbildungen auf den Seiten 22 und 32 wurden in Anlehnung an die oben 
+genannten Pixabay-Illustrationen erstellt.
+3. Auflage – 09.2025
+
+
+=== PAGE 40 ===
+Bei Fragen wende Dich an die Expert:innen
+in Deiner Bibliothek oder an das Team von EconBiz.
+Diese Broschüre als PDF herunterladen: https://zbw.to/Hausarbeit
+Hier ist Platz für Kontaktdaten von Fach-
+bereichen, Instituten, Profs, Bibliotheken; z.B. 
+mit Adressaufkleber überkleben.

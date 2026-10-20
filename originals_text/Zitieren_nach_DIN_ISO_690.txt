@@ -1,0 +1,479 @@
+
+=== PAGE 1 ===
+Bibliothek 
+ 
+Zitierregeln nach DIN ISO 690 
+ 
+ 
+1. Ein Verfasser eines Buches 
+NACHNAME, Vorname, Erscheinungsjahr. Titel: Zusatz zum Titel. Auflage. Verlagsort: Verlag. 
+ISBN 
+Beispiel: 
+SCHOLZ, Christian, 2014. Personalmanagement: informationsorientierte und 
+verhaltenstheoretische Grundlagen. 6., neubearbeitete und erweiterte Auflage. München: Verlag 
+Franz Vahlen. ISBN 978-3-8006-3680-8 
+ 
+2. Zwei Verfasser eines Buches 
+NACHNAME, Vorname (1. Autor) und Vorname NACHNAME (2. Autor), Erscheinungsjahr. Titel: 
+Zusatz zum Titel. Auflage. Verlagsort: Verlag. ISBN 
+Beispiel: 
+MÜLLER, Germar und Bernd PONICK, 2014. Grundlagen elektrischer Maschinen. 10., wesentlich 
+überarbeitete und erweiterte Auflage. Weinheim (Rhein-Neckar-Kreis): Wiley-VCH. ISBN 978-3-
+527-41205-1 
+ 
+3. Drei Verfasser eines Buches 
+NACHNAME, Vorname (1. Autor), Vorname NACHNAME (2. Autor) und Vorname NACHNAME (3. 
+Autor), Erscheinungsjahr. Titel: Zusatz zum Titel. Auflage. Verlagsort: Verlag. ISBN 
+Beispiel: 
+KRUGMAN, Paul R., Maurice OBSTFELD und Marc J. MELITZ, 2015. International economics: 
+theory and policy. 10. edition, global edition. Boston (Massachusetts): Pearson. ISBN 978-1-292-
+01955-7 
+ 
+4. Vier und mehr Verfasser eines Buches 
+Hinweis: Wenn möglich sollen alle Verfasser eines Buches angeben werden. Wenn Autoren 
+weggelassen werden, dann in folgender Form: 
+NACHNAME, Vorname (1. Autor) und andere, Erscheinungsjahr. Titel: Zusatz zum Titel. Auflage. 
+Verlagsort: Verlag. ISBN 
+Beispiel: 
+BELYTSCHKO, Ted und andere, 2014. Nonlinear finite elements for continua and structures. 2. 
+edition. Chichester (West Sussex): Wiley. ISBN 978-1-118-63270-3 
+ 
+ 
+1 
+V. 1 
+18.03.2015 
+ 
+
+
+=== PAGE 2 ===
+ 
+ 
+ 
+5. Herausgeber eines Buches 
+NACHNAME, Vorname, Hrsg., Erscheinungsjahr. Titel: Zusatz zum Titel. Auflage. Verlagsort: 
+Verlag. ISBN 
+Beispiel: 
+GOMERINGER, Roland, Hrsg., 2014. Tabellenbuch Metall. 46., neu bearbeitete und erweiterte 
+Auflage. Haan-Gruiten: Verlag Europa Lehrmittel. ISBN 978-3-8085-1726-0 
+ 
+6. Band eines mehrbändigen Werkes oder einer Reihe 
+NACHNAME, Vorname, Erscheinungsjahr. Titel: Zusatz zum Titel. Auflage. Verlagsort: Verlag. 
+Titel übergeordnetes Werk. Band. ISBN 
+Beispiel: 
+LINDNER, Helmut, 2014. Wechselstrom. 25., aktualisierte Auflage. Leipzig: Fachbuchverlag. 
+Elektro-Aufgaben. 2. ISBN 978-3-446-43810-1 
+ 
+7. E-Book 
+NACHNAME, Vorname, Erscheinungsjahr. Titel [online]. Zusatz zum Titel. Auflage. Verlagsort: 
+Verlag [Zugriff am: tt.mm.jjjj]. PDF e-Book. ISBN. Verfügbar unter: DOI oder URL 
+Beispiel: 
+STEFFEN, Bernhard, Oliver RÜTHING und Malte ISBERNER, 2014. Grundlagen der höheren 
+Informatik [online]. Induktives Vorgehen. Berlin: Springer Vieweg [Zugriff am: 05.02.2015]. PDF e-
+Book. ISBN 978-3-642-40146-6. Verfügbar unter: DOI: 10.1007/978-3-642-40146-6 
+ 
+8. Kapitel oder Artikel in einem Werk mit Herausgeber 
+NACHNAME, Vorname (Autor des Kapitels/Artikels), Erscheinungsjahr. Titel des Kapitels/Artikels: 
+Zusatz zum Titel. In: Vorname NACHNAME (Name des Herausgebers), Hrsg. Titel des Werkes: Zusatz 
+zum Titel. Auflage. Verlagsort: Verlag, Seiten (Seitenangabe des Kapitels/Artikels). ISBN 
+Beispiel: 
+IMGRUND, Markus, 2014. Strategisches Krisenmanagement. In: Peter HEIMERL, Hrsg. 
+Controlling, Finanzierung, Produktion, Marketing. Wien: facultas.wuv, S. 143-178. ISBN 978-3-
+8252-4323-4 
+ 
+9. Konferenzbeitrag 
+NACHNAME, Vorname (Autor des Beitrags), Erscheinungsjahr. Titel des Beitrags: Zusatz zum Titel. 
+In: Name der Konferenz. Ort, Datum der Konferenz. Verlagsort: Verlag, Seiten (Seitenangabe des 
+Beitrags). ISBN 
+Beispiel: 
+HARTMANN, L., 2014. Möglichkeiten im Leichtbau: produktiv und wirtschaftlich. In: Gießen und 
+Fahrwerks- und Karosseriekomponenten. München, 11. und 12. Februar 2014. Düsseldorf: VDI 
+Verlag, S. 89-101. ISBN 978-3-18-092217-1 
+ 
+ 
+2 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 3 ===
+ 
+ 
+ 
+10. Artikel in einer Zeitschrift (Print-Version) 
+NACHNAME, Vorname (Autor des Artikels), Erscheinungsjahr. Titel des Artikels: Zusatz zum Titel. In: 
+Titel der Zeitschrift. Jahrgang(Heftnummer), Seiten (Seitenangabe des Artikels). ISSN 
+Beispiel: 
+EISEL, Markus, 2012. Machine-Talk: Potenzialträger M2M. In: Wirtschaftsinformatik und 
+Management. 4(1), S. 30-35. ISSN 1867-5905 
+(Hinweis: Heft 1 aus dem 4. Jahrgang der Zeitschrift im Jahr 2012) 
+ 
+11. Artikel in einer Zeitschrift (Online via Datenbank) 
+NACHNAME, Vorname (Autor des Artikels), Erscheinungsjahr. Titel des Artikels: Zusatz zum Titel. In: 
+Titel der Zeitschrift [online]. Jahrgang(Heftnummer), Seiten (Seitenangaben des Artikels) [Zugriff am: 
+tt.mm.jjjj]. Name der Datenbank. ISSN. Verfügbar unter: DOI oder URL 
+Beispiel: 
+ZAHIDI, S.Z.H. und andere, 2013. Optimizing Complex Cluster Formation in MANETs Using 
+SAT/ILP Techniques. In: IEEE Sensors Journal [online]. 13(6), S. 2400-2412 [Zugriff am: 
+11.04.2014]. IEEE Xplore Digital Library. ISSN 1530-437X. Verfügbar unter: DOI: 
+10.1109/JSEN.2013.2254234 
+ 
+12. Artikel in einer Zeitschrift (Online via Website) 
+NACHNAME, Vorname (Autor des Artikels), Erscheinungsjahr. Titel des Artikels: Zusatz zum Titel. In: 
+Titel der Zeitschrift [online]. tt.mm.jjjj (Veröffentlichungsdatum des Artikels) [Zugriff am: tt.mm.jjjj]. 
+Verfügbar unter: DOI oder URL 
+Beispiel: 
+SCHAFFRY, Andreas, 2013. Wohin gehören Big-Data-Produkte? In: CIO [online]. 10.10.2013 
+[Zugriff am: 11.10.2013]. Verfügbar unter: 
+http://www.cio.de/knowledgecenter/bi/2932511/index.html# 
+ 
+13. Artikel in einer Zeitung 
+NACHNAME, Vorname (Autor des Artikels), Erscheinungsjahr. Titel des Artikels: Zusatz zum Titel. 
+Titel der Zeitung. tt.mm.jjjj (Erscheinungsdatum), Nummer, Seiten (Seitenangaben des Artikels) 
+Beispiel: 
+MATZKE, Achim, 2014. Europäische Standardwerke auf der Verkaufsliste. Frankfurter Allgemeine 
+Zeitung. 10.10.2014, Nr. 235/41 D3, S. 29 
+ 
+14. Bachelorarbeit und andere Hochschulschriften 
+NACHNAME, Vorname, Erscheinungsjahr. Titel [Art der Hochschulschrift (Bachelorarbeit, Masterarbeit, 
+Dissertation)]. Zusatz zum Titel. Ort der Hochschule: Hochschule 
+Beispiel: 
+DITTMANN, Viviane, 2014. Die Geldpolitik und Krisenbekämpfung der EZB vor dem Hintergrund 
+der Verfassungsbeschwerde [Bachelorarbeit]. Ingolstadt: Technische Hochschule 
+ 
+3 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 4 ===
+ 
+ 
+ 
+15. Hochschulschrift, die durch einen Verlag publiziert wurde 
+NACHNAME, Vorname, Erscheinungsjahr. Titel. [Art der Hochschulschrift (Bachelorarbeit, Masterarbeit, 
+Dissertation)]. Zusatz zum Titel. Hochschule. Verlagsort: Verlag. ISBN 
+Beispiel: 
+MAASER, Frank, 2014. Organisationsformen der Instandhaltung: theoretische Grundlagen, 
+Organisationsprinzipien und Gestaltungsansätze [Dissertation]. Universität Rostock. Aachen: 
+Shaker Verlag. ISBN 978-3-8440-2451-7 
+ 
+16. Patent (Anmelder und Erfinder identisch) 
+NAME DES ANMELDERS, Veröffentlichungsjahr. Titel des Patents. Anmeldung: Anmeldedatum 
+(kann angegeben werden). Ländername oder -code, offizielle Patentnummer. Veröffentlichungsdatum 
+Beispiel: 
+HONDA MOTOR LTD., 2007. Sitzkonstruktion für ein Motorrad. Anmeldung: 19.05.2004. DE, 
+Patentschrift DE602004003996T2. 10.05.2007 
+ 
+17. Patent (Anmelder und Erfinder nicht identisch) 
+NAME DES ANMELDERS, Veröffentlichungsjahr. Titel des Patents. Erfinder: Vorname 
+NACHNAME. Veröffentlichungsdatum. Anmeldung: Anmeldedatum (kann angegeben werden). 
+Ländername oder –code, offizielle Patentnummer 
+Beispiel: 
+HONDA MOTOR LTD., 2007. Sitzkonstruktion für ein Motorrad. Erfinder: Yutaka MURATA und 
+Masao OGAWA. 10.05.2007. Anmeldung: 19.05.2004. DE, Patentschrift DE602004003996T2 
+ 
+18. Norm 
+NORMUNGSINSITUT, Ausgabejahr. Normnummer: Titel der Norm: Zusatz zum Titel. Verlagsort: 
+Verlag, Ausgabedatum 
+Beispiel: 
+DEUTSCHES INSTITUT FÜR NORMUNG E.V., 2014. DIN EN ISO 9001 (2014-08-00): 
+Qualitätsmanagementsysteme - Anforderungen (ISO/DIS 9001:2014); Deutsche und Englische 
+Fassung prEN ISO 9001:2014. Berlin: Beuth, 00.08.2014 
+ 
+19. IT-Standard (online) 
+STANDARDISIERUNGSGREMIUM, Ausgabejahr. Standardnummer: Titel [online]. Version. 
+Ausgabedatum [Zugriff am: tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+JAVA COMMUNITY PROCESS, 2014. JSR 175: A Metadata Facility for the JavaTM Programming 
+Language [online]. Final Release. 30.09.2014 [Zugriff am: 28.01.2015]. Verfügbar unter: 
+http://jcp.org/en/jsr/detail?id=175 
+ 
+ 
+ 
+4 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 5 ===
+ 
+ 
+ 
+20. Website 
+HERAUSGEBER (meist im Impressum zu finden), Jahr (Stand der Seite). Titel [online]. Zusatz zum Titel. 
+Ort: Herausgeber, tt.mm.jjjj (Stand der Seite) [Zugriff am: tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+MEDIA-SATURN DEUTSCHLAND GMBH, 2012. Philosophie [online]. Märkte und Trends fest im 
+Blick. Ingolstadt: Media-Saturn Deutschland GmbH [Zugriff am: 01.07.2014]. Verfügbar unter: 
+http://www.media-saturn.com/de/DE/TheCompany/Philosophy/Seiten/Default.aspx 
+ 
+21. Website mit Autor 
+NACHNAME, Vorname, Jahr (Stand der Seite). Titel [online]. Zusatz zum Titel. Ort: Herausgeber 
+(meist im Impressum), tt.mm.jjjj (Stand der Seite) [Zugriff am: tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+FISCHERMANN, Thomas, 2013. Der Jedermann-Code [online]. Hat die bürgerliche Freiheit im 
+Internet noch eine Chance? Ein Besuch bei den besten Hackern zeigt: Ja – wenn die 
+Konsumenten ihre Naivität verlieren. 20.09.2013 [Zugriff am: 24.09.2013]. Verfügbar unter: 
+http://www.zeit.de/2013/39/nsa-internet-hacker-datenschutz 
+ 
+22. Broschüre print 
+HERAUSGEBER, Erscheinungsjahr. Titel: Zusatz zum Titel. Ort: Herausgeber 
+Beispiel: 
+MEDIA-SATURN-HOLDING GMBH, 2012. Around the world. Ingolstadt: Media-Saturn-Holding 
+GmbH 
+ 
+23. Broschüre online 
+HERAUSGEBER, Erscheinungsjahr. Titel [online]. Zusatz zum Titel. Ort: Herausgeber [Zugriff am: 
+tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+MEDIA-SATURN-HOLDING GMBH, 2012. Around the world [online]. Ingolstadt: Media-Saturn-
+Holding GmbH [Zugriff am: 26.02.2013]. Verfügbar unter: http://www.media-
+saturn.com/group/brochure/corporate/index.html#/ 
+ 
+24. Quelle ohne Jahresangabe 
+AUTOR/HERAUSGEBER, [kein Datum]. Titel: Zusatz zum Titel. Verlagsort: Verlag/Herausgeber 
+Beispiel: 
+SIEMENS AG, [kein Datum]. Siemens, ein Pionier unserer Zeit. München: Siemens AG 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 6 ===
+ 
+ 
+ 
+25. Präsentation 
+NACHNAME, Vorname, Jahr. Titel [PowerPoint-Präsentation]. Zusatz zum Titel. Ort: Herausgeber, 
+tt.mm.jjjj (Datum der Präsentation) 
+Beispiel: 
+MÜLLER, Dieter, 2012. Informationsmanagement und Prozessmanagement in einem globalen 
+Unternehmen im 21. Jahrhundert [PowerPoint-Präsentation]. München: Siemens AG, 26.05.2012 
+ 
+26. Interview (selbst durchgeführt) 
+NACHNAME, Vorname des Interviewten, Jahr. Interview durch Autor. Ort, tt.mm.jjjj (Datum des 
+Interviews) 
+Beispiel: 
+MEYER, Hans, 2014. Interview durch Autor. Ingolstadt, 02.06.2014 
+ 
+27. Interview (publiziert in TV, Presse, etc.) 
+NACHNAME, Vorname des Interviewten, Jahr. Titel: Zusatz zum Titel. Interview durch Vorname 
+NACHNAME des Interviewers. In: Quelle [online]. tt.mm.jjjj (Datum des Interviews) [Zugriff am: 
+tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+GREENWALD, Glenn, 2013. Die USA halten Journalismus für ein Verbrechen. Interview durch 
+Thomas FISCHERMANN. In: Zeit Online [online]. 21.08.2013 [Zugriff am: 24.09.2013]. Verfügbar 
+unter: http://www.zeit.de/digital/datenschutz/2013-08/interview-glenn-greenwald/seite-1 
+ 
+28. Interne Dokumente 
+AUTOR/HERAUSGEBER, Jahr. Titel: Zusatz zum Titel. Ort: Herausgeber. Internes Dokument 
+Beispiel (fiktiv): 
+CONTINENTAL AG, 2014. Geheime Unternehmensstrategie. Hannover: Continental AG. Internes 
+Dokument 
+ 
+29. Computersoftware 
+HERAUSGEBER, Erscheinungsjahr. Titel der Software [Software]. Zusatz zum Titel. Ort: 
+Herausgeber, tt.mm.jjjj (Erscheinungsdatum) [Zugriff am: tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+MOZILLA FOUNDATION, 2014. Mozilla Firefox 33.0.1 [Software]. 24.10.2014 [Zugriff am: 
+28.10.2014]. Verfügbar unter: http://www.mozilla.org 
+ 
+30. E-Mail 
+NACHNAME, Vorname, Jahr. Titel der Nachricht [E-Mail]. tt.mm.jjjj (Datum der E-Mail), Uhrzeit 
+Beispiel (fiktiv): 
+MUSTERMANN, Max, 2014. Re: Heute schlechtes Wetter [E-Mail]. 28.10.2014, 09:59 
+ 
+ 
+6 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 7 ===
+ 
+ 
+ 
+31. Foreneinträge 
+NACHNAME, Vorname oder NICKNAME (Verfasser des Foreneintrags), Jahr. Titel. In: Titel des 
+Nachrichtensystems [online]. tt.mm.jjjj (Veröffentlichungsdatum) [Zugriff am: tt.mm.jjjj]. Verfügbar unter: 
+DOI oder URL 
+Beispiel: 
+LESSGO, 2014. Zitieren wenn keine Seitenzahl vorhanden ist. In: gutefrage.net [online]. 
+12.09.2014 [Zugriff am: 28.10.2014]. Verfügbar unter: http://www.gutefrage.net/frage/zitieren-
+wenn-keine-seitenzahl-vorhanden-ist 
+ 
+32. Online-Video 
+HERAUSGEBER, Jahr. Titel. In: Titel des Onlineportals [online]. tt.mm.jjjj (Veröffentlichungsdatum) 
+[Zugriff am: tt.mm.jjjj]. Verfügbar unter: DOI oder URL 
+Beispiel: 
+Technische Hochschule Ingolstadt, 2014. Die Vergangenheit: Film zum 20-jährigen Bestehen der 
+TH Ingolstadt. In: YouTube [online]. 15.10.2014 [Zugriff am: 28.10.2014]. Verfügbar unter: 
+https://www.youtube.com/watch?v=-mBN06730zM 
+ 
+33. Gesetze und Urteile 
+Hinweis:  
+Die Richtlinien der DIN ISO 690 finden auf Gesetzestexte keine Anwendung. Die folgenden 
+Zitierbeispiele richten sich nach: 
+BALZERT, Helmut, Marion SCHRÖDER und Christian SCHÄFER, 2011. Wissenschaftliches 
+Arbeiten: Ethik, Inhalt & Form wiss. Arbeiten, Handwerkszeug, Quellen, Projektmanagement, 
+Präsentation. 2. um 50 Prozent erweiterte und aktualisierte Auflage. Herdecke (Ennepe-Ruhr-
+Kreis): W3L-Verlag, S. 205-207. ISBN 978-3-86834-034-1 
+BUNDESMINISTERIUM DER JUSTIZ, 2008. Teil B 3 Zitierweise von Rechtsvorschriften. In: 
+Handbuch der Rechtsförmlichkeit [online] 3., neu bearbeitete Auflage. Köln: Bundesanzeiger-
+Verlag, S. 169-217. [Zugriff am: 05.02.2015] PDF e-Book. ISBN: 978-3-89817-834-1. Verfügbar 
+unter: http://hdr.bmj.de/page_b.3.html#an_169 
+ 
+33a. Gesetze (werden nicht im Literaturverzeichnis aufgenommen) 
+TITEL DES GESETZES Angabe der Ausfertigung (Fundstelle), (letzte) Bekanntmachung des 
+vollständigen Wortlauts (Fundstelle) 
+Beispiel: 
+URHEBERRECHTSGESETZ vom 9. September 1965 (BGBl. I S. 1273), das zuletzt durch Artikel 1 
+des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3728) geändert worden ist 
+ 
+ 
+ 
+ 
+7 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 8 ===
+ 
+ 
+ 
+33b. Urteile (werden nicht im Literaturverzeichnis aufgenommen) 
+ZUSTÄNDIGES GERICHT. Urteil vom tt.mm.jjjj. (Aktenzeichen), Fundstelle, 
+Randnummer/Seitenzahl 
+Beispiel: 
+OLG DÜSSELDORF. Urteil vom 20.02.2001. (Az. 20 U 194/00), Abs. 5 
+ 
+ 
+ 
+Allgemeine Hinweise zum Zitieren 
+ 
+Kurzverweis:  
+Der Kurzverweis erfolgt in der Fußnote. Notwendige Angaben sind Autor/Herausgeber, 
+Erscheinungsjahr und Seitenzahl (kompletter Umfang, z.B. 110-113 oder erste benutze Seite und 
+folgende, z.B. 110f., 110ff.) der zitierten Stelle im Format Autor, Jahr, S. Wird ein indirektes 
+(sinngemäßes) Zitat verwendet, setzt man zu Beginn des Kurzverweises Vgl. (Vergleiche), also Vgl. 
+Autor, Jahr, S. Jede Fußnote wird mit einem Punkt beendet. 
+ 
+Literaturverzeichnis:  
+Das Literaturverzeichnis wird folgendermaßen sortiert:  
+- 
+Alphabetisch nach Autor/Herausgeber. 
+- 
+Chronologisch absteigend innerhalb des gleichen Autors/Herausgebers. 
+- 
+Sollten hier Übereinstimmungen sein, wird das Erscheinungsjahr im Kurzverweis und 
+Literaturverzeichnis durch einen Kleinbuchstaben ergänzt. Dieser wird entsprechend der 
+Reihenfolge der verwendeten Quellen vergeben. 
+Beispiel: Müller, 2013a, S. 110. 
+    Müller, 2013b, S. 55f. 
+- 
+Eine Trennung nach Medientypen (z.B. Online- und Literaturquellen) erfolgt nicht.  
+ 
+Der Aufbau eines Zitates im Literaturverzeichnis kann der vorangestellten Liste entnommen 
+werden.  
+Zusätzliche Anmerkungen: 
+- 
+Grundsätzlich sind alle Verfasser anzugeben. Falls einzelne ausgelassen werden, ist das 
+mit der Anmerkung: „und andere“ anzuzeigen. 
+- 
+Die Angabe der Namen erfolgt nach Vorlage. Abgekürzte Vornamen werden nicht 
+aufgelöst. 
+- 
+Verfasser werden mit NACHNAMEN, Vornamen angegeben.  
+- 
+Bei mehr als 2 Verfassern ändert sich die Reihenfolge in Vorname NACHNAME ab dem 2. 
+Autor (Vgl. Beispiel 2 und 3). 
+- 
+Der akademische Grad kann angegeben werden. 
+8 
+V. 1 
+18.03.2015 
+ 
+ 
+ 
+
+
+=== PAGE 9 ===
+ 
+ 
+ 
+- 
+Zusätze bei Herausgeberinstitutionen wie AG, GmbH, etc. werden nur im 
+Literaturverzeichnis angegeben, nicht im Kurzverweis (Vgl. Beispiel 21, 22, 23 und 27). 
+- 
+Die Auflagenangabe erfolgt ab der 2. Auflage. Wird keine oder nur die 1. Auflage in der 
+Quelle vermerkt, entfällt diese Angabe im Literaturverzeichnis. 
+- 
+Die Angabe der Auflage erfolgt nach Vorlage. 
+- 
+Wenn in der Vorlage mehrere Orte oder mehrere Verlage angegeben sind, wird jeweils nur 
+der erstgenannte angegeben. Die Anmerkung [u. a.] entfällt. Wird kein Ort angegeben, 
+schreibt man stattdessen o. O. (ohne Ort); bei fehlendem Verlag o. V. (ohne Verlag). 
+- 
+Das Erscheinungsjahr wird nur dann wiederholt, wenn es sich um ein vollständiges 
+Datum handelt. Es wird kein Punkt hinter dem Erscheinungsjahr gesetzt, wenn kein 
+Identifikator (ISBN etc.) folgt. 
+- 
+Wird ein Copyright-Jahr angegeben ist das mit © zu kennzeichnen. 
+- 
+Sind internationale Identifikatoren (ISBN, DOI etc.) in der Vorlage vorhanden, müssen diese 
+angegeben werden. 
+- 
+Ist ein DOI vorhanden, wird dieser der URL vorgezogen. 
+- 
+Ist die Publikation ein nummerierter oder nicht nummerierter Teil einer Reihe, dürfen 
+Reihentitel und Reihennummer angegeben werden. Beim Zitieren wird wie bei einem 
+mehrbändigen Werk verfahren (Vgl. Beispiel 6). 
+- 
+Bei Artikeln oder Beiträgen soll dem Titel der Quelle ein „In:“ vorangestellt werden. Bei 
+Zeitungen entfällt das „In:“ jedoch (Vgl. Beispiel 13). 
+- 
+Bei Zeitschriften müssen der Jahrgang (wenn ermittelbar) und die Heftnummer 
+angegeben werden (Vgl. Beispiel 10 und 11). 
+- 
+Gesetze, Urteile oder Gerichtsentscheidungen werden nicht im Literaturverzeichnis 
+aufgenommen, sondern nur in der Fußnote angegeben. Kommentare werden wie 
+Monographien behandelt. 
+ 
+ 
+Noch Fragen? Wir helfen gerne! 
+ServicePoint 
+Mo - Fr 9 - 18.00 Uhr, Sa 9 - 13.00 Uhr 
+Tel.                 0841 - 9348 2160 
+E-Mail             bibliothek@thi.de 
+ 
+9 
+V. 1 
+18.03.2015 
+ 
+ 
+ 

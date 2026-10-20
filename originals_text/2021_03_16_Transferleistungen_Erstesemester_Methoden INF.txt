@@ -1,0 +1,603 @@
+
+=== PAGE 1 ===
+1
+Transferleistungen | Methoden Informatik 16.03.2021
+Transferleistungen
+Theorie / Praxis
+Methoden Informatik 16.03.2021
+
+
+=== PAGE 2 ===
+2
+Transferleistungen | Methoden Informatik 16.03.2021
+Programm – Wie schreibe ich eine Transferleistung?
+I.
+Was soll ich in einer Transferleistung bearbeiten?
+II.
+Warum sind Methoden so wichtig?
+III.
+Ein Thema finden
+IV.
+Vorgehen – wiss. Arbeit
+V.
+Erste Überlegungen: Ziele definieren / Umfang planen / Hypothesen entwickeln
+VI.
+1. Schritt: Literatur sichten – Belege finden
+VII.
+Was macht eine gute Quelle aus?
+VIII. Fragestellung schärfen
+IX.
+Quantitative und qualitative Methoden
+X.
+Literaturanalyse
+XI.
+Experteninterview
+XII.
+Experimente + Beispiel Aufbau einer Transferleistung
+XIII. Stolperfallen / Prüfertipps
+
+
+=== PAGE 3 ===
+3
+Transferleistungen | Methoden Informatik 16.03.2021
+Was soll ich in einer Transferleistung bearbeiten?
+Bezug Wissenschaft / Praxis: Informatik ein angewandtes Forschungsgebiet und kann somit Forschung zu 
+praxisrelevanten Themen leisten. Wissenschaft und Praxis können voneinander profitieren. Vorgänge im Unternehmen 
+werden mit der IT unterstützt; die gelernten Konzepte finden Verwendung in modernen Anwendungssystemen.
+Der Fokus einer wissenschaftlichen Arbeit liegt auf der Anwendung von Forschungsmethoden.
+Sie sollten also weniger versuchen, die Welt durch neue Ergebnisse zu revolutionieren, sondern gesichertes 
+Wissen durch die korrekte Anwendung von Forschungsmethoden in einer angemessenen Zeit produzieren.
+Jede wissenschaftliche Arbeit ist die Antwort auf eine offene Frage
+Fragen Sie sich, welches Problem Sie unter Anwendung welcher wissenschaftlichen Methodik lösen wollen? 
+Fragestellung
+aus Unternehmen
+Anwendung 
+Forschungsmethoden
+Transferleistung
+Literatursichtung / Bewertung / Auslegung
+
+
+=== PAGE 4 ===
+4
+Transferleistungen | Methoden Informatik 16.03.2021
+Forschungsmethoden beschreiben: wie die Untersuchung eines Objektes durchgeführt wird.
+„Wie“ ist als Prozess zu verstehen. Ein Objekt – Forschungsobjekt – wird auf Merkmale analysiert.
+Ziel ist es, Sachverhalte wissenschaftlich, strukturiert und nachvollziehbar zu untersuchen und so gesicherte 
+Erkenntnisse zu erlangen. Dazu werden Daten durch Interviews, Befragungen oder anhand von weiteren Methoden 
+gesammelt und es muss nachvollziehbar dokumentiert werden, wie diese erhoben worden sind.
+Wissenschaftlicher Erkenntnisgewinn ergibt sich aus der Sammlung und Auswertung von Daten durch einen 
+strukturierten Forschungsprozess
+Wie gesichert der Erkenntnisgewinn ist, hängt von Gütekriterien ab:
+•
+Objektivität kommen andere zum gleichen Ergebnis?
+•
+Reliabilität bleiben Ergebnisse stabil und bei wiederholter Messung gleich?
+•
+Validität Gültigkeit und Genauigkeit, die gewählte Methode
+•
+Ihre Datenerhebung sollte immer objektiv sein
+Warum sind Methoden so wichtig?
+
+
+=== PAGE 5 ===
+5
+Transferleistungen | Methoden Informatik 16.03.2021
+Ein Thema finden
+Brainstorming
+Womit beschäftigen Sie sich gerade im Unternehmen? / Was interessiert Sie? 
+Wo sehen Sie Bezüge zum Studium (Blick ins Modulhandbuch); 
+Fachzeitschriften lesen, Informationen sammeln, Listen erstellen
+Fragestellung aus gesammelter Informationsbasis
+Von einem generellem Thema zu einer spezifischen Fragestellung
+Parameter bedenken
+Zeitvorgabe; Länge, Relevanz, Was benötige ich?
+
+
+=== PAGE 6 ===
+6
+Transferleistungen | Methoden Informatik 16.03.2021
+Vorgehen einer wissenschaftlichen Arbeit
+Forschungsfrage
+Sichtung Literatur
+Methode – wie will 
+ich Frage lösen?
+Daten sammeln
+Auswertung / 
+Analyse
+Ergebnisse
+
+
+=== PAGE 7 ===
+7
+Transferleistungen | Methoden Informatik 16.03.2021
+Erste Überlegungen
+I.
+Umfang der Arbeit definieren welche Art von Ergebnis, denn danach richtet sich die Findung der geeigneten 
+Methode / Framework / Referenzmodell
+II.
+Was ist mein Ziel? Daraus Forschungsfrage ableiten
+III.
+Wie sind die Anforderungen an das Experiment? Framework?
+IV.
+Mit Grundlagen vertraut machen (bildet Theorieteil)
+V.
+Daten sammeln, Hypothesen aufstellen (Fehler einplanen)
+VI.
+Aus welcher Perspektive: Entwickler, Kunde, User, Projektmanager, Wissenschaftler, …?
+VII.
+Literaturbasis prüfen
+VIII. Hypothesen / Handlungsempfehlungen (Aussagen, die Sie beweisen möchten)
+IX.
+Beschäftigen Sie sich zuerst mit den wissenschafts-theoretischen Erkenntnissen. Danach anhand Ihres neuen 
+Wissensstandes mit den Gegebenheiten Ihres Unternehmens (interne Unterlagen, Interviews, Auswertungen 
+Programmcodes, …).
+Klar machen: warum wird das Experiment / Studie durchgeführt?
+Wie wird es durchgeführt?
+
+
+=== PAGE 8 ===
+8
+Transferleistungen | Methoden Informatik 16.03.2021
+Ablauf
+Fragestellung im Unternehmen
+Worin könnten Lösungen bestehen?
+Daten sammeln, Hypothesen aufstellen
+Methode (Experiment, Interview, etc.) zur Validierung: Wie beantworte 
+ich nachvollziehbar und begründet die Frage?
+Handlungsempfehlung 
+•
+Formulare und Anforderungen im 
+Moodlekurs
+•
+10 Seiten (+/- 10%)
+•
+5 ECTS/TL = Workload 150 Std.
+•
+Sperrvermerk setzen (interne Daten) 
+•
+Parallel Selbstreflexion (wo waren 
+Schwachstellen der Arbeit?)
+•
+Vier Wochen Bearbeitungszeit
+
+
+=== PAGE 9 ===
+9
+Transferleistungen | Methoden Informatik 16.03.2021
+1. Schritt Literatur finden
+Thema auf den Erkenntnissen anderer Forscher aufbauen
+fassen Sie Inhalte in einer Literaturanalyse zusammen („Related works“)
+Anschließend tragen Sie durch Ihre Datenerhebung und Auswertung bei
+Führen Sie auf der Basis der Erkenntnisse aus der Literatur die Diskussion fort; selten untersuchen Sie eine Lücke
+Nutzen Sie Datenbanken (z.B. ACM), GoogleScholar, Open Access, IEEE, etc.
+I.
+Sinnvolle Kombination Schlagwörter (Schneeballsystem nutzen, nicht nur ein Schlagwort; kombinieren: AND, 
+OR, NOT)
+II.
+GoogleScholar gezielte Suche: Digitale Transformation „MIS-Quarterly“ (renommierte Zeitschrift)
+III.
+„“ nutzen, z.B. „Process Mining“, ansonsten durchsucht Datenbank alles zu „Process“ und alles zu „Mining“
+IV.
+Sichten Sie Literatur aus guten Beiträgen
+
+
+=== PAGE 10 ===
+10
+Transferleistungen | Methoden Informatik 16.03.2021
+Was macht eine gute Quelle aus?
+Wissenschaftliche Aufsätze: Qualitätsmerkmal peer review / Impact factor, z.B. zu finden unter vhbonline.org 
+https://www.vhbonline.org/fileadmin/user_upload/JQ3_WI.pdf
+Geeignet sind auch Konferenzbeiträge (proceedings), Working papers Suche in Datenbanken
+•
+Bücher: nur einige peer-reviewed (Forschung schon veraltet, außer Standardwerke)
+•
+Vorsicht mit Internetblogs, Artikeln aus praxisorientierten Fachzeitschriften können allerdings hilfreich sein, um 
+aktuelle Diskussionen, neue Themen usw. ausfindig zu machen
+•
+renommiert und praxisnah ist die HMD – Praxis der Wirtschaftsinformatik (verfügbar über WISO)
+•
+gehen Sie reflektiert mit den Quellen um und benennen Sie das: „Ein konkretes Beispiel ist DHL: Das 
+Unternehmen bestätigt laut einem Artikel in einer Fachzeitschrift …“
+•
+Fragen Sie sich immer: Was war das Ziel/der Kontext des Autors? Wie hat der Autor geforscht? Wie lauten die 
+wichtigsten Ergebnisse in Bezug auf meine Forschungsfrage? Ziehen Sie Schlüsse für sich daraus
+
+
+=== PAGE 11 ===
+11
+Transferleistungen | Methoden Informatik 16.03.2021
+Ich finde keine Literatur
+Mögliche Gründe:
+•
+Thema ist zu neu und es gibt noch keine Literatur
+•
+Thema ist zu speziell und sollte breiter betrachtet werden
+•
+Thema ist in der Wissenschaft nicht relevant, sondern ein reines Praxisthema
+•
+Thema wird in dem Kontext nicht untersucht
+•
+Versuchen Sie, um die Ecke zu denken:
+•
+Neuer Kontext: Ist eventuell der Kontext falsch? Nicht Agilität in der Finanzwelt, dafür aber in der Produktion?
+•
+Übertragung aus anderen Bereichen oder aus allgemeinen Erkenntnissen und diese anpassen
+•
+Oder Grounded Theory: Bearbeitung des Themas ohne Literatur, Sie erzeugen eigene (qualitative) Daten 
+Theoriebildung eines unbekannten Sachverhalts
+•
+Thematisieren Sie Schwierigkeiten in der Selbstreflexion und zeigen einen kritischen Umgang mit Ihren Quellen
+
+
+=== PAGE 12 ===
+12
+Transferleistungen | Methoden Informatik 16.03.2021
+Fragestellung schärfen
+Aus einem Thema eine geeignete Forschungsfrage (den Titel) ableiten:
+•
+Beschreibung eines Zustands oder der Realität (Digitalisierung im Unternehmen)
+•
+Begründung von Zusammenhängen und Ursachen (Effizienz von Mitarbeitern in Zusammenhang mit Software)
+•
+Gestaltung von Lösung (Referenzmodell zur Einführung von Software)
+•
+Prognose und Hypothesen (Projektmanagement 2030)
+•
+Evaluation einer Tatsache (Evaluation der Einführung von Software)
+•
+Vergleiche von Datenbanken, Software, etc.
+•
+Titel: aus zwei Teilen zusammengesetzt: Was wird getan und wie wird es getan?
+•
+„Agilität in KMU – Befragung der Mitarbeiter im Unternehmen“
+I.
+Sie verändern Forschungsmethoden leicht, indem Sie Ihr eigenes Interview, eigene Kriterien aufstellen
+II.
+Stellen Sie Fragen an das Thema: Was fasziniert/irritiert mich? Machen Sie einen Perspektivwechsel (Cluster-
+Technik)
+III.
+Thema in Frageform fassen präzisiert Frage macht sichtbar, unter welcher Perspektive: (Welche 
+Chancen/Risiken?) 
+
+
+=== PAGE 13 ===
+13
+Transferleistungen | Methoden Informatik 16.03.2021
+Auftragsklärung
+Vorher im Betrieb absprechen (inhaltlich ist Ihr Betreuer für das Thema verantwortlich):
+Bietet das Thema interessante oder neue Aspekte?
+Ist die Quellenlage ausreichend?
+Welches Hintergrundwissen ist zusätzlich erforderlich?
+Ist eine Bearbeitung in der vorgesehenen Zeit und in der vorgegebenen Länge möglich?
+Ist der Praxisbezug sichergestellt?
+Wie möchte ich vorgehen, um die Fragestellung zu lösen? Welche Methode wende ich an? Verknüpfen mit 
+Inhalten aus dem Studium
+Mögliche erste Ergebnisse / Arbeitshypothesen festhalten
+
+
+=== PAGE 14 ===
+14
+Transferleistungen | Methoden Informatik 16.03.2021
+Methodenspektrum und Einordnung
+In der Wissenschaft geht es um die saubere und strukturierte Erhebung von Daten. Sie orientiert sich an 
+klaren Kriterien und definierten Forschungsmethoden, die nachvollziehbar sein sollten (Quellen belegen). 
+Verhaltenswissenschaft
+Konstruktivwissenschaft
+Qualitativ
+Experteninterview
+Fallstudien
+Gruppendiskussion
+Prototypen
+Design Science 
+(Softwareprototypen entwickeln)
+Aktionsforschung
+Quantitativ
+Befragung
+Experiment
+Referenzmodellierung
+Simulation
+Aus Dominik Lindner: Forschungsdesigns der Wirtschaftsinformatik. Springer essentials 2020, S. 8.
+
+
+=== PAGE 15 ===
+15
+Transferleistungen | Methoden Informatik 16.03.2021
+Qualitative und quantitative Forschung
+I.
+Qualitative Forschung: explorative und oft kleine Datensätze (z.B. Experteninterviews)
+II.
+Einsatz bei individuellen oder unbekannten Fragestellungen
+III.
+offene Vorgehensweise, trotzdem klar strukturiertes und begründetes Vorgehen (Fragebogen 
+überlegen s. Literatur dazu in moodle)
+IV.
+Nachteil: Subjektiv, da interpretiert und subjektive Perspektive angreifbar
+I.
+Quantitative Forschung: standardisierte und strukturierte Erfassung von Daten
+II.
+viele Datensätze nötig
+III.
+Vorteil: Verallgemeinbarkeit, Vergleichbarkeit
+IV.
+Onlinebefragungen
+Nach der Sammlung von Daten gilt es, diese so auszuwerten, dass gesichertes Wissen in Form von 
+Hypothesen vorliegt
+
+
+=== PAGE 16 ===
+16
+Transferleistungen | Methoden Informatik 16.03.2021
+Experteninterview
+Ausgewählte Experten zu Hypothesen und Problemstellungen zu befragen
+Offene Fragen, aus Erkenntnisse der Literatur Fragebogen konzipieren
+Rolle des Experten genau definieren
+Umso mehr, desto repräsentativer die Ergebnisse
+Das Sättigungskriterium einer Forschungsmethode ist dann erreicht, wenn nach einer gewissen Menge an 
+Wiederholungen keine signifikant neuen Ergebnisse gewonnen werden
+Transkription oder Gesprächsprotokoll (unterschreiben lassen)
+Auswertung: definierte Aspekte 
+Excel oder Software wie MAXQDA (lohnt sich erst ab zehn oder mehr)
+Erläutern Sie Ihr Vorgehen und stellen das Interview als die geeignete Methode heraus
+Handbuch Methoden der Empirischen Sozialforschung
+Nina Baur und Jörg Blasius, Springer 2019
+https://ebookcentral.proquest.com/lib/nordakademie/detail.action?docID=5716629
+
+
+=== PAGE 17 ===
+17
+Transferleistungen | Methoden Informatik 16.03.2021
+Literaturanalyse
+In einer Literaturanalyse wird vorhandenes Wissen sinnvoll zusammengefasst. Dadurch wird zwar primär kein neues 
+Wissen generiert. Das bereits vorhandene Wissen lässt sich auf diese Weise strukturieren, sodass darauf aufgebaut 
+werden kann.
+Literaturstudie steht i.d.R. am Beginn jeder Forschung
+Reine Literaturanalyse hat Ziel, Bedarf an Forschung in Themenfeld aufzuzeigen
+
+
+=== PAGE 18 ===
+18
+Transferleistungen | Methoden Informatik 16.03.2021
+I.
+Begründung Ihres Vorgehens ein wichtiges Kriterium: Warum haben Sie diese Methode gewählt und 
+wodurch grenzt sich diese von anderen Methoden ab bzw. wie hätte eventuell ein anderes 
+Vorgehen die Ergebnisse verändert?
+II.
+Vor- und Nachteile von Forschungsmethoden erläutern und diskutieren
+III.
+Zeigen Sie, dass die gewählte Methode die beste für Ihr Vorgehen ist
+IV.
+Nutzen Sie die Selbstreflexion und schreiben auf, was Sie beim nächsten Mal anders gemacht 
+hätten Kommunikation Prüfer
+Methode begründen
+
+
+=== PAGE 19 ===
+19
+Transferleistungen | Methoden Informatik 16.03.2021
+Experiment
+I.
+Experimente machen einen wichtigen Teil des Erkenntnis- und Theoriebildungsprozesses aus
+II.
+Experiment bedeutet:
+•
+Eine Implementierung beschaffen/selbst machen
+•
+An Optimierungsproblem anschließen, Parameter einstellen
+•
+Laufen lassen (mehrfach), generierte Ergebnisse aufnehmen und bewerten
+•
+Warum tut man das?
+•
+Verschiedene Bedingungen müssen definiert/festgestellt werden
+•
+Zeigen, dass es funktioniert
+•
+Überprüfen, ob z.B. Algorithmus den Anforderungen entspricht
+•
+Bei komplexen/randomisierten/heuristischen Verfahren Vorhersagen schwer
+Vergleiche: Performance, Ressourcennutzung, Arbeitsspeicher, Festplattenspeicher, etc.
+Algorithmen: false positive / false negative
+Metriken aufstellen (wie hoch ist Erkennungsrate?)
+Messdaten
+
+
+=== PAGE 20 ===
+20
+Transferleistungen | Methoden Informatik 16.03.2021
+Durchführung Experiment
+I.
+Was ist die Hauptfrage, die Sie klären wollen?
+II.
+Vor-experimentelle Planung: Erste Tests, die zur Zielvorgabe führen
+III.
+Zielvorgabe: Genaue (wissenschaftliche) These und abgeleitete (statistische) Hypothesen
+IV.
+Setup: Problemdesign, Algorithmendesign, Gütemaß, Start- und Endbedingung usw.
+V.
+Ergebnis/Visualisierung: Die (wichtigsten) erhaltenen Daten und erste graphische 
+Darstellungen
+VI.
+Beobachtungen: Abweichungen vom erwarteten Ergebnis oder auffällige Muster, aber keine 
+Bewertung
+VII. Diskussion: Resultate der statistischen Tests und die (subjektive) Einordnung/Bewertung 
+von Ergebnissen und Beobachtungen
+Konzentrieren Sie sich auf ein Experiment.
+
+
+=== PAGE 21 ===
+21
+Transferleistungen | Methoden Informatik 16.03.2021
+Ein Beispiel
+„Untersuchung von Schema Evolution verschiedener Datenbanktypen für Business 
+Process Management Systeme am Beispiel vom Unternehmen X“
+Methode: Experiment
+Aufbau Transferleistung:
+1.
+Grundlagen: Schema Evolution, Workflow Engines, Rationale Datenbanken, Graph 
+Datenbanken
+2.
+Abgleich mit Literatur: Wie wird dort mit unterschiedlichen Datenbanksystemen 
+umgegangen? Was sind Ergebnisse?
+3.
+Zwei Datenbanken auswählen, repräsentative Beispiele finden: SQLite und Neoj4 
+Auswahl begründen
+4.
+Experiment durchlaufen lassen; unter definierten Aspekten messen
+5.
+Messungen definieren, begründen (z.B. Laufzeit (Performance)), 
+Arbeitsspeicherverbrauch, Festplattenspeicherverbrauch, etc.
+6.
+Auffälligkeiten von Messungen festhalten und beurteilen
+7.
+Handlungsempfehlung
+
+
+=== PAGE 22 ===
+22
+Transferleistungen | Methoden Informatik 16.03.2021
+Zusammenfassung 
+Ziel ist es, den Stand der Forschung und/oder Technik zu erfassen, um so zwei Erkenntnisse zu gewinnen:
+Überblick über das Themengebiet und
+Auffinden von einer oder mehreren „Lücken“ im Themengebiet.
+Beachte: Die Vorgehensweise muss nachvollziehbar sein!
+Das bedeutet neben dem Nennen der zugrunde liegenden Quellen, auch die Vorgehensweise genauestens zu 
+beschreiben. Hilfreich ist es sich beim Aufschreiben klar zu werden, kann eine Person, die noch nie etwas mit der Arbeit 
+zu tun hatte, mit der Beschreibung die Literaturrecherche durchführen und kommt zu den gleichen Ergebnissen?
+Sehen Sie sich eher als Wissenschaftlicher als ein Mitarbeiter im Betrieb.
+Herleitung zu den im Studium erlernten Inhalten
+
+
+=== PAGE 23 ===
+23
+Transferleistungen | Methoden Informatik 16.03.2021
+Wie schreibe ich eine Transferleistung?
+Thema im Betrieb 
+absprechen und 
+Lösungsstrategien 
+entwickeln
+Eignet sich das 
+Thema? Finde ich 
+ausreichend Quellen? 
+Wie ist der aktuelle 
+Forschungsstand?
+Wie, mit welcher 
+Methode, kann ich 
+meine 
+Forschungsfrage 
+lösen? 
+Sehen Sie sich als 
+Wissenschaftler, der 
+objektiv ein Ergebnis 
+erzielt, und begründen
+Sie Ihr Vorgehen
+Herleitung zu den 
+im Studium erlernten 
+Inhalten
+Daten sammeln und  
+Auswertung der 
+Quellen mithilfe von 
+wiss. Methoden 
+(Literatur, interne 
+Daten, Interviews, 
+Progammcodes, 
+Nutzwertanalyse, 
+Statistiken, etc.)
+Ergebnisse der 
+Analyse  
+zusammenfassen
+Handlungs-
+empfehlung für 
+Praxis ableiten
+Welche 
+Rückschlüsse 
+sind daraus zu 
+ziehen?
+Auftragsklärung
+Arbeit verfassen parallel dazu Selbstreflexion
+Transfer Wissenschaft und Praxis
+
+
+=== PAGE 24 ===
+24
+Transferleistungen | Methoden Informatik 16.03.2021
+Die Informationsbasis ist aktuell und wird auf die Aufgabe angewendet = K.O. Kriterium
+•
+Literatur ist das Fundament einer wissenschaftlichen Arbeit Es geht hauptsächlich um die Einordnung 
+vorhandenen Wissens in den Kontext Ihrer Fragestellung. 
+•
+Das Ergebnis Ihrer Arbeit hängt stark davon ab, welche Quellen Sie verwenden, auf welches vorhandene Wissen Sie 
+zurückgreifen. Erst wenn der aktuelle Wissensstand erfasst ist, ist es möglich, die eigene Forschungsarbeit darin 
+einzuordnen, von anderen Arbeiten abzugrenzen und den Eigenbeitrag ersichtlich zu machen.
+Qualität und damit Aussagekraft der Quellen hinterfragen
+Vorsicht mit Internetblogs, wikipedia und Lehrbüchern
+Nutzen Sie die Datenbanken der Bibliothek Qualitätssicherung, peer-reviewed-Quellen
+Beurteilungskriterien
+
+
+=== PAGE 25 ===
+25
+Transferleistungen | Methoden Informatik 16.03.2021
+Beurteilungskriterien
+Der Studierende wählt eine Methode zur Problemlösung und begründet diese.
+•
+Wie möchten Sie vorgehen, um eine Antwort auf Ihre Fragestellung zu finden? Begründen Sie Ihre Auswahl: 
+Warum ist genau diese Methode zielführend und nicht eine andere?
+•
+Der Gedanke dabei ist, dass jemand, der dieselbe Untersuchung mit der gleichen Methode durchführt, zu ungefähr 
+denselben Ergebnissen kommt (Stichwort: Objektivität) 
+•
+Beispiele für methodisches Vorgehen sind Experteninterview, Beobachtung, Umfrage, Literaturanalyse, Experiment, 
+Nutzwertanalyse, Kriterienkatalog, Performanceanalyse, …).
+•
+Beschäftigen Sie sich zuerst mit den wissenschafts-theoretischen Erkenntnissen. Danach anhand Ihres neuen 
+Wissensstandes sich mit den Gegebenheiten Ihres Unternehmens (interne Unterlagen, Interviews, Auswertungen 
+Programmcodes, …). 
+Aussagen müssen 
+begründet sein.
+
+
+=== PAGE 26 ===
+26
+Transferleistungen | Methoden Informatik 16.03.2021
+Beurteilungskriterien
+Die Theorie wird auf die Praxis angewendet und reflektiert = K.O. Kriterium 
+•
+Sie können akademische Themen in betrieblichen Prozessen wiederfinden und können Ihre betriebliche Praxis vor 
+dem Hintergrund von Wissenschaft und Forschung einordnen.
+•
+Stellen Sie den Mehrwert für Ihr Unternehmen heraus, sprechen Sie im Fazit eine Handlungsempfehlung aus 
+bewerten Sie auch diese Erkenntnisse das schafft einen wissenschaftlichen Mehrwert wird übertragbar auch 
+auf andere Unternehmen.
+•
+Achtung: Nicht eigene Erfahrungen in den Mittelpunkt stellen immer subjektiv zentraler Teil ist die objektive 
+Analyse einer Problemstellung mithilfe wissenschaftlicher Methoden.
+
+
+=== PAGE 27 ===
+27
+Transferleistungen | Methoden Informatik 16.03.2021
+Stolperfallen / Prüfertipps
+•
+Thema sinnvoll eingrenzen immer Fragestellung mit Praxisbezug im Blick behalten roter Faden
+•
+Orientieren Sie sich an Ihrem „Bauplan“ Auftragsklärung
+•
+Nutzen Sie die Selbstreflexion, um Schwächen / Probleme der Arbeit zu benennen Kommunikation mit dem Prüfer
+•
+Hinterfragen Sie die Qualität Ihrer Quellen und prüfen diese auf Wissenschaftlichkeit 
+•
+Nicht das Rad neu erfinden es geht darum, dass Sie auf vorhandenem Wissen aufbauen und dieses in einen 
+Kontext setzen und damit erweitern 
+•
+Vermeiden Sie Berichtcharakter sehen Sie sich als Wissenschaftlicher, der das Problem angeht 
+Objektivität Ihrer Ergebnisse durch Datenauswertung
+•
+Begründen Sie Ihr Vorgehen: Warum ist genau diese Methode zielführend und nicht eine andere?
+•
+Sorgfalt im Umgang mit Quellen, Texten und Daten korrekt zitieren (einheitlich) / fremde Gedanken nicht als 
+eigene ausgeben 
+•
+Rechtschreibfehler / fehlerhafte Grammatik; Umgangssprache („man“) vermeiden lassen Sie Ihre Arbeit Korrektur 
+lesen
+•
+Korrekte Verzeichnisse, Formatierung ausreichend Zeit einplanen

@@ -1,0 +1,664 @@
+
+=== PAGE 1 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+1 
+ 
+Zitieren nach den Richtlinien der  
+American Psychological Association APA (6th ed.) 
+ 
+Der folgende Leitfaden gilt für alle schriftlichen Arbeiten, die an der Abteilung für Schul- und Unter-
+richtsforschung (ASU) verfasst werden. Er enthält die wichtigsten Regeln, die von den APA Zitier-
+richtlinien abgeleitet wurden. Bei der Zitation von deutschsprachigen Werken wird bei Bedarf auf die 
+Zitierrichtlinien der Deutschen Gesellschaft für Psychologie (DGPs) zurückgegriffen. Der Leitfaden 
+beansprucht keine Vollständigkeit. Für Sonderfälle bei Zitationen ist direkt in den APA Richtlinien 
+nachzuschlagen. 
+ 
+American Psychological Association (2010). Publication Manual of the American Psychological Association. Washington, 
+DC: American Psychological Association.   
+Deutsche Gesellschaft für Psychologie (2007). Richtlinien zur Manuskriptgestaltung (3. überarb. und erw. Aufl.). Göttingen: 
+Hogrefe. 
+ 
+Im Folgenden wird im ersten Teil des Leitfadens das Zitieren im Text beschrieben. Es ist wichtig, 
+dass im Text klar ersichtlich ist, welche Gedanken von anderen Autor/inn/en stammen. Dies wird 
+durch das Zitieren deutlich gemacht. Werden fremde Gedanken nicht zitiert, nennt man das „Plagiat“. 
+(Merkblatt Plagiate, siehe:  
+http://www.unibe.ch/unibe/portal/content/e152701/e322683/e325219/e326869/ul_merkblatt_plagiate_
+ger.pdf). Im zweiten Teil des Leitfadens wird die Erstellung des Literaturverzeichnisses              
+(der Bibliographie) beschrieben.  
+ 
+Die Quellenangaben im Text und das Literaturverzeichnis müssen übereinstimmen, d.h. im Literatur-
+verzeichnis müssen alle im Text zitierten Quellen gelistet werden (und umgekehrt).  
+Tipp: Vor Abgabe einer schriftlichen Arbeit kontrollieren, ob Quellenbezüge im Text und Literatur-
+verzeichnis deckungsgleich sind.  
+Oder: Verwendung eines Literaturverwaltungsprogramms (wie z.B. Citavi oder Endnote) und Zitation 
+mit Hilfe dieses Programms. Die Abstimmung erfolgt in diesem Fall automatisch.  
+ 
+1. 
+Zitieren im Text 
+ 
+Im Text wird entweder indirekt oder direkt zitiert.  
+ 
+Indirektes Zitieren: Bei indirekten Zitaten fasst man die gelesenen Inhalte mit eigenen Worten zu-
+sammen. Man zitiert die Quelle mit der Angabe des Nachnamens der Autor/inn/en und der Jahreszahl.  
+z.B.: Hascher, 2004.  
+ 
+Direktes Zitieren: Wenn man direkt zitiert – also Textteile wortwörtlich aus der Quelle entnimmt – 
+muss neben der Angabe des Nachnamens und der Quelle zusätzlich auch die Seite angegeben werden, 
+auf der sich die zitierte Textstelle befindet.  
+z.B.: Hascher, 2004, S. 200. 
+ 
+ 
+Zu beachten: Auch bei indirekten Zitaten, die sehr nah am Originaltext sind (= paraphrasieren) bzw. 
+die genaue Aussagen enthalten (z.B. Wiedergabe konkreter statistischer Kennwerte oder Aufzählun-
+gen, die wiederholt werden), muss die Seite angegeben werden.   
+ 
+ 
+ 
+
+
+=== PAGE 2 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+2 
+ 
+1a) 
+Indirektes Zitieren 
+ 
+I. 
+Ein Autor / eine Autorin 
+ 
+Zwischen der Anstrengung, die für Hausaufgaben aufgewandt wird, und der Leistungsentwicklung der 
+Schüler/innen besteht ein positiver Zusammenhang (Trautwein, 2007). 
+ 
+Trautwein (2007) konnte einen positiven Zusammenhang zwischen der Hausaufgabenanstrengung und 
+der Leistungsentwicklung der Schüler/innen belegen. 
+ 
+Bei der Wiedergabe von Detailinformationen bzw. sehr textnaher Zitierung:1 
+Die Anstrengung, die Schüler/innen für die Hausaufgaben investieren, zeigte sich als signifikanter 
+Prädiktor (stand. β = .17) für die Leistungsentwicklung der Schüler/innen (Trautwein, 2007, S. 387).   
+ 
+II. 
+Zwei Autor/inn/en 
+ 
+Klassen und Tze (2014) belegen in einer Metaanalyse, dass selbstwirksame Lehrkräfte auch eine  
+höhere Unterrichtseffektivität aufweisen. 
+ 
+Die Selbstwirksamkeit von Lehrkräften ist bedeutsam für die Unterrichtseffektivität (Klassen & Tze, 
+2014). 
+ 
+Zu beachten: Im Text werden die Autor/inn/en mit „und“ verbunden; im Klammerausdruck mit „&“.  
+ 
+III. 
+Mehrere Autor/inn/en  
+ 
+Drei bis fünf Autor/inn/en 
+ 
+Gröschner, Schmitt und Seidel (2013) beschäftigten sich mit der Fragestellung, inwieweit sich subjek-
+tive Kompetenzeinschätzungen von Lehramtsstudierenden im Schulpraktikum verändern.  
+ 
+Die Bedeutung des Praxissemesters für die subjektive Kompetenzeinschätzung wurde 2009/10 an der 
+Universität Jena untersucht (Gröschner, Schmitt, & Seidel, 2013)  
+ 
+Zu beachten:  
+(1) Bei drei oder mehr Autor/inn/en wird vor das „&“ ein Komma gesetzt.  
+(2) Ab dem zweiten Mal, an dem das Werk in der Arbeit zitiert wird, wird nur noch der Nachname des 
+ersten Autors / der ersten Autorin genannt; gefolgt mit „et al.“ 
+ 
+Gröschner et al. (2013) schreiben den Lerngelegenheiten im Praktikum hohes Potential zu.  
+ 
+Die Lerngelegenheiten in schulischen Praktika haben hohes Potential, sollten allerdings professionell 
+begleitet werden (Gröschner et al., 2013). 
+  
+Ab sechs Autor/inn/en 
+Es wird bereits ab der ersten Nennung im Text mit „et al.“ zitiert. 
+Bsp. von 6 Autor/inn/en: Pennings, van Tartwijk, Wubbels, Claessens, van der Want und Brekelmans (2013) 
+ 
+Pennings et al. (2013) beschäftigen sich in ihrer Studie mit dem Lehrer-Schüler-Verhältnis.  
+ 
+Das Lehrer-Schüler-Verhältnis steht im Zentrum der Studie von Pennings et al. (2013). 
+                                                          
+1 Die textnahe Zitierung wird bei den Punkten II – V nicht weiter angeführt; sie ist auch hier gültig. 
+
+
+=== PAGE 3 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+3 
+ 
+IV. 
+Mehrere Werke 
+ 
+Werden mehrere Werke zur Stützung des Arguments angeführt, werden diese im Klammerausdruck 
+alphabethisch (aufsteigend) geordnet. Die Quellentrennung erfolgt mit Semikolon (;). Werke derselben 
+Autor/inn/en werden mit Komma (,) getrennt. Publiziert ein Autor / eine Autorin / eine Au-
+tor/inn/engruppe mehrere Werke in einem Jahr, so wird das mit a, b, c, etc. nach dem Erscheinungs-
+jahr gekennzeichnet. 
+ 
+Zunehmend befassen sich Studien mit den Emotionen von Lehrpersonen beim Unterrichten (Frenzel, 
+2011, 2014; Frenzel, Götz, Lüdtke, Pekrun, & Sutton, 2009; Hagenauer, Hascher, & Volet, 2015; Kel-
+ler, 2014). 
+ 
+V. 
+Spezialfälle 
+ 
+Autor/inn/en mit dem gleichen Nachnamen 
+Wenn in der Arbeit Werke von Erstautor/inn/en zitiert werden, die denselben Nachnamen haben, dann 
+wird der erste Buchstabe des Vornamens bei allen Textzitationen angegeben (auch bei unterschiedli-
+chen Publikationsjahren). 
+ 
+Gruppen als Autor/inn/en (Institutionen, Gesellschaften,...), welche eine Abkürzung haben 
+Die Namen werden bei der ersten Zitation vollständig angegeben; bei der zweiten Zitation im Text 
+kann die Abkürzung verwendet werden. 
+ 
+Die aktuelle Entwicklung des Bildungssystems wird anhand ausgewählter Indikatoren im Bericht 
+„Education at a Glance“ dargestellt (Organisation für wirtschaftliche Zusammenarbeit und Entwick-
+lung [OECD], 2015). 
+ 
+Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD, 2015) beschreibt die 
+aktuelle Entwicklung des Bildungssystems anhand ausgewählter Indikatoren.  
+ 
+Zu beachten: Im Literaturverzeichnis wird die Gruppe mit vollständigem Namen angegeben. 
+ 
+Überblick 
+ 
+Erste Zitation im 
+Text 
+Weitere Zitation 
+im Text 
+Erste Zitation im 
+Klammerausdruck 
+Weitere Zitation 
+im Klammeraus-
+druck 
+Ein(e) Autor(in) 
+Trautwein (2007) 
+Trautwein (2007) 
+(Trautwein, 2007) 
+(Trautwein, 2007) 
+ 
+Zwei Autor/inn/en 
+Klassen und Tze 
+(2014) 
+Klassen und Tze 
+(2014) 
+ 
+(Klassen & Tze, 
+2014) 
+(Klassen & Tze, 
+2014) 
+Drei bis fünf  
+Autor/inn/en 
+Gröschner, Sch-
+mitt und Seidel 
+(2013) 
+ 
+Gröschner et al. 
+(2013) 
+(Gröschner, Sch-
+mitt,2 & Seidel, 
+2013) 
+(Gröschner et al., 
+2013) 
+Sechs und mehr  
+Autor/inn/en 
+Pennings et al. 
+(2013) 
+ 
+Pennings et al. 
+(2013) 
+(Pennings et al., 
+2013) 
+(Pennings et al., 
+2013) 
+Gruppen als Au-
+tor/inn/en 
+(mit Abkürzungen) 
+Organisation für 
+wirtschaftliche 
+Zusammenarbeit 
+und Entwicklung 
+(OECD, 2015)   
+OECD (2015) 
+(Organisation für 
+wirtschaftliche 
+Zusammenarbeit 
+und Entwicklung 
+[OECD], 2015)  
+(OECD, 2015) 
+ 
+                                                          
+2 Ab drei Autor/inn/en wird vor dem „&“ ein Komma gesetzt.  
+
+
+=== PAGE 4 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+4 
+ 
+1b)  
+Direktes Zitieren 
+ 
+Alle direkten Zitate enthalten eine genaue Seitenangabe. 
+ 
+I) 
+Direkte Zitate bis zu 40 Wörtern werden in den Fliesstext eingebunden und mit doppelten 
+Anführungszeichen hervorgehoben („ ... “).  
+ 
+Winter (2015, S. 42) merkt an: „Die Kompetenzorientierung bietet viel Platz für erweiterte Aufgaben-
+formate und kann somit dazu beitragen, dass im Unterricht flexibler, individueller, selbstständiger und 
+stärker handlungsorientiert gearbeitet wird“. 
+ 
+„Die Kompetenzorientierung bietet viel Platz für erweiterte Aufgabenformate und kann somit dazu 
+beitragen, dass im Unterricht flexibler, individueller, selbstständiger und stärker handlungsorientiert 
+gearbeitet wird“ (Winter, 2015, S. 42). 
+ 
+Winter (2015, S. 42) merkt an, dass „die Kompetenzorientierung viel Platz für erweiterte Aufgaben-
+formate [bietet] und somit dazu beitragen [kann], dass im Unterricht flexibler, individueller, selbst-
+ständiger und stärker handlungsorientiert gearbeitet wird“. 
+ 
+Zu beachten:  
+1) Satzumstellungen, die bei direkten Zitaten nötig sind, damit diese auch im neuen Kontext gramma-
+tikalisch korrekt sind, werden mit einer eckigen Klammer gekennzeichnet. 
+2) Wenn es im Original einen orthographischen/grammatikalischen Fehler gibt, so muss dieser über-
+nommen werden, allerdings wird dies mit einem [sic] nach dem Fehler gekennzeichnet.  
+3) Erstreckt sich ein Zitat über zwei Seiten, wir das mit „f.“ gekennzeichnet. (S. 80f.) 
+ 
+II) 
+Direkte Zitate mit ≥ 40 Wörtern werden blocksatzartig hervorgehoben. Es werden keine 
+doppelten Anführungszeichen benutzt. Links erfolgt ein Einschub (wie bei Absätzen; norma-
+lerweise ½ cm). Enthält das Zitat selbst ein Anführungszeichen, so wird dieses durch ein ein-
+faches Anführungszeichen ersetzt. 
+ 
+Winter (2015, S. 42) merkt an:  
+Die Kompetenzorientierung bietet viel Platz für erweiterte Aufgabenformate und kann somit dazu 
+beitragen, dass im Unterricht flexibler, individueller, selbstständiger und stärker handlungsorien-
+tiert gearbeitet wird. Voraussetzung dafür ist es, dass die Kompetenzmodelle und Kompetenzbe-
+schreibungen als Anregung und Bezugspunkt für eigenständige, prozessorientierte Unterrichtsar-
+beit der Lehrenden genommen werden und nicht als Rezepte für das Vorgehen.  
+ 
+Zu beachten: Wenn die Arbeit 1.5-zeilig formatiert wird, so wird das Blockzitat mit einem 2fachen 
+Zeilenabstand hervorgehoben.  
+ 
+III) 
+Sekundärzitate: Sekundärzitate sollten so sparsam wie möglich verwendet werden. Ein Se-
+kundärzitat wird mit „zitiert nach“ (gefolgt von der Angabe der Sekundärquelle) gekennzeich-
+net. Im Literaturverzeichnis wird die Sekundärquelle (also jene Quelle, die tatsächlich gelesen 
+wurde) notiert (im Beispiel wäre das Goodenow, 1993). 
+ 
+Bereits Maslow (1962, zitiert nach Goodenow, 1993, S. 80) formuliert: „Social acceptance and the 
+sense of belonging are important throughout life“. 
+ 
+„Social acceptance and the sense of belonging are important throughout life“ (Maslow, 1962, zitiert 
+nach Goodenow, 1993, S. 80). 
+
+
+=== PAGE 5 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+5 
+ 
+2. Literaturverzeichnis 
+ 
+Die Art der verwendeten Quelle bestimmt die Zitierweise. So werden beispielsweise Bücher (Mono-
+graphien) anders zitiert als Zeitschriftenartikel oder Beiträge in Herausgeberwerken. Man bestimmt 
+also zuerst die Quellenart, wodurch sich die Zitationsweise ableiten lässt.  
+Zusätzlich gibt es einige Regeln, wie die Quellen im Literaturverzeichnis anzuordnen sind. 
+ 
+(1) Die Anordnung der Quellen im Literaturverzeichnis ist alphabethisch aufsteigend (nach Erstau-
+tor/in) geordnet.  
+(2) Wird ein Autor / eine Autorin im Literaturverzeichnis mehrmals gelistet, so beginnt man mit dem 
+ältesten Werk.  
+(3) Hat ein Autor / eine Autorin in Zusammenarbeit mit anderen Forscher/innen publiziert, so be-
+stimmt sich die Reihenfolge alphabethisch nach den Nachnamen der Koautor/inn/en.  
+(4) Hat ein Autor / eine Autorin in einem Jahr mehrere Werke publiziert, so kennzeichnet man das 
+mit Kleinbuchstaben (a, b, c,...).  
+ 
+Zu beachten:  
+(1) Bei englischsprachigen Werken werden die englischen Bezeichnungen verwendet (z.B. „p.“ für 
+Seite; „Ed.“ für Herausgeber/Editor), bei deutschsprachigen Werken die deutschen Bezeichnun-
+gen (z.B. „S“ für Seite; „Hrsg.“ für Herausgeber). 
+(2) Bei mehreren Verlagsorten wird der Hauptverlagsort angegeben; meist der erstgenannte bei der 
+Nennung von mehreren Verlagsorten.  
+(3) „Verlag“ wird üblicherweise nicht angeschrieben, z.B.: „Barbara Budrich Verlag“ wird als „Bar-
+bara Budrich“ notiert; „Verlag für Sozialwissenschaften“ als „VS“, „Waxmann Verlag“ als 
+„Waxmann“ etc. 
+(4) Besitzen Autor/inn/en mehrere Vornamen, so wird der erste Buchstabe eines jeden Vornamens 
+notiert, und die Vornamen werden mit einem Leerzeichen getrennt. Beispiel: Die Selbstbestim-
+mungstheorie der Motivation wurde von Edward L. Deci und Richard M. Ryan entwickelt; abge-
+kürzt würde man das im Literaturverzeichnis folgendermassen schreiben: Deci, E. L., & Ryan, 
+R. M. (1985). (...).  
+(5) Im Literaturverzeichnis wird bereits bei zwei Autor/inn/en vor dem „&“ ein Komma gesetzt 
+(z.B.: Hascher, T., & Schmitz, B. (2010)....); bei den Quellenbelegen im Text erfolgt das Komma 
+erst ab drei Autor/inn/en. 
+(6) Gibt es mehr als sechs Autor/inn/en, werden die ersten sechs zitiert; danach folgt et al. (Autor 1, 
+Autor 2, Autor 3, Autor 4, Autor 5, Autor 6 et al., Jahreszahl) 
+(7) Gruppen (wie z.B. die OECD) werden im vollen Wortlaut angeführt.  
+(8) Gibt es keinen Autor / keine Autorin, wird nach dem ersten Wort des Titels gereiht. (Anm.: Be-
+stimmte und unbestimmte Artikel werden nicht berücksichtigt.). 
+(9) Wenn ein „doi“ (= Digital Object Identifier) vorhanden ist, wird dieser notiert.  
+(10) Ist eine Arbeit angenommen, jedoch noch nicht erscheinen, wird das als „in Druck“ (bei deut-
+schen Texten) bzw. „in press“ bei englischen Texten gekennzeichnet (anstatt der Jahreszahl). 
+(11) Kommt es zu einer heftweisen Paginierung (d.h. es wird innerhalb eines Bandes bei jedem Heft 
+mit der Seite 1 zu zählen begonnen, wodurch sich Hefte durch die alleinige Angabe der Band-
+nummer nicht unterscheiden lassen), wird die Heftnummer mit angegeben (z.B. Journal of Edu-
+cational Research Online, 8(1) …). Zwischen Bandangabe und Heftnummer wird kein Leerzei-
+chen gesetzt. Bandnummer: kursiv; Heftnummer: nicht kursiv; in Klammer. 
+(12) Die Quellen werden durch Einzüge auf der linken Seite optisch voneinander getrennt, nicht durch 
+Absätze. 
+(13) Geschützte Leerzeichen sollten im Literaturverzeichnis und beim Zitieren im Text bei all jenen 
+Stellen gesetzt werden, die nicht getrennt werden sollten (vor allem relevant bei Blocksatzeinstel-
+lung) (z.B. Initialen der Vornamen von Autor/inn/en, Seitenangaben etc.).  
+Tastenkombination Mac: Alt / Leertaste; Windows: strg / shift / Leertaste  
+ 
+ 
+→ Ein beispielhaftes Literaturverzeichnis findet sich im Anschluss an die Zitierrichtlinien. 
+
+
+=== PAGE 6 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+6 
+ 
+2a) Monographien 
+Monographien sind Bücher, die von einer oder mehreren Personen (vollständig) verfasst worden sind. 
+ 
+Helmke, A. (2012). Unterrichtsqualität und Lehrerprofessionalität. Diagnose, Evaluation und Verbes-
+serung des Unterrichts (4. Aufl.). Bobingen: Klett.  
+ 
+Rogers, C. R., Lyon, H. C., & Tausch, R. (2014). On becoming an effective teacher. London: Rout-
+ledge. 
+ 
+Zu beachten: Sollte das Buch bereits mehrmals aufgelegt worden sein, muss die Auflage in Klammer 
+nach dem Buchtitel genannt werden. Es sollte auch erkenntlich werden, ob Veränderungen stattgefun-
+den haben (z.B. 4., neu bearb. Aufl. = dies bedeutet, dass sich die 4. Auflage von den vorigen Aufla-
+gen unterscheidet); Englisch: 4th ed. 
+ 
+ 
+Elektronische Version eines Buchs: 
+Ullmann, M. (2012). Schule verändern. Offenheit als Herausforderung in der Governance von Bil-
+dungsinnovationen [elektronische Version]. doi: 10.1007/978-3-531-19735-7 
+ 
+Zu beachten: Wenn es keinen „doi“ gibt, wird der Internetlink angegeben (Abgerufen unter / Retrie-
+ved from). 
+ 
+2b) Herausgeberwerke 
+Herausgeberwerke sind Bücher, die von einer oder mehreren Personen herausgegeben wurden. Die 
+einzelnen Kapitel wurden aber von verschiedenen Autor/inn/en verfasst. Es besteht nun die Möglich-
+keit, (a) einzelne Texte aus dem Herausgeberwerk zu zitieren oder (b), das gesamte Herausgeberwerk 
+zu zitieren. 
+ 
+(a) Zitation eines Beitrages im Herausgeberwerk 
+Leutner, D. (2010). Perspektiven pädagogischer Interventionsforschung. In T. Hascher, & B. Schmitz 
+(Hrsg.), Pädagogische Interventionsforschung. Theoretische Grundlagen und empirisches Hand-
+lungswissen (S. 63-72). Weinheim: Juventa. 
+ 
+Butler, R. (2014). What teachers want to achieve and why it matters: An achievement goal approach to 
+teacher motivation. In P. W. Richardson, S. A. Karabenick, & H. M. G. Watt (Eds.), Teacher moti-
+vation. Theory and practice (pp. 20-35). New York: Routledge.  
+ 
+Zu beachten: Die Initialien der Vornamen der Herausgeber/inn/en werden vor dem Nachnamen ge-
+schrieben.  
+ 
+(b) Zitation des vollständigen Herausgeberwerks 
+Hascher, T., & Schmitz, B. (Hrsg.). (2010). Pädagogische Interventionsforschung. Theoretische 
+Grundlagen und empirisches Handlungswissen. Weinheim: Juventa. 
+ 
+Richardson, P. W., Karabenick, S. A., & Watt, H. M. G. (Eds.). (2014). Teacher motivation. Theory 
+and practice. New York: Routledge.  
+ 
+2c) Zeitschriftenartikel 
+ 
+Gröschner, A., Schmitt, C., & Seidel, T. (2013). Veränderung subjektiver Kompetenzeinschätzungen 
+von Lehramtsstudierenden im Praxissemester. Zeitschrift für Pädagogische Psychologie, 27, 77-86. 
+doi: 10.1024/1010-0652/a000090 
+ 
+Zu beachten: Die Doi-Angabe wird empfohlen. Nach dem „doi“ wird kein Punkt gesetzt. 
+ 
+ 
+
+
+=== PAGE 7 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+7 
+ 
+Klassen, R. M., & Tze, V. M. C. (2014). Teachers’ self-efficacy, personality, and teaching effectiven-
+ess: A meta-analysis. Educational Research Review, 12, 59-76. doi: 10.1016/j.edurev.2014.06.001 
+Solomon, Y., & Croft, T. (in press). Understanding undergraduate disengagement from mathematics: 
+Addressing 
+alienation. 
+International 
+Journal 
+of 
+Educational 
+Research. 
+doi:10.1016/j.ijer.2015.10.006 
+Trautwein, U. (2007). The homework – achievement relation reconsidered: Differentiating homework 
+time, homework frequency, and homework effort. Learning and Instruction, 17, 372-388. 
+doi:10.1016/j.learninstruc.2007.02.009 
+Pennings, H. J. M., Van Tartwijk, J., Wubbels, T., Claessens, C. A., Van der Want, A. C., & Brekel-
+mans, M. (2014). Real-time teacher-student interactions: A dynamic systems approach. Teaching 
+and Teacher Education, 37, 183-193. doi.org/10.1016/j.tate.2013.07.016 
+ 
+Online-Zeitschriften: 
+Decristan, J., Kunter, M., Fauth, B., Büttner, G., Hardy, I., & Hertel, S. (2016). What role does in-
+structional quality play for elementary school children’s science competence? A focus on students 
+at 
+risk. 
+Journal 
+of 
+Educational 
+Research 
+Online, 
+8(1), 
+66-89. 
+Retrieved 
+from 
+http://www.journalfuerbildungsforschung.de/index.php/jero/article/view/622 
+ 
+2d) Forschungsberichte 
+ 
+Hascher, T., & Furlan, N. (2013). Begabung und Gender im Kontext der MINT-Fächer – Förderungs-
+formen in der Lehrer/innen/bildung. Salzburg: Paris-Lodron Universität, Fachbereich Erziehungs-
+wissenschaft.  
+ 
+Zu beachten: Wenn die Institution den Namen der Stadt enthält, muss der Stadtname bei der Instititu-
+tion nicht nochmals angeführt werden (z.B. „Paris-Lodron Universität Salzburg“ – „Salzburg“ wäre an 
+dieser Stelle unnötig).  
+ 
+2e) Abschlussarbeiten: Diplomarbeiten, Dissertationen etc. 
+ 
+Reitbauer, E. (2012). „Es ist toll, aber anders.“ Der Übergang von der Volksschule in die Sekundar-
+stufe I. (Unveröffentlichte Dissertation). Paris-Lodron Universität Salzburg. 
+ 
+mit URL (Datenbank für Abschlussarbeiten): 
+Gartmeier, M. (2009). Fehlerfreundlichkeit im Arbeitskontext: Positive Einstellungen gegenüber Feh-
+lern und negatives Wissen als Ressourcen professionellen Handelns (Dissertation). Universität Re-
+gensburg. Verfügbar unter http://epub.uni-regensburg.de/9275/1/GARTMEIER.pdf 
+ 
+2f) Tagungsbeiträge 
+ 
+Gentrup, S., Lorenz, G., Rahmann, S., Stanat, P., Kristen, C., & Kogan, I. (2016, März). Selbsterfül-
+lende Prophezeiungen in der Grundschule – Effekte von Lehrererwartungen auf die Leistungsent-
+wicklung von Kindern. Beitrag präsentiert an der 4. Tagung der Gesellschaft für Empirische Bil-
+dungsforschung, Berlin, Deutschland. Abstract verfügbar unter 
+http://www.gebf2016.de/aktuelles/Einzelbeitraege_Abstracts_240216.pdf 
+ 
+Zu beachten: Das Präsentationsformat muss korrekt angegeben werden (Beitrag, Poster, Roundtab-
+le,...). Der Monat der Tagung wird zusätzlich berichtet. Wenn kein Abstract verfügbar ist und man 
+sich auf die Präsentation bezieht, kann der URL entfallen. Englisch: Paper presented at ... 
+ 
+2g) Online-Quellen 
+ 
+Steins, G. (n. d.). Evaluation eines Schulversuchs zum jahrgangsübergreifenden Unterricht der Albert-
+Schweitzer-Grundschule 
+in 
+Essen: 
+Ein 
+Bericht. 
+Verfügbar 
+unter 
+https://www.uni-
+due.de/biwigst/evaluationen/Gesamtbericht.pdf 
+ 
+
+
+=== PAGE 8 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+8 
+ 
+Zu beachten: Wenn kein Publikationsdatum angegeben ist, so wird das mit n. d. (no date) gekenn-
+zeichnet. 
+ 
+→ Für weitere Spezialfälle ist in den umfangreichen Richtlinien der APA nachzuschlagen (z.B. Tages-
+zeitung, Film, Übersetzungen, Rezensionen, mündliche Kommunikation,…). 
+ 
+ 
+Wichtige Abkürzungen 
+ 
+Begriff 
+Deutsch 
+Englisch 
+Kapitel 
+Kap. 
+chap. 
+Auflage 
+Aufl. 
+ed. 
+Überarbeitete Auflage 
+überarb. Aufl. 
+ 
+rev. ed. 
+Auflagenzahl 
+2. Aufl. 
+2nd ed. 
+Herausgeber 
+Hrsg. 
+Ed. / Eds. 
+Seite(n) 
+S. 
+p. / pp. 
+Band / Bände 
+Bd. / Bde. 
+Vol. / Vols. (Volume) 
+Nummer 
+Nr. 
+No. 
+Beiheft 
+Suppl. 
+Suppl. 
+Keine Jahreszahl 
+n. d. 
+n. d. 
+Publikation in Druck 
+in Druck 
+in press 
+URL 
+Verfügbar unter 
+Retrieved from  
+ 
+
+
+=== PAGE 9 ===
+Zitierrichtlinien: Universität Bern; Institut für Erziehungswissenschaft 
+Abteilung für Schul- und Unterrichtsforschung; Prof. Dr. Tina Hascher 
+9 
+ 
+Beispielhaftes Literaturverzeichnis: 
+ 
+Quelle 
+Publikationsorgan 
+Abel, M. H., & Sewell, J. (1999). Stress and burnout in rural and urban seconda-
+ry school teachers. The Journal of Educational Research, 92, 287-293. doi: 
+10.1080/00220679909597608 
+Cassidy, J., & Shaver, P. R. (Eds.). (2008). Handbook of attachment: theory, 
+research, and clinical applications. New York: Guilford.  
+Chang, M.-L. (2013). Toward a theoretical model to understand teacher emoti-
+ons and teacher burnout in the context of student misbehavior: Appraisal, re-
+gulation and coping. Motivation and Emotion, 37, 799-817. doi: 
+10.1007/s11031-012-9335-0 
+Chang, M.-L., & Davis, H. A. (2011). Understanding the role of teacher ap-
+praisals in shaping the dynamics of their relationships with students: De-
+constructing teachers’ judgments of disruptive behavior/students. In P. A. 
+Schutz, & M. Zembylas (Eds.), Advances in teacher emotion research (pp. 
+95-127). Heidelberg: Springer.  
+Day, C., & Gu, Q. (2014). Resilient teachers, resilient schools. Building and 
+sustaining quality in testing times. London: Routledge.  
+Fend, H. (1997). Der Umgang mit der Schule in der Adoleszenz. Aufbau und 
+Verlust von Lernmotivation, Selbstachtung und Empathie. Bern: Hans Huber.  
+Hascher, T. (2004). Wohlbefinden in der Schule. Münster: Waxmann. 
+Hascher, T. (2010). Learning and emotion: perspectives for theory and research. 
+European Research Journal, 9, 13-28. doi: 10.2304/eerj.2010.9.1.13 
+Hascher, T., & Hagenauer, G. (2011a). Schulisches Wohlbefinden im Jugendal-
+ter - Verläufe und Einflussfaktoren. In A. Ittel, H. Merkens, L. Stecher, & J. 
+Zinnecker (Hrsg.), Jahrbuch Jugendforschung 2010 (S. 15-45). Wiesbaden: 
+VS. 
+Hascher, T., & Hagenauer, G. (2011b). Wohlbefinden und Emotionen in der 
+Schule als zentrale Elemente des Schulerfolgs unter der Perspektive ge-
+schlechtsspezifischer Ungleichheiten. In A. Hadjar (Hrsg.), Geschlechtsspe-
+zifische Bildungsungleichheiten. Betrachtungen von Geschlechterunterschie-
+den im Bildungserfolg aus Sicht verschiedener sozialwissenschaftlicher Stu-
+dien (S. 285-308). Wiesbaden: VS. 
+Knollmann, M. (2006). Kontextspezifische Regulationsstile. Entwicklung eines 
+Fragebogens zur Emotionsregulation im Lernkontext „Mathematik“. Zeit-
+schrift für Pädagogische Psychologie, 20, 113-123.  
+Knollmann, M., & Wild, E. (2004). Schüleremotionen in schulischen und häus-
+lichen Lernkontexten. In T. Hascher (Hrsg.), Schule positiv erleben            
+(S. 67-87). Bern: Haupt. 
+Koch, K.-C. (2005). Peerbeziehungen im Grundschulalter. Eine soziometrische 
+Zeitwandelstudie im 25-jährigen Vergleich (Dissertation). Universität Biele-
+feld. Verfügbar unter http://bieson.ub.uni-bielefeld.de/volltexte/2005/768/  
+Mandl, H., & Reiserer, M. (2000): Kognitionstheoretische Ansätze. In J. H. 
+Otto, H. A. Euler, & H. Mandl (Hrsg.), Emotionspsychologie (S. 95-105). 
+Weinheim: Beltz. 
+Mortiboys, A. (2012). Teaching with emotional intelligence (2nd ed.). Oxon: 
+Routledge. 
+Zeitschrift (e) 
+ 
+ 
+Hrsg.-Werk (e) 
+ 
+Zeitschrift (e) 
+ 
+ 
+ 
+Beitrag in Hrsg.-
+Werk (e) 
+ 
+ 
+ 
+Monographie (e) 
+ 
+Monographie (d) 
+ 
+Dieselbe Autorin 
+/Autorinnen mit 
+mehreren Publika-
+tionen 
+(Illustration: Rei-
+hung der Quellen) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeitschrift (d) 
+ 
+ 
+Beitrag in Hrsg.-
+Werk (d) 
+ 
+Dissertation  
+(in Datenbank) 
+ 
+ 
+Beitrag in Hrsg.-
+Werk (d) 
+ 
+Monographie (e) 
+(mit Auflage) 
+ 
